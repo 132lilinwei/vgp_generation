@@ -1,0 +1,11 @@
+*.ipynb_checkpoints
+Flickr30kEntities/*
+!Flickr30kEntities/.gitkeep
+embeddings/*
+!embeddings/.gitkeep
+models/*
+!models/.gitkeep
+VGG/
+VGG_pooling/
+
+v2/haha/
