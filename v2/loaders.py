@@ -19,9 +19,185 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 from collections import defaultdict
 import time
+import json
 
 
 
+class EntitySupervisedDataset(Dataset):
+
+    def __init__(self, config, feature_folder, entity_caption_path, transform=None):
+        self.config = config
+        self.feature_folder = feature_folder
+        self.entity_caption_path = entity_caption_path
+        self.transform = transform
+        
+        
+        self.caption_names = [] # filename
+        self.entity_ids = []
+        self.desc_ids = []
+        self.captions = []
+        
+        with open(entity_caption_path) as f:
+            dataset = json.load(f)
+        for file_item in dataset:
+            filename = file_item['filename']
+            for entity_item in file_item['entities']:
+                entity_id = entity_item['phrase_id']
+                for desc_item in entity_item['entity_descs']:
+                    entity_desc_id = desc_item['entity_desc_id']
+                    raw = desc_item['entity_desc'] # actually not raw, it is after processed
+                    desc = desc_item['indexed']
+                    # here we add START and END
+                    desc = [int(self.config.start_idx)] + desc + [int(self.config.end_idx)]
+                    
+                    self.caption_names.append(filename)
+                    self.entity_ids.append(entity_id)
+                    self.desc_ids.append(entity_desc_id)
+                    self.captions.append(desc)
+
+            
+    def __len__(self):
+        return len(self.caption_names)
+
+    def __getitem__(self, idx):
+        filename = self.caption_names[idx]
+        entity_id = self.entity_ids[idx]
+        desc_id = self.desc_ids[idx]
+        caption = self.captions[idx]
+        image_feature = np.load(os.path.join(self.feature_folder, str(entity_id)+".npy"))
+        sample = {'image': torch.tensor(image_feature), "caption": torch.tensor(caption), \
+                    "caption_name": filename, "entity_id": entity_id, 'desc_id':desc_id}
+        return sample
+    
+def entity_supervised_collate_fn(batch, config):
+    """
+    This is the helper function for dataloader's collate_fn
+    :param batch: dict {'image': list; 'caption':list}
+        image: a list contains the image tensor 
+        caption: a list contains the caption tensor, padded with START and END
+    :return: final_batch: dict {'image': tensor, 'caption':tensor, 'length': tensor} sorted by caption length
+    """
+    # sorted_batch = sorted(batch, key=lambda x: x['caption'].shape[0], reverse=True)
+    image_list = [item['image'] for item in batch]
+    final_images = torch.stack(image_list)
+    
+    caption_list = [item['caption'] for item in batch]
+    caption_length = torch.tensor([len(item) for item in caption_list]).view(-1, 1)
+    final_captions = pad_sequence(caption_list, batch_first=True, padding_value=config.pad_idx)
+
+    caption_name_list = [item['caption_name'] for item in batch]
+    entity_id_list = [item['entity_id'] for item in batch]
+    desc_id_list = [item['desc_id'] for item in batch]
+    
+    final_batch = {}
+    final_batch['image'] = final_images
+    final_batch['caption'] = final_captions
+    final_batch['length'] = caption_length
+    final_batch['caption_name'] = caption_name_list
+    final_batch['entity_id'] = entity_id_list
+    final_batch['desc_id'] = desc_id_list
+    return final_batch
+
+class EntityDiscriminatorDataset(Dataset):
+
+    def __init__(self, config, feature_folder, caption_path, transform=None):
+        self.config = config
+        self.feature_folder = feature_folder
+        self.entity_caption_path = entity_caption_path
+        self.transform = transform
+        
+        
+        self.caption_names = [] # filename
+        self.entity_ids = []
+        self.desc_ids = []
+        self.captions = []
+    
+        
+        with open(entity_caption_path) as f:
+            dataset = json.load(f)
+        for file_item in dataset:
+            filename = file_item['filename']
+            for entity_item in file_item['entities']:
+                entity_id = entity_item['phrase_id']
+                for desc_item in entity_item['entity_descs']:
+                    entity_desc_id = desc_item['entity_desc_id']
+                    raw = desc_item['entity_desc'] # actually not raw, it is after processed
+                    desc = desc_item['indexed']
+                    # here we add START and END
+                    desc = [int(self.config.start_idx)] + desc + [int(self.config.end_idx)]
+                    
+                    self.caption_names.append(filename)
+                    self.entity_ids.append(entity_id)
+                    self.desc_ids.append(entity_desc_id)
+                    self.captions.append(desc)
+
+            
+    def __len__(self):
+        return len(self.caption_names)
+
+    def __getitem__(self, idx):
+        filename = self.caption_names[idx]
+        entity_id = self.entity_ids[idx]
+        desc_id = self.desc_ids[idx]
+        caption = self.captions[idx]
+        image_feature = np.load(os.path.join(self.feature_folder, str(entity_id)+".npy"))
+        
+        
+        while True:
+            rand = np.random.randint(0, len(self.caption_names))
+            if self.entity_ids[rand] == entity_id:
+                continue
+            wrong_caption = self.captions[rand]
+            break
+        sample = {'image': torch.tensor(image_feature), "caption": torch.tensor(caption), "wrong_caption":torch.tensor(wrong_caption), \
+                    "caption_name": filename, "entity_id": entity_id, "desc_id": desc_id, \
+                    "wrong_caption_name": self.caption_names[rand], "wrong_entity_id": self.entity_ids[rand], "wrong_desc_id":self.desc_ids[rand]}
+        return sample
+    
+def entity_discriminator_collate_fn(batch, config):
+    """
+    This is the helper function for dataloader's collate_fn
+    :param batch: dict {'image': list; 'caption':list}
+        image: a list contains the image tensor 
+        caption: a list contains the caption tensor, padded with START and END
+    :return: final_batch: dict {'image': tensor; 
+                                'caption':tensor; 
+                                'length': tensor;
+                                'wrong_caption': tensor; 
+                                'wrong_length':tensor; } sorted by caption length (not by wrong caption length)
+    """
+    # sorted_batch = sorted(batch, key=lambda x: x['caption'].shape[0], reverse=True)
+    image_list = [item['image'] for item in batch]
+    final_images = torch.stack(image_list)
+    
+    caption_list = [item['caption'] for item in batch]
+    caption_length = torch.tensor([len(item) for item in caption_list]).view(-1, 1)
+    final_captions = pad_sequence(caption_list, batch_first=True, padding_value=config.pad_idx)
+    
+    wrong_caption_list = [item['wrong_caption'] for item in batch]
+    wrong_caption_length = torch.tensor([len(item) for item in wrong_caption_list]).view(-1, 1)
+    final_wrong_captions = pad_sequence(wrong_caption_list, batch_first=True, padding_value=config.pad_idx)
+
+    caption_name_list = [item['caption_name'] for item in batch]
+    entity_id_list = [item['entity_id'] for item in batch]
+    desc_id_list = [item['desc_id'] for item in batch]
+    wrong_caption_name_list = [item['wrong_caption_name'] for item in batch]
+    wrong_entity_id_list = [item['wrong_entity_id'] for item in batch]
+    wrong_desc_id_list = [item['wrong_desc_id'] for item in batch]
+    
+    final_batch = {}
+    final_batch['image'] = final_images
+    final_batch['caption'] = final_captions
+    final_batch['length'] = caption_length
+    final_batch['wrong_caption'] = final_wrong_captions
+    final_batch['wrong_length'] = wrong_caption_length
+    final_batch['caption_name'] = caption_name_list
+    final_batch['entity_id'] = entity_id_list
+    final_batch['desc_id'] = desc_id_list
+    final_batch['wrong_caption_name'] = wrong_caption_name_list
+    final_batch['wrong_entity_id'] = wrong_entity_id_list
+    final_batch['wrong_desc_id'] = wrong_desc_id_list
+    return final_batch
 
             
 def read_captions(path):
@@ -163,6 +339,9 @@ def discriminator_collate_fn(batch, config):
     final_batch['caption_name'] = caption_name_list
     final_batch['sentid'] = sentid_list
     return final_batch
+
+
+
 
 
 

@@ -39,7 +39,7 @@ def eval_one_sent(model_generated_sent, target_sent):
 
 def eval_sent_list(model_sent_list, target_sent_list):
     """
-    Input is List[str], List[str]
+    Input is List[str], List[str]/List[List[str]] 
     
     One example:
     {'Bleu_1': 0.8333333327777782, 'Bleu_2': 0.7886751340033071, 'Bleu_3': 0.5000034663341466, 'Bleu_4': 0.015813524723354844, 'METEOR': 0.6910678648089302, 'ROUGE_L': 0.8333333333333333, 'CIDEr': 0.0}
@@ -47,11 +47,22 @@ def eval_sent_list(model_sent_list, target_sent_list):
     eval_model = NLGEval(no_glove=True, no_skipthoughts=True)
     res = {}
     for m_sent, t_sent in zip(model_sent_list, target_sent_list):
-        temp_res = eval_model.compute_individual_metrics(hyp=m_sent, ref=[t_sent])
+        t_sent = t_sent if type(t_sent) == list else [t_sent]
+        temp_res = eval_model.compute_individual_metrics(hyp=m_sent, ref=t_sent)
         for key in temp_res:
             res[key] = res.get(key, 0) + temp_res[key]
     for key in res:
         res[key] = res[key] / len(model_sent_list)
+    return res
+
+def eval_entity(final_dict):
+    model_generate = []
+    target = []
+    for entity_id in final_dict:
+        model_generate.append(final_dict[entity_id]['pred'][0])
+        target.append([d['entity'] for d in final_dict[entity_id]['target']])
+    res = eval_sent_list(model_generate, target)
+    print(res)
     return res
     
 if __name__ == '__main__':

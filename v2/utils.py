@@ -61,6 +61,25 @@ def write_to_json_file(sent_list, target_list, caption_name_list, sentid_list, f
         for sent, target, caption_name, sentid in zip(sent_list, target_list, caption_name_list, sentid_list):
             cur_dict = {'pred': sent, 'target': target, 'caption_name': caption_name, 'sentid': sentid}
             f.write(json.dumps(cur_dict) + '\n')
+            
+def write_entity_to_json_file(entity_list, target_list, caption_name_list, entityid_list, desc_id_list, filepath):
+    """
+    Each entityid maps to one dict {'caption_name': , 'entityid':, 'pred': [], 'target': [{'entity':, 'desc_id': }]}
+    """
+    final_dict = {}
+    for entity, target, caption, entityid, desc in zip(entity_list, target_list, caption_name_list, entityid_list, desc_id_list):
+        temp_dict = final_dict.get(entityid, {'caption_name': caption,
+                                             'entityid': entityid,
+                                             'pred': [], 'target': []})
+        temp_dict['pred'].append(entity)
+        temp_dict['pred'] = list(set(temp_dict['pred']))
+        temp_dict['target'].append({'entity': target, 'desc_id': desc})
+        final_dict[entityid] = temp_dict
+        
+    with open(filepath, 'w') as f:
+        for entityid in final_dict:
+            f.write(json.dumps(final_dict[entityid]) + '\n')
+    return final_dict
 
 # -------------------
 # Decode

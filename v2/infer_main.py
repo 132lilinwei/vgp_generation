@@ -33,9 +33,9 @@ def get_dataloader(conf):
     train_discriminator_loader = loaders.DataLoader(train_discriminator_data, batch_size=conf.discriminator_batch_size, shuffle=True, collate_fn=lambda batch: loaders.discriminator_collate_fn(batch, conf))
     
     val_supervised_data = loaders.SupervisedDataset(conf, feature_folder, val_caption_path)
-    val_supervised_loader = loaders.DataLoader(val_supervised_data, batch_size=conf.supervised_batch_size, shuffle=True, collate_fn=lambda batch: loaders.supervised_collate_fn(batch, conf))
+    val_supervised_loader = loaders.DataLoader(val_supervised_data, batch_size=conf.supervised_batch_size, shuffle=False, collate_fn=lambda batch: loaders.supervised_collate_fn(batch, conf))
     val_discriminator_data = loaders.DiscriminatorDataset(conf, feature_folder, val_caption_path)
-    val_discriminator_loader = loaders.DataLoader(val_discriminator_data, batch_size=conf.discriminator_batch_size, shuffle=True, collate_fn=lambda batch: loaders.discriminator_collate_fn(batch, conf))
+    val_discriminator_loader = loaders.DataLoader(val_discriminator_data, batch_size=conf.discriminator_batch_size, shuffle=False, collate_fn=lambda batch: loaders.discriminator_collate_fn(batch, conf))
 
     return train_supervised_loader, train_discriminator_loader, val_supervised_loader, val_discriminator_loader
 
@@ -75,11 +75,11 @@ def main():
     _, _, eval_supervised_loader, eval_discriminator_loader = get_dataloader(conf)
 
     # generate sentence
-#     sent_list, target_list, caption_name_list, sentid_list = infer.infer(conf, g_model, eval_supervised_loader, i2w)
-#     utils.write_to_files(sent_list, conf.generated_path)
-#     utils.write_to_files(target_list, 'target_'+conf.generated_path)
-#     utils.write_to_json_file(sent_list, target_list, caption_name_list, sentid_list, conf.generated_path[:-4]+'.json')
-#     metric_eval.eval_txt(conf.generated_path, 'target_'+conf.generated_path)
+    sent_list, target_list, caption_name_list, sentid_list = infer.infer(conf, g_model, eval_supervised_loader, i2w)
+    utils.write_to_files(sent_list, conf.generated_path)
+    utils.write_to_files(target_list, 'target_'+conf.generated_path)
+    utils.write_to_json_file(sent_list, target_list, caption_name_list, sentid_list, conf.generated_path[:-4]+'.json')
+    metric_eval.eval_txt(conf.generated_path, 'target_'+conf.generated_path)
 
     train.eval_d(conf, g_model, d_model, eval_discriminator_loader)
 

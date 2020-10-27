@@ -81,7 +81,7 @@ def main():
     train_supervised_loader, train_discriminator_loader, eval_supervised_loader, eval_discriminator_loader = get_dataloader(conf)
 
     # train model
-    train.train(conf, g_model, d_model, train_supervised_loader, train_discriminator_loader, eval_supervised_loader, eval_discriminator_loader, i2w)
+    train.train(conf, g_model, d_model, train_supervised_loader, train_discriminator_loader, eval_supervised_loader, eval_discriminator_loader)
 
 if __name__ == '__main__':
     main()
