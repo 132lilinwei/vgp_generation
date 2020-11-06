@@ -61,7 +61,7 @@ def entity_infer(config, g_model, dataloader, i2w):
             
            
             for oo in range(len(data['entity_id'])):
-                if int(data['entity_id'][oo]) == 224298:
+                if int(data['entity_id'][oo]) == 285101:
                     temp_list1.append(entity_feature[oo].detach().cpu().numpy())
                     temp_list2.append(np.stack([item.detach().cpu().numpy() for item in neighbor_feature_list[oo]]))
                     temp_list3.append(img_feature[oo].detach().cpu().numpy())
@@ -89,7 +89,6 @@ def entity_infer(config, g_model, dataloader, i2w):
         desc_id_list.extend(data['desc_id'])
     
     for i in range(1, len(temp_list1)):
-        
         assert (np.sum(temp_list1[i] != temp_list1[i-1]) == 0)
         assert (np.sum(temp_list2[i] != temp_list2[i-1]) == 0)
         assert (np.sum(temp_list3[i] != temp_list3[i-1]) == 0)

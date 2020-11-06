@@ -52,7 +52,7 @@ class MultiHeadAttention(nn.Module):
             .reshape(batch_size*num_heads, -1, dim_per_head)
 
         if attn_mask is not None:
-            attn_mask = attn_mask.repeat(num_heads, 1, 1)
+            attn_mask = attn_mask.unsqueeze(1).repeat(1, num_heads, 1, 1).view(batch_size*num_heads, 1, -1)
         # scaled dot product attention
         scale = (key.size(-1) // num_heads) ** -0.5
         context, attention = self.dot_product_attention(
