@@ -14,9 +14,10 @@ class myConfig(object):
     feature_folder = "../VGG"
     train_caption_path = "../caption/train_captions.txt"
     val_caption_path = "../caption/val_captions.txt"
+    test_caption_path = "../caption/test_captions.txt"
 
-    g_model_path = "../models/rl_with_supervised/gen_after_rl_epoch_2.pth"#"../models/third_train_fixed/g_after_supervised.pth" 
-    d_model_path = "../models/train_d_during_rl/discriminator_after_rl_epoch_16.pth" #"../models/third_train_fixed/d_after_supervised.pth" 
+    g_model_path = "../models/only_rl/gen_after_rl_epoch_0.pth"#"../models/third_train_fixed/g_after_supervised.pth" 
+    d_model_path = "../models/only_rl/discriminator_after_rl_epoch_0.pth" #../models/third_train_fixed/d_after_supervised.pth" 
     
     # To store the generated sentences
     generated_path = 'generated_sent.txt'
@@ -41,9 +42,12 @@ class myConfig(object):
     
     
     image_hidden = 4096 #25088
-
+    
+    ### Generator LSTM model ###
+    g_hidden_size = 256
+    
     ### Discriminator LSTM model ###
-    hidden_size = 128 # this is the same for generator
+    d_hidden_size = 256 # this is the same for generator
     lstm_num_layers = 1
     dropout = 0.2
 
@@ -70,7 +74,7 @@ class myConfig(object):
     k = 1   # beam-k search
 
     # others
-    device = torch.device('cuda:2' if torch.cuda.is_available() else 'cpu')
+    device = torch.device('cuda:3' if torch.cuda.is_available() else 'cpu')
 
     def set_optim(self, g_model, d_model):
         self.g_optim = optim.Adam(g_model.parameters(), self.g_lr)

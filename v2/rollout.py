@@ -81,11 +81,11 @@ def train_gd_with_rl(config, generator, discriminator, train_supervised_loader, 
                 total_loss += loss.item()
                 print("rl training, epoch{}, iter{}, batch{}/{}, batch loss:{}, Training time:{}".format(e, i, ct,len(train_supervised_loader), loss.item(), time.time()-start_time), flush=True)
                 
-                if (ct+1) % 100 == 0:
-                    print("_____train D during RL_____")
-                    train.train_d(config, generator, discriminator, train_discriminator_loader, eval_discriminator_loader, num_epoch=1, caller="rl_within")
-                    generator.train()
-                    discriminator.eval()
+#                 if (ct+1) % (100+e*10) == 0: #and torch.mean(rewards).item() > 0.3:
+#                     print("_____train D during RL_____", flush=True)
+#                     train.train_d(config, generator, discriminator, train_discriminator_loader, eval_discriminator_loader, num_epoch=1, caller="rl_within")
+#                     generator.train()
+#                     discriminator.eval()
 
 
                 if torch.mean(rewards).item() > 0.95:
@@ -103,6 +103,9 @@ def train_gd_with_rl(config, generator, discriminator, train_supervised_loader, 
         print("rl epoch {}, begin RL supervised for discriminator...".format(e), flush=True)
         train.train_d(config, generator, discriminator, train_discriminator_loader, eval_discriminator_loader, num_epoch=num_d_per_epoch, caller="rl")
         torch.save(discriminator.state_dict(), P_join(config.checkpoint_output, "discriminator_after_rl_epoch_"+str(e)+".pth"))
+        
+        config.g_scheduler.step()
+        config.d_scheduler.step()
       
 
 

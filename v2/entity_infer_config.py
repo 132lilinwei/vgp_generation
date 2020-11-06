@@ -15,8 +15,8 @@ class myConfig(object):
     train_caption_path = "../caption/entity_dataset_train.json"
     val_caption_path = "../caption/entity_dataset_val.json"
 
-    g_model_path = "../models/entity/g_supervised_epoch49.pth"#"../models/third_train_fixed/g_after_supervised.pth" 
-    d_model_path = "" #../models/third_train_fixed/d_after_supervised.pth" 
+    g_model_path = "../true_entity_rl/gen_after_rlandsuper_epoch_72.pth"#"../models/third_train_fixed/g_after_supervised.pth" 
+    d_model_path = "../models/entity_rl/discriminator_after_rl_epoch_9.pth" #../models/third_train_fixed/d_after_supervised.pth" 
     
     # To store the generated sentences
     generated_path = 'entity_generated_sent.txt'
@@ -45,7 +45,8 @@ class myConfig(object):
     image_hidden = 2048 #25088
 
     ### Discriminator LSTM model ###
-    hidden_size = 128 # this is the same for generator
+    g_hidden_size = 128 # this is the same for generator
+    d_hidden_size = 128
     lstm_num_layers = 1
     dropout = 0.2
 

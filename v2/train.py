@@ -194,6 +194,8 @@ def eval_d(config, g_model, d_model, eval_dataloader):
 
     with torch.no_grad():
         running_loss = 0
+        loss1 = 0
+        loss2 = 0
         start_time = time.time()
         for idx, data in enumerate(eval_dataloader):
             # TODO: the definition of dataloader is not defined
@@ -206,8 +208,9 @@ def eval_d(config, g_model, d_model, eval_dataloader):
             target_label = torch.ones(batch_size).to(config.device)
             pred_scores = d_model(img_feature, target_sent, target_sent_len)
 #             print('pred_scores:', pred_scores)
-            loss = config.d_crit(pred_scores, target_label)
-
+            temp = config.d_crit(pred_scores, target_label)
+            loss = temp
+            loss1 += temp.item()
             # Here is generated sent loss
             # pred_word_probs: [batch, seq_len-1, vocab], sampled_sent: [batch, seq_len], sampled_sent_len: [batch]
 #             pred_word_probs, sampled_sent, sampled_sent_len = g_model(img_feature)
@@ -219,12 +222,17 @@ def eval_d(config, g_model, d_model, eval_dataloader):
             wrong_target_label = torch.zeros(batch_size).to(config.device)
             wrong_pred_scores = d_model(img_feature, wrong_sent, wrong_sent_len)
 #             print('wrong_pred_scores:', wrong_pred_scores)
-            loss += config.d_crit(wrong_pred_scores, wrong_target_label)
+            temp = config.d_crit(wrong_pred_scores, wrong_target_label)
+            loss += temp
+            loss2 += temp.item()
 
             running_loss += loss.item()
         end_time = time.time()
         running_loss /= len(eval_dataloader)
+        loss1 /= len(eval_dataloader)
+        loss2 /= len(eval_dataloader)
         print('D Eval Loss:', running_loss, 'Time:', end_time - start_time, 's', flush=True)
+        print('D Eval: loss of true', loss1, 'loss of other', loss2, flush=True)
 
 def train(config, g_model, d_model, train_supervised_loader, train_discriminator_loader, eval_supervised_loader=None, eval_discriminator_loader = None):
     """
@@ -235,11 +243,11 @@ def train(config, g_model, d_model, train_supervised_loader, train_discriminator
     3. train g+d model with reinforce learning
     """
 
-    train_g(config, g_model, train_supervised_loader, eval_supervised_loader, config.g_train_epoch)
-    torch.save(g_model.state_dict(), P_join(config.checkpoint_output, "epoch_g_after_supervised.pth"))
+#     train_g(config, g_model, train_supervised_loader, eval_supervised_loader, config.g_train_epoch)
+#     torch.save(g_model.state_dict(), P_join(config.checkpoint_output, "g_after_supervised.pth"))
 
-    train_d(config, g_model, d_model, train_discriminator_loader, eval_discriminator_loader, config.d_train_epoch)
-    torch.save(d_model.state_dict(), P_join(config.checkpoint_output, "epoch_d_after_supervised.pth"))
+#     train_d(config, g_model, d_model, train_discriminator_loader, eval_discriminator_loader, config.d_train_epoch)
+#     torch.save(d_model.state_dict(), P_join(config.checkpoint_output, "d_after_supervised.pth"))
 
     config.set_optim(g_model, d_model)
         

@@ -32,14 +32,14 @@ def get_dataloader(conf):
 
 
     train_supervised_data = loaders.EntitySupervisedDataset(conf, feature_folder, train_caption_path)
-    train_supervised_loader = loaders.DataLoader(train_supervised_data, batch_size=conf.supervised_batch_size, shuffle=True, collate_fn=lambda batch: loaders.entity_supervised_collate_fn(batch, conf))
+    train_supervised_loader = loaders.DataLoader(train_supervised_data, batch_size=conf.supervised_batch_size, num_workers=8, shuffle=True, collate_fn=lambda batch: loaders.entity_supervised_collate_fn(batch, conf))
     train_discriminator_data = loaders.EntityDiscriminatorDataset(conf, feature_folder, train_caption_path)
-    train_discriminator_loader = loaders.DataLoader(train_discriminator_data, batch_size=conf.discriminator_batch_size, shuffle=True, collate_fn=lambda batch: loaders.entity_discriminator_collate_fn(batch, conf))
+    train_discriminator_loader = loaders.DataLoader(train_discriminator_data, batch_size=conf.discriminator_batch_size, num_workers=8, shuffle=True, collate_fn=lambda batch: loaders.entity_discriminator_collate_fn(batch, conf))
     
     val_supervised_data = loaders.EntitySupervisedDataset(conf, feature_folder, val_caption_path)
-    val_supervised_loader = loaders.DataLoader(val_supervised_data, batch_size=conf.supervised_batch_size, shuffle=True, collate_fn=lambda batch: loaders.entity_supervised_collate_fn(batch, conf))
+    val_supervised_loader = loaders.DataLoader(val_supervised_data, batch_size=conf.supervised_batch_size, num_workers=8, shuffle=True, collate_fn=lambda batch: loaders.entity_supervised_collate_fn(batch, conf))
     val_discriminator_data = loaders.EntityDiscriminatorDataset(conf, feature_folder, val_caption_path)
-    val_discriminator_loader = loaders.DataLoader(val_discriminator_data, batch_size=conf.discriminator_batch_size, shuffle=True, collate_fn=lambda batch: loaders.entity_discriminator_collate_fn(batch, conf))
+    val_discriminator_loader = loaders.DataLoader(val_discriminator_data, batch_size=conf.discriminator_batch_size, num_workers=8, shuffle=True, collate_fn=lambda batch: loaders.entity_discriminator_collate_fn(batch, conf))
 
     return train_supervised_loader, train_discriminator_loader, val_supervised_loader, val_discriminator_loader
 

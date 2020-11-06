@@ -12,7 +12,7 @@ class generator(nn.Module):
         if word_embed is not None:
             self.embedding.from_pretrained(torch.FloatTensor(word_embed), freeze=False)
 
-        self.lstm_cell = nn.LSTMCell(config.embed_size, config.hidden_size, bias=True)
+        self.lstm_cell = nn.LSTMCell(config.embed_size, config.g_hidden_size, bias=True)
         
         # used for multinomial sampling
         self.softmax = nn.Softmax(dim=1)
@@ -23,7 +23,7 @@ class generator(nn.Module):
 
         # convert lstm hidden to predicted vocab
         self.output_dropout = nn.Dropout(config.dropout)
-        self.output_linear = nn.Linear(config.hidden_size, config.vocab_size)
+        self.output_linear = nn.Linear(config.g_hidden_size, config.vocab_size)
 
     def forward(self, img_feature, target_sent=None, target_sent_len=None, fix_seq_len=-1):
         """

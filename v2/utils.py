@@ -57,10 +57,23 @@ def write_to_files(sents, filepath):
             f.write(sent + '\n')
             
 def write_to_json_file(sent_list, target_list, caption_name_list, sentid_list, filepath):
+    """
+    Each caption maps to one dict: {'caption_name': str, 'pred': [], 'target': ['sent': str, 'sent_id': str]}
+    """
+    final_dict = {}
+    for sent, target, caption_name, sentid in zip(sent_list, target_list, caption_name_list, sentid_list):
+        temp_dict = final_dict.get(caption_name, {'caption_name': caption_name,
+                                                 'pred': [], 'target': []})
+        
+        temp_dict['pred'].append(sent)
+        temp_dict['pred'] = list(set(temp_dict['pred']))
+        temp_dict['target'].append({'sent': target, 'sent_id': sentid})
+        final_dict[caption_name] = temp_dict
     with open(filepath, 'w') as f:
         for sent, target, caption_name, sentid in zip(sent_list, target_list, caption_name_list, sentid_list):
             cur_dict = {'pred': sent, 'target': target, 'caption_name': caption_name, 'sentid': sentid}
             f.write(json.dumps(cur_dict) + '\n')
+    return final_dict
             
 def write_entity_to_json_file(entity_list, target_list, caption_name_list, entityid_list, desc_id_list, filepath):
     """

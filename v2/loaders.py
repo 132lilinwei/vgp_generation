@@ -100,7 +100,7 @@ def entity_supervised_collate_fn(batch, config):
 
 class EntityDiscriminatorDataset(Dataset):
 
-    def __init__(self, config, feature_folder, caption_path, transform=None):
+    def __init__(self, config, feature_folder, entity_caption_path, transform=None):
         self.config = config
         self.feature_folder = feature_folder
         self.entity_caption_path = entity_caption_path

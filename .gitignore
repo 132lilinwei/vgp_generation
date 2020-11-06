@@ -8,4 +8,11 @@ models/*
 VGG/
 VGG_pooling/
 Entity_Resnet152/
+Image_Resnet152/
+VGG.zip
+Entity_Resnet152.zip
 v2/haha/
+v3/test/
+v4_for_d/new_d/
+v4_for_d/one_input/
+*log_*

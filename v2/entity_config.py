@@ -45,7 +45,8 @@ class myConfig(object):
     image_hidden = 2048 #25088
 
     ### Discriminator LSTM model ###
-    hidden_size = 128 # this is the same for generator
+    g_hidden_size = 128 # this is the same for generator
+    d_hidden_size = 128
     lstm_num_layers = 1
     dropout = 0.2
 
@@ -53,7 +54,7 @@ class myConfig(object):
     max_sequence = 15
 
     ### training epochs ###
-    g_train_epoch = 50
+    g_train_epoch = 5
     d_train_epoch = 15
     rl_epoch = 1000 # for each rl epoch, we train rl for n_g_rl_epoch and discriminator once
     num_rl_per_epoch = 1

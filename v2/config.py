@@ -1,5 +1,6 @@
 import torch
 import torch.optim as optim
+from torch.optim.lr_scheduler import StepLR
 
 class myConfig(object):
 
@@ -15,8 +16,8 @@ class myConfig(object):
     train_caption_path = "../caption/train_captions.txt"
     val_caption_path = "../caption/val_captions.txt"
 
-    g_model_path = "../models/rl_with_supervised/gen_after_rl_epoch_0.pth"#"../models/third_train_fixed/g_after_supervised.pth" 
-    d_model_path = "../models/train_d_during_rl/discriminator_after_rl_epoch_1.pth" #../models/third_train_fixed/d_after_supervised.pth" 
+    g_model_path = "../models/only_rl/gen_after_rl_epoch_0.pth"#"../models/third_train_fixed/g_after_supervised.pth" 
+    d_model_path = "../models/only_rl/discriminator_after_rl_epoch_0.pth" #../models/third_train_fixed/d_after_supervised.pth" 
     
     # To store the generated sentences
     generated_path = 'generated_sent.txt'
@@ -44,8 +45,11 @@ class myConfig(object):
     
     image_hidden = 4096 #25088
 
+    ### Generator LSTM model ###
+    g_hidden_size = 256 
+
     ### Discriminator LSTM model ###
-    hidden_size = 128 # this is the same for generator
+    d_hidden_size = 256 
     lstm_num_layers = 1
     dropout = 0.2
 
@@ -56,14 +60,14 @@ class myConfig(object):
     g_train_epoch = 5
     d_train_epoch = 15
     rl_epoch = 1000 # for each rl epoch, we train rl for n_g_rl_epoch and discriminator once
-    num_rl_per_epoch = 1
+    num_rl_per_epoch = 10
     num_d_per_epoch = 1
     rollout_num = 4
 
     ### loss and optim ###
     g_crit = torch.nn.CrossEntropyLoss(reduction='none')    # easier to process for mask
     d_crit = torch.nn.BCELoss()
-    g_lr = 0.001 # 0.001
+    g_lr = 0.001 
     d_lr = 0.001
 
     
@@ -72,8 +76,14 @@ class myConfig(object):
     k = 1   # beam-k search
 
     # others
-    device = torch.device('cuda:6' if torch.cuda.is_available() else 'cpu')
+    device = torch.device('cuda:3' if torch.cuda.is_available() else 'cpu')
 
     def set_optim(self, g_model, d_model):
         self.g_optim = optim.Adam(g_model.parameters(), self.g_lr)
         self.d_optim = optim.Adam(d_model.parameters(), self.d_lr)
+        self.g_scheduler = StepLR(self.g_optim, step_size=5, gamma=0.8)
+        self.d_scheduler = StepLR(self.d_optim, step_size=5, gamma=0.8)
+
+
+
+

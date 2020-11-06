@@ -24,7 +24,7 @@ def get_dataloader(conf):
     feature_folder = conf.feature_folder
     train_caption_path = conf.train_caption_path
     val_caption_path = conf.val_caption_path
-   
+    test_caption_path = conf.test_caption_path
 
 
     train_supervised_data = loaders.SupervisedDataset(conf, feature_folder, train_caption_path)
@@ -36,8 +36,13 @@ def get_dataloader(conf):
     val_supervised_loader = loaders.DataLoader(val_supervised_data, batch_size=conf.supervised_batch_size, shuffle=False, collate_fn=lambda batch: loaders.supervised_collate_fn(batch, conf))
     val_discriminator_data = loaders.DiscriminatorDataset(conf, feature_folder, val_caption_path)
     val_discriminator_loader = loaders.DataLoader(val_discriminator_data, batch_size=conf.discriminator_batch_size, shuffle=False, collate_fn=lambda batch: loaders.discriminator_collate_fn(batch, conf))
+    
+    test_supervised_data = loaders.SupervisedDataset(conf, feature_folder, test_caption_path)
+    test_supervised_loader = loaders.DataLoader(test_supervised_data, batch_size=conf.supervised_batch_size, shuffle=False, collate_fn=lambda batch: loaders.supervised_collate_fn(batch, conf))
+    test_discriminator_data = loaders.DiscriminatorDataset(conf, feature_folder, test_caption_path)
+    test_discriminator_loader = loaders.DataLoader(test_discriminator_data, batch_size=conf.discriminator_batch_size, shuffle=False, collate_fn=lambda batch: loaders.discriminator_collate_fn(batch, conf))
 
-    return train_supervised_loader, train_discriminator_loader, val_supervised_loader, val_discriminator_loader
+    return train_supervised_loader, train_discriminator_loader, val_supervised_loader, val_discriminator_loader, test_supervised_loader, test_discriminator_loader
 
 def main():
     # Initialize the config and model
@@ -72,16 +77,17 @@ def main():
     print("Using device", conf.device, flush=True)
     
     # set up dataloader
-    _, _, eval_supervised_loader, eval_discriminator_loader = get_dataloader(conf)
+    _, _, eval_supervised_loader, eval_discriminator_loader, test_supervised_loader, test_discriminator_loader = get_dataloader(conf)
 
     # generate sentence
-    sent_list, target_list, caption_name_list, sentid_list = infer.infer(conf, g_model, eval_supervised_loader, i2w)
+    sent_list, target_list, caption_name_list, sentid_list = infer.infer(conf, g_model, test_supervised_loader, i2w)
     utils.write_to_files(sent_list, conf.generated_path)
     utils.write_to_files(target_list, 'target_'+conf.generated_path)
-    utils.write_to_json_file(sent_list, target_list, caption_name_list, sentid_list, conf.generated_path[:-4]+'.json')
+    final_dict = utils.write_to_json_file(sent_list, target_list, caption_name_list, sentid_list, conf.generated_path[:-4]+'.json')
     metric_eval.eval_txt(conf.generated_path, 'target_'+conf.generated_path)
+    metric_eval.eval_caption(final_dict)
 
-    train.eval_d(conf, g_model, d_model, eval_discriminator_loader)
+    train.eval_d(conf, g_model, d_model, test_discriminator_loader)
 
 if __name__ == '__main__':
     main()
