@@ -52,8 +52,8 @@ class EntityAttnSupervisedDataset(Dataset):
             for entity_item in file_item['entities']:
                 entity_id = entity_item['phrase_id']
                 for desc_item in entity_item['entity_descs']:
-                    if desc_item['tf_idf_level'] != 0:
-                        continue
+                    # if desc_item['tf_idf_level'] != 0:
+                    #     continue
                     entity_desc_id = desc_item['entity_desc_id']
                     raw = desc_item['entity_desc'] # actually not raw, it is after processed
                     desc = desc_item['indexed']
@@ -160,8 +160,8 @@ class EntityAttnDiscriminatorDataset(Dataset):
             for entity_item in file_item['entities']:
                 entity_id = entity_item['phrase_id']
                 for desc_item in entity_item['entity_descs']:
-                    if desc_item['tf_idf_level'] != 0:
-                        continue
+                    # if desc_item['tf_idf_level'] != 0:
+                    #     continue
                     entity_desc_id = desc_item['entity_desc_id']
                     raw = desc_item['entity_desc'] # actually not raw, it is after processed
                     desc = desc_item['indexed']

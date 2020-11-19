@@ -272,8 +272,8 @@ class generator(nn.Module):
         atten_mask = atten_mask.unsqueeze(1)
 
         # generate attended_neighbor feature
-        attend_neighbor_feature, attention = self.atten_layer(k=neighbor_feature, v=neighbor_feature,
-                                                   q=entity_feature.view(batch_size, 1, img_hidden),
+        attend_neighbor_feature, attention = self.atten_layer(key=neighbor_feature, value=neighbor_feature,
+                                                   query=entity_feature.view(batch_size, 1, img_hidden),
                                                    attn_mask=atten_mask)    # [batch, 1, img_hidden]
         
 #         attend_neighbor_feature, _ = self.atten_layer2(h=entity_feature, context=neighbor_feature, mask=atten_mask, output_tilde=False)
@@ -282,13 +282,13 @@ class generator(nn.Module):
         attend_neighbor_feature = attend_neighbor_feature.view(batch_size, img_hidden)
         final_feature = torch.cat([entity_feature, attend_neighbor_feature, img_feature], dim=-1)   # [batch, 3 * img_hidden]
         
-        temp = []
-        for oo in range(len(eid)):
-            if int(eid[oo]) == 285101:
-                temp.append(final_feature[oo])
-                print("found attn")
-        if len(temp) > 0:
-            print(torch.sum(temp[0][:2048] != temp[1][:2048]))
-            print(torch.sum(temp[0][2048:4096] != temp[1][2048:4096]))
-            print(torch.sum(temp[0][4096:] != temp[1][4096:]))
+        #temp = []
+        #for oo in range(len(eid)):
+        #    if int(eid[oo]) == 285101:
+        #        temp.append(final_feature[oo])
+        #        print("found attn")
+        #if len(temp) > 0:
+        #    print(torch.sum(temp[0][:2048] != temp[1][:2048]))
+        #    print(torch.sum(temp[0][2048:4096] != temp[1][2048:4096]))
+        #    print(torch.sum(temp[0][4096:] != temp[1][4096:]))
         return final_feature

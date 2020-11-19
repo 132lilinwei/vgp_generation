@@ -16,8 +16,8 @@ class myConfig(object):
     train_caption_path = "../caption/entity_dataset_train.json"
     val_caption_path = "../caption/entity_dataset_val.json"
 
-    g_model_path = "new_d/gen_after_rl_epoch_100.pth"#"../models/entity_attn_only_supervised/g_after_supervised.pth" 
-    d_model_path = "new_d/discriminator_after_rl_epoch_100.pth" #../models/third_train_fixed/d_after_supervised.pth" 
+    g_model_path = "one_input/gen_after_rlandsuper_epoch_73.pth"#"../models/entity_attn_only_supervised/g_after_supervised.pth" 
+    d_model_path = "" #../models/third_train_fixed/d_after_supervised.pth" 
     
     # To store the generated sentences
     generated_path = 'entity_generated_sent.txt'
@@ -80,7 +80,7 @@ class myConfig(object):
     k = 1   # beam-k search
 
     # others
-    device = torch.device('cuda:2' if torch.cuda.is_available() else 'cpu')
+    device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 #     device = torch.device('cpu')
 
     def set_optim(self, g_model, d_model):

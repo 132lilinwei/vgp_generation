@@ -2,72 +2,72 @@ a man
 a man
 a man
 a man
-a large wooden structure
-a wooden structure
+a large stone structure
+a large rock
 a couch
 a couch
 a couch
 a couch
 a couch
 a couch
-a red shirt
+red hair
 a couch
 a couch
-a chair
-a young woman
-a young woman
-a young man
-a young woman
-a black shirt
-a black hat
-the ocean
-the ocean
-the ocean
-the ocean
-the ocean
-a bag
-a bag
+a couch
+a woman
+a woman
+a woman
+a woman
+a striped shirt
+sunglasses
+the water
+the water
+the water
+the water
+the water
+a blue shirt
+a blue shirt
 a man
 a man
-a man
-a yellow shirt
-a yellow shirt
-a yellow shirt
-a yellow shirt
-a green shirt
+a blue jacket
+a red jacket
+a red kayak
+a red jacket
+a red jacket
+a blue jacket
+a river
+a river
+a river
+a blue raft
 a boat
-a boat
-a boat
-a green boat
-a boat
 a man
 a man
 a man
 a man
-a red and black striped shirt
 a red jacket
 a red jacket
 a red jacket
-a book
-a book
-a book
-the sidewalk
-a rocky path
-a rocky path
-a rocky path
-a rocky path
-a lake
-a lake
-a brown dog
+a red jacket
+a blue bag
+a blue bag
+a blue and white striped bag
+a sidewalk
+the snow
+the snow
+the snow
+the snow
+a rock
+a rock
 a dog
 a dog
+a dog
 a man
 a man
 a man
 a man
 a man
-a black shirt
-a black shirt
+a blue shirt
+a blue shirt
 a pole
 a pole
 a ball
@@ -75,80 +75,80 @@ a ball
 a ball
 a ball
 a ball
-a woman
-a woman
-a woman
-a UNK
-a UNK
+a man
+a man
+a man
 a beard
-a table
-a table
-a table
+a beard
+a beard
+a classroom
+a classroom
+a classroom
 a woman
 a woman
 a woman
 a woman
-a pink shirt
-a pink shirt
+a white shirt
+a white shirt
+a dirt bike
+a dirt bike
 a bike
-a bike
-a bike
-a young boy
-a young boy
-a young boy
-a young boy
-a yellow shirt
+a man
+a man
+a man
+a man
+a blue shirt
 a rock
 a rock
 a rock
 a rock
 a rock
-a green and yellow plane
-a plane
-a green and yellow plane
-a green and yellow plane
-a green and white parachute
-a field
-a field
-a field
-a field
+a yellow jacket
+a yellow jacket
+a yellow jacket
+a yellow jacket
+a yellow jacket
+a red motorcycle
+a red motorcycle
+a red motorcycle
+a green field
 a man
 a man
 a blue bucket
 a blue bucket
 a blue bucket
 a blue bucket
-the sidewalk
+a blue mat
 a woman
 a woman
 a woman
-a white apron
-a white apron
-a white apron
-a large amount of flowers
-a large amount of flowers
-a large amount of flowers
-a large bag of trash
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
+a plaid shirt
+a plaid shirt
+a plaid shirt
+a christmas tree
+a christmas tree
+a christmas tree
+a cart
 a man
 a man
 a man
-a white bag
-a person
-a person
-a person
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a flag
+a man
+a man
+a man
 a field
 a field
 a field
 a field
 a field
-a forest
+a tree
 a man
 a man
 a man
@@ -157,59 +157,59 @@ a man
 a sidewalk
 a sidewalk
 a wall
-a bicycle
-a bicycle
-a chair
-a blue hat
-a blue hat
-a chair
-a chair
-a chair
-a chair
-a tree
-a tree
-a tree
-a large tree
-a large tree
-a woman
-a woman
-a woman
-a woman
-a cane
-a table
+a bike
+a bike
+jeans
 a hat
 a hat
-a table
-a table
+a chair
+a chair
+a chair
+a chair
+a large building
+a large building
+a large building
+a large building
+a large building
 a woman
-a toy
-a toy
+a woman
+a woman
+a woman
+a chair
+a woman
+a red hat
+a red hat
+a couch
+a couch
+a woman
+a red cup
+a bottle
 a man
 his face
-a UNK
-a funny face
-a crowd
-a crowd
-a crowd
+a cellphone
+a ponytail
 a man
 a man
-a hand
-a hand
-a microphone
-a microphone
-a drink
+a man
+a man
+a man
+her finger
+her finger
+her hand
+her cellphone
+a meal
 a man
 a man
 a woman
 a woman
-a large tree
-a large tree
-a large tree
-a large tree
-a UNK
+a fence
+a fence
+a fence
+a fence
+UNK
+a woman
 a girl
-a girl
-a girl
+a woman
 a black hat
 a black hat
 a pink shirt
@@ -218,76 +218,76 @@ pink pants
 pink pants
 pink pants
 pink pants
-a red and black mat
-a red skirt
-a brick wall
+black pants
+his shoes
+a pole
 a building
 a building
-a sign
-a red and black striped shirt
-a blue dress
+a UNK
+red pants
+black pants
 a woman
+a street
+a street
+a green bench
+a green bench
+a hat
+a table
+a meal
+a meal
+a meal
+a meal
 a woman
 a man
 a man
 a man
-a blue hat
-a blue apron
-a drink
-a drink
-a drink
-a drink
-a woman
-a man
-a man
-a man
-a grill
-a sidewalk
-a sidewalk
-a sidewalk
-a man
-a man
-a white hard hat
-a blue hat
-a blue hat
-a grassy field
-a grassy field
-a grassy field
-a red collar
-a toy
-a toy
-a baby
-a baby
-a baby
-a baby
-a baby
-a baby
-a baby
-a baby
-a baby
-a man
-a rock
-a man
-a man
-a yellow and white bird
-a yellow and white bird
-a yellow and white bird
-a yellow object
-the ocean
-the water
-a man
-a man
-a dirt road
-a dirt road
-a dirt road
-a dirt road
-a dirt road
-a tractor
-a dirt track
-a tractor
-a tractor
-a dirt road
+a train
+a train
 a construction site
+a construction site
+a man
+a man
+a white shirt
+a hard hat
+a hard hat
+a brown dog
+a brown dog
+a brown dog
+a stick
+a stick
+a stick
+a baby
+a baby
+a baby
+a baby
+a child
+a child
+a child
+a child
+a child
+a man
+a tree
+a man
+a man
+a man
+a man
+a man
+a yellow flag
+the water
+a river
+a man
+a beach
+a dirt road
+a dirt road
+a dirt road
+a dirt road
+a dirt road
+a dirt road
+a dirt road
+a tractor
+a tractor
+a dirt bike
+a race car
 a dirt road
 a girl
 a girl
@@ -295,247 +295,247 @@ a girl
 a girl
 black shorts
 a blue shirt
-a dirt path
-the grass
-a red and white striped ball
-a black skirt
-a black skirt
-a young girl
-a bat
+a field
+a field
+red and yellow stripes
+a girl
+a girl
+a woman
+a pole
 a sidewalk
 a sidewalk
 a man
 a man
 a man
-a stage
-a chair
-a chair
-a young girl
-a young girl
-a young girl
-a young girl
-a young girl
+the floor
+a bench
+a wooden floor
+a baby
+a baby
+a baby
+a child
+a baby
 a white shirt
 a fence
 a fence
-a black shirt
-a black shirt
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a wooden fence
-a black hat
-a red headband
-a wooden bench
-a wooden bench
-a wooden fence
-a wooden fence
-a man
-a microphone
+a pole
+a pole
 a man
 a man
+a red shirt
+a red shirt
+a red shirt
+red
+a building
+her hand
+her hand
+a building
+a building
+a building
+a building
+a man
+a pole
 a man
 a man
 a man
 a man
 a man
-a black bag
-a bag
-a woman
-a woman
-a woman
-a large building
-a large building
-a large building
+a man
+a man
+black pants
+jeans
+a man
+a man
+a man
+a building
+a building
+a building
 a man
 a backpack
-a newspaper
-a newspaper
+a white shirt
+a white shirt
 a black jacket
-a black jacket
-a dog
-a dog
-a dog
-a dog
-a lake
-a lake
 a man
-a man
-a man
-a man
+a brown dog
+a brown dog
+a brown dog
+a brown dog
+the grass
+the grass
+a young girl
+a young girl
+a young girl
+a young girl
 a young boy
 a blue shirt
 a blue shirt
-a yellow slide
+a yellow parachute
 sunglasses
 sunglasses
-a large green bucket
-a blond hair
+a UNK
+a face
+a woman
+a woman
 a blue jacket
 a blue jacket
-a red shirt
-a red shirt
-a bench
-a bench
-a bench
-a bench
-a bench
-a rail
-a rail
-a rail
-a fence
-a tree
-a tree
+a sidewalk
+a sidewalk
+a sidewalk
+a sidewalk
+a sidewalk
+a sidewalk
+a sidewalk
+a sidewalk
+a house
+a house
+a house
 a sidewalk
 a man
 a man
 a man
-a blue ball
-a blue ball
-a bench
-a bench
-a blue shirt
-a band
+a ball
+a ball
+a bowling alley
+a bowling alley
+a white shirt
 a man
 a man
 a man
-a stick
+a man
+his hand
 a dog
 a dog
 a dog
 a dog
-a stick
+a boat
 the water
 the water
 the water
-a sandy area
-a red car
-a red car
-a red car
-a red car
-a red and white sign
-a red and white sign
+a field
+a red and white vehicle
+a red and white vehicle
+a red and white vehicle
+a red and white vehicle
+a UNK
+a red and white and yellow race car
 a man
 a man
 a man
-a blue shirt
-a sign
-a white star
-a little girl
-a little girl
-a little girl
-a little girl
-a large beard
-a large beard
-a large beard
-a beach
-a beach
-a beach
-a beach
-black shorts
-a man
-a piece of paper
-a piece of paper
-a drink
-a plate of food
-a red tray
-a drink
-a red and white outfit
-a red and white outfit
-a red and white outfit
-a red and white outfit
-a red and white outfit
-a large colorful flower
-a large colorful flower
-a large colorful flower
-a large green plant
-a large colorful flower
-a large bubble
-a blue shirt
-a man
-a black dog
-a black dog
-a puddle
-a puddle
-a puddle
-a puddle
-a puddle
-a stick
-a stick
-a dog
-a dog
-a black and white dog
-a large stone
-a person
-a man
-a man
-a black purse
-a river
-a river
-a river
-a canoe
-a canoe
-a tree
-a red shirt
-a red shirt
+blue
+a number
+a white and yellow shirt
+a woman
 a black shirt
-a red jacket
+a black shirt
+a black shirt
+a ball
+a ball
+a ball
+the water
+the water
+the water
+the water
+a black shirt
+a woman
+a table
+a table
+a cup
+a pink bowl
+a pink flower
+a cup
+a fence
+a fence
+a fence
+a fence
+a fence
+a red and white fence
+a large red and white fence
+a red and white fence
+a red and white fence
+a red and white fence
+a red and white fence
+a man
+a man
+a dog
+a dog
+a rock
+a rock
+a rock
+a rock
+a rock
+his hand
+his hand
+a dog
+a dog
+a dog
+a wall
+a man
+a man
+a man
+a paddle
+a river
+a river
+a river
+a surfboard
+a surfboard
+a wooded area
 a woman
 a woman
-a cane
-a ponytail
-the sidewalk
+a red and white striped shirt
+a pink jacket
 a woman
-a group of people
-a group of people
-a group of people
 a woman
-a group of people
-a group of people
-a group of people
-a group of people
-a pink shirt
+a tattoo
+a hat
+the side of a bridge
+a bench
+a stroller
+a stroller
+a stroller
+a bench
+a cart
+a cart
+a cart
+a cart
+a blue bag
 a red hat
 a blue sky
 a blue sky
 a blue sky
-a yellow and white flag
-a yellow and white flag
-a yellow and white flag
-a yellow and white flag
-a yellow and white flag
-a yellow and white flag
-a yellow and white flag
-a beach
-a young girl
-a young girl
+a volleyball
+a volleyball
+a volleyball
+a volleyball
+a volleyball
+a volleyball
+a volleyball
+the sand
 a woman
-a white shirt
-a white shirt
-a book
-a book
-a book
+a woman
+a woman
+a white jacket
+a white jacket
+a chair
+a table
+a table
 long hair
-a piece of paper
-a piece of paper
-a drink
 a UNK
 a UNK
-a woman
-a woman
+a spoon
+glasses
+glasses
+a baby
+a baby
 a man
 a man
 a man
 brown hair
-a white shirt
-a white shirt
-a white shirt
-a white shirt
-a piece of paper
-a guitar
+a striped shirt
+a striped shirt
+a striped shirt
+a striped shirt
+a microscope
+a microscope
 a hammer
 a meal
 a meal
@@ -543,132 +543,132 @@ a meal
 a man
 a man
 a man
-a gray suit
-a black suit
-a black suit
-a microphone
-a microphone
-a mustache
+a man
+a man
+a man
+a hand
+a hand
+glasses
 a mustache
 glasses
-his hand
-a black shirt
-a surfer
-a surfer
-a surfer
-a surfer
-a wetsuit
-a surfer
-a surfer
-a surfer
-a surfer
+a book
+a blue tie
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
 a chair
 a chair
 a chair
-a pink skirt
-a pink purse
+a red bag
+a red purse
 a blue shirt
 a blue shirt
 a man
 a striped shirt
-a red and white sail
-a red and white sail
-a red and white sail
+a red and white parachute
+a red and white parachute
+a red and white parachute
 a large ship
 a large ship
 a large ship
 a large ship
 a large ship
-a red and green UNK
-a red and white painted tent
-a red and white sail
-a girl
-a girl
-a girl
+a pink and white sun
+a pink and white sun
+a red and white flag
+a man
+a man
+a man
 a white shirt
+a ball
+a ball
+a tree
+a tree
+a tree
 a rope
-a rope
-a tree
-a tree
-a tree
-a tree
+a man
+a man
 a yellow shirt
-a yellow shirt
-a yellow shirt
-a white hard hat
-a large machine
-a bucket
-a large machine
-a large machine
-a UNK
-a truck
-a truck
-a truck
-a truck
-a window
-a window
-a window
-a large truck
+a white hat
+a construction site
+a rock
+a construction site
+a construction site
+a hammer
+a train
+a train
+a train
+a train
+a cart
+a cart
+a cart
+a train
 a man
 a man
 a man
-a truck
+a boat
+a boat
+a child
+a white shirt
+a boat
+a man
+a man
+a hat
+a hat
+a white shirt
+white shorts
+white shorts
+a fence
+a fence
+a fence
+a man
+a hat
+a man
+a bike
+a bike
+a bike
+a man
+a man
+a man
+a bike
+a baby
+a baby
+a baby
+a green and yellow house
+a green and yellow house
+a green and yellow house
+a baby
+a flower
 a train
 a woman
-a white shirt
-a street vendor
-a man
-a man
-a white hat
-a white hat
-a white dress
-a white and red dress
-a white and red dress
-a grassy field
-a grassy field
-a field
-a man
-a white hat
-a man
-a bicycle
-a bicycle
-a bicycle
-a man
-a man
-a man
-a bicycle
-a little girl
-a little girl
-a white purse
-a house
-a house
-a house
-a little girl
-a large tree
-a window
-a woman
 a woman
 a man
-a window
-a park
-a park
-a piece of wood
-a bottle
-a large UNK
-a bench
-a crowd of people
+a train
+a room
+a room
+a sink
+a UNK
+a car
+a fence
+a street
 a motorcycle
-a person
-a person
+a man
+a man
 a rock climber
 a backpack
 a backpack
+a mountain
+a mountain
+a mountain
+a mountain
+a mountain
 a rock
-a rock
-a rock
-a rock
-a rock
-a snowboard
 a man
 a man
 a man
@@ -681,49 +681,49 @@ a man
 a black shirt
 jeans
 a lake
-a lake
-a lake
-a lake
-a lake
-a boy
-a boy
-a boy
-a boy
-a boy
-a blue and blue mat
-a blue and blue mat
-a pool
+a river
+a river
+a river
+a river
+a man
+a man
+a man
+a man
+a man
+a blue wall
+a blue wall
+a green ramp
 a soccer ball
-a large balloon
-a large balloon
-a large balloon
-a large balloon
-a young boy
-a young boy
-a young boy
-a young boy
+a soccer ball
+a soccer ball
+a soccer ball
+a soccer ball
 a man
 a man
-jeans
+a man
+a man
+a man
+a man
+khaki pants
 a stick
-a roof
-a roof
+a hole
+a pole
 a man
-a red ball
-a UNK
+a ball
+a ball
 a dirt track
 a man
 a man
 a man
-a grill
-a chair
-the street
-a blue hat
-a grill
-a motorcycle
-a motorcycle
-a motorcycle
-a motorcycle
+a table
+a table
+a sidewalk
+glasses
+a table
+a man
+a man
+a man
+a man
 a motorcycle
 a car
 a car
@@ -731,121 +731,121 @@ a car
 a car
 a street
 a street
-a black shirt
+his hand
 a man
 a man
 a man
 a man
 a boat
-the ocean
-the water
+a dock
+a dock
 a lake
 a lake
 a lake
-the water
+a boat
 a field
-a black shirt
-a green shirt
-a green shirt
-a green shirt
+a red tie
+a plaid shirt
+a plaid shirt
+a plaid shirt
 a woman
-a street
-a street
+a sidewalk
+a sidewalk
 a man
-a black shirt
-a black shirt
+a black jacket
+a black jacket
 jeans
 a woman
 a woman
 a wall
-a green dress
-a green dress
-a large stone wall
+a blue scarf
+a blue scarf
+a wall
 a man
 a man
 a man
-a large rock
-a large cloud of smoke
-a large cloud of smoke
-a large cloud of smoke
-a large cloud of smoke
-a large fire
-a large cloud of smoke
-a large cloud of smoke
-a bucket
-a bucket
-a young girl
-a young girl
-a young girl
-a red shirt
-a red shirt
-a red shirt
-a picture of a young girl
-a picture of a young girl
-a large rock
-a picture of a young girl
+sunset
+a large UNK
+smoke
+smoke
+smoke
+smoke
+smoke
+a mountain
+a gun
+a gun
+a woman
+a woman
+a woman
+a blue shirt
+a blue shirt
+a blue shirt
+a fountain
+a fountain
+a fountain
+a fountain
 a wall
 a wall
 a wall
 a wall
-a tattoo
-a young girl
-a young girl
-a young girl
-a young girl
-a young girl
-a small child
-a small child
-a small child
+his eyes
+a girl
+a girl
+a girl
+a girl
+a girl
+a blanket
+a blanket
+a blanket
+a young boy
+a hat
+a hat
+a hat
+his eyes
 a white shirt
-a white hat
-a white hat
-a white hat
-his face
-a white shirt
-a white shirt
-a baby
-a baby
+a young boy
+a blue shirt
+a blue shirt
 a young boy
 a young boy
 a young boy
+a child
+a child
+a child
+a child
+a tree
 a girl
 a girl
-a girl
-a girl
-a wooden fence
-a young girl
-a young girl
-a wooden fence
-a wooden fence
-a wooden fence
-a wooden fence
+a tree
+a tree
+a tree
+a tree
 a man
 a man
 a man
 a man
 a man
+black pants
+black pants
+a backpack
+a snow covered hill
+a snow covered hill
+a snow covered hill
+a snow covered hill
+a snow covered hill
 a black jacket
-a person
-a black helmet
-snow
-snow
-snow
-snow
-snow
-a black jacket
+a man
 a man
 jeans
-a blue stool
 a window
 a window
 a window
 a window
 a window
-a wall
-a wall
-a wall
-a blue hat
+a building
+a building
+a building
+a yellow helmet
 a brown dog
 a brown dog
 a brown dog
@@ -853,24 +853,24 @@ a brown dog
 a brown dog
 a brown dog
 a brown dog
+a leash
 a brown dog
+a brown dog
+a brown dog
+a white collar
+a brown dog
+a brown dog
+a brown dog
+a dog
+a dog
 a grassy field
-a grassy field
-a grassy field
-a brown dog
-a white dog
-a white dog
-a white dog
-a white dog
-a white dog
-a grassy area
-a field
-a field
-a young man
-a young man
-a young man
-a young man
-a piece of paper
+a dog
+a dog
+a young boy
+a young boy
+a young boy
+a young boy
+a UNK
 a wooden board
 a wooden board
 a wooden board
@@ -879,224 +879,224 @@ a man
 a man
 a man
 a man
-a man
-a man
-a man
-a man
+a blue jacket
+a blue jacket
+a blue jacket
+a blue jacket
 a machine
 a machine
 a machine
 a machine
 a machine
-a man
-a man
-a man
-a man
-a man
-a man
-a large net
-a large net
-a large net
-a large animal
-a large stone
-a man
-a man
-a man
-a man
-a man
-a man
-a cigarette
-a cigarette
-a window
-a window
-a man
-a man
-a man
-a black shirt
-a black shirt
-a black shirt
-a black and white striped shirt
-a black and white striped shirt
-a black and white striped shirt
-a black and white striped shirt
-a black shirt
-a man
-a man
-a man
-a black dress
-a black and white dress
-a white tank top
-a black and white dress
-a microphone
 a white shirt
 a white shirt
-a microphone
+a man
+a man
+a man
+a man
+a horse
+a horse
+a horse
+a horse
 a stick
-a bucket
-a young girl
-a young girl
-a woman
-a young girl
-a wooden fence
-a wooden structure
-a wooden structure
-a wooden fence
 a man
-a bucket
-a large amount of water
-a large amount of water
-a large body of water
-a large amount of water
-a large amount of water
+a man
+a man
+a man
+a man
+a man
+a pole
+a pole
+a window
+a window
+a man
+a man
+a man
+a black jacket
+a black jacket
+a black jacket
+a large metal bar
+a large metal bar
+a large metal bar
+a large metal bar
+a large metal bar
+a woman
+a woman
+a woman
+a woman
+a blue shirt
+a blue shirt
+a blue shirt
+a microphone
+a white shirt
+a white shirt
+a microphone
+a hole
+a fire
+a woman
+a woman
+a woman
+a man
+a wooden structure
+a wooden structure
+a ladder
+a wooden structure
+a table
+a cake
+a boat
+a boat
+a boat
+a boat
+a boat
 a group of people
 a group of people
 a boat
-the water
-the water
-the water
-a large hole
+a rock
+a rock
+a rock
+a rock
+black pants
+black pants
+black pants
+black pants
+black
+a black shirt
+a white shirt
+a white shirt
+a white shirt
+a white shirt
+his foot
+the beach
 a man
 a man
 a man
-a woman
-a woman
-a black hat
-a black hat
-a black hat
-a black hat
-a black hat
-a black hat
-the street
 a man
-a man
-a man
-a man
-a plate of food
-a plate of food
-a plate of food
-a plate of food
-a plate of food
+a bowl
+a bowl
+a bowl
+a bowl
+a bowl
 a grill
 a grill
 a yellow shirt
-a red shirt
-a video camera
+a yellow shirt
+a podium
 a man
 a man
 a man
 a man
 a man
-a woman
-a large rock
 a man
-a large piece of paper
-a rope
-a brown dog
-a brown dog
-a brown dog
-a brown dog
+a large body of water
+a large body of water
+a UNK
+a bird
+a dog
+a dog
+a dog
+a dog
 a tree
 a tree
-a green shirt
 a man
 a man
-a backpack
-a backpack
-a green backpack
-a mountain
-a helmet
-a dirt path
-a man
-a man
-a man
-water
-water
-water
-a boy
-a boy
-a lake
-a white shirt
-a white shirt
-a white tank top
-a white tank top
-a man
-a man
-a man
-a man
-a white shirt
-a white shirt
-a UNK
-a UNK
-a UNK
-a building
-a book
-a wall
-a wall
-a wall
-a wall
-a wall
-a woman
-a woman
-a woman
-a woman
-a woman
-a brown hair
-a brown hair
-a brown hair
-a brown hair
-a woman
-a woman
-a mohawk
 a man
 a blue shirt
-a man
+a blue shirt
 a backpack
-a city street
+a mountain
+a hat
+a mountain
+a man
+a man
+a man
+water
+water
+water
+a man
+a man
+water
+a black shirt
+a black shirt
+a white shirt
+a white shirt
+a man
+a man
+a man
+a man
+a white shirt
+a white shirt
+a drink
+a drink
+a drink
+a wall
+a cup
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a purple jacket
+a purple jacket
+a tree
+a man
+a man
+a man
+a blue bag
+the street
+the street
+the street
+a cigarette
+a cellphone
 a street
-a city street
-a cigarette
-a cigarette
-a city street
-a brown and white dog
-a brown and white dog
-a brown and white dog
-a brown and white dog
-a small animal
-a small animal
-a stuffed animal
-a stuffed animal
-a stuffed animal
-a black purse
-a black purse
+a child
+a child
+a child
+a child
+a small dog
+a small child
+a toy
+a toy
+a toy
+a black and white dog
+a black and white striped shirt
 a chair
 glasses
-a guitar
-a guitar
-a microphone
-a microphone
-a guitar
-a guitar
-a guitar
-a guitar
-a street
-a group of people
-a yellow jersey
-his cellphone
-his hand
-a young boy
-a young boy
-a group of people
-a group of people
-a group of people
-a group of people
+a man
+a man
+a red bracelet
+a red bracelet
+a man
+a man
+guitar
+guitar
+a woman
+a man
+a yellow shirt
+a cigarette
+his mouth
+a man
+a man
+a crowd
+a crowd
+a crowd
+a crowd
+a man
+a man
+a man
+a man
+a rocky beach
+a rocky beach
+a pole
 a car
-a car
-a car
-a car
-a large mountain
-a large green hill
-a skateboard
-a small tractor
 a man
 a man
 a man
@@ -1111,148 +1111,148 @@ a man
 a man
 a man
 a man
-a guitar
-a sidewalk
-a sidewalk
-a man
-a blue shirt
 guitar
-a guitar
-a guitar
-his neck
-a white dog
-a white dog
-a white dog
-a white dog
-a white dog
-a white dog
-a young boy
-a young boy
-a young boy
-a young boy
-a boy
-the road
-the road
-the road
-the road
+the floor
+the floor
+a man
+a green shirt
+guitar
+guitar
+guitar
+his mouth
+a dog
+a dog
+a dog
+a lake
+a lake
+a lake
+a woman
+a woman
+a woman
+a woman
+a woman
+the grass
+the grass
+the grass
+the grass
 a black hat
 a microphone
-a keyboard
-a woman
+a sign
+a red jacket
 a man
 a man
-a plate of food
-a plate of food
-a display case
-a display case
-a display case
-a train
+a UNK
+a UNK
+a grill
+a grill
+a grill
 a man
 a man
-a brown dog
-a brown dog
-a brown dog
-a pink feather
+a man
+a dog
+a dog
+a dog
+a pink bow
 a sidewalk
 a red hat
-a man
-a man
-a rope
-a rope
-a pole
+a white shirt
+a white shirt
+a blue object
+a blue object
+a wooden floor
 a child
 a child
 a blue shirt
-a young boy
-a young boy
+a little boy
+a little boy
 a yellow shirt
 a yellow shirt
 a yellow shirt
-a pink shirt
-a pink shirt
-a pink shirt
-a pink shirt
-a pink shirt
-a pink shirt
-a pink shirt
-a cake
-a plate of food
-a plate of food
-a plate of food
-a cake
-a cake
-a white bowl
+red
+red
+red
+red
+a red shirt
+a red shirt
+a red shirt
+a table
+a meal
+a meal
+a meal
+a meal
+a meal
+a white shirt
 a woman
 a woman
 a woman
 a woman
 a woman
 a black shirt
-white
-a black hat
+white shorts
+long hair
 a woman
 a white shirt
-a black shirt
+a woman
 a woman
 a white shirt
 a street
 a street
 a street
 a street
-a black and white dog
 a dog
 a dog
-a snow covered hill
 a dog
-a snow covered hill
-a snow covered hill
-a snow covered hill
-a snow covered hill
-a snow covered hill
-a red jacket
-a red jacket
-a red jacket
-a red jacket
-blond hair
-a red jacket
-a red jacket
-a red jacket
-a blue jacket
-a blue jacket
-a blue jacket
-his mouth
-a white shirt
-a white shirt
-a board
-a river
-the water
-a river
-a river
-a canoe
-a canoe
-a canoe
-a canoe
+snow
+a dog
+snow
+snow
+a dog
+a dog
+a dog
+a woman
+a woman
+a woman
+a woman
+her head
+a man
+a man
+a man
+a blue shirt
+a blue shirt
+a blue shirt
+a smile
+a man
+a man
+a boat
+water
+water
+water
+water
+a boat
+a boat
+a boat
+a boat
 a lake
-a snowy hill
+the snow
 a mountain
-a snowy hill
+snow
 a man
 a man
-a rock
-a rock
-black
-black
 a mountain
-a girl
-a volleyball
+a mountain
+a man
+a man
+a mountain
+a woman
+a ball
 a net
-a young girl
-a young man
 a woman
-a woman
-a woman
-a woman
-a woman
+a red shirt
+a man
+a man
+a man
+a man
+a man
 a woman
 a woman
 a woman
@@ -1261,38 +1261,38 @@ a woman
 a table
 a table
 a table
-a blue shirt
-a blue shirt
+a green shirt
+a green shirt
 a woman
 a woman
 a woman
 a woman
 a woman
-her eyes
-her eyes
-her cheek
-her tongue
+his mouth
+her mouth
+a tattoo
+his tongue
 a young boy
 a young boy
 her face
 her face
 her face
-her eyes
-a white dog
-a white dog
-a white dog
-a water fountain
-a water fountain
-a stick
-a stick
-a stick
-a stick
+her mouth
+a dog
+a dog
+a dog
+the water
+the water
+a toy
+a toy
+a toy
+a toy
 a red collar
 a red collar
-a large piece of machinery
-a large piece of machinery
-a large piece of machinery
-a large metal pole
+a tent
+a tent
+a tent
+a fire
 a skateboard
 a woman
 a woman
@@ -1300,30 +1300,30 @@ a woman
 a woman
 a woman
 a woman
-a pink hat
-a yellow shirt
-a yellow shirt
-a yellow shirt
-a yellow shirt
-a yellow shirt
-a green shirt
-a green shirt
-a green shirt
-a green shirt
-a young boy
-a young boy
-a young boy
-a young boy
-a man
-a man
-a man
-a white van
+a hat
+a child
+a child
+a child
+a child
+a child
+a striped shirt
+a striped shirt
+a striped shirt
+a striped shirt
+a child
+a child
+a child
+a child
+a woman
+a woman
+a woman
+a white building
 a man
 a man
 a man
 a white shirt
-a hand
-a white shirt
+a book
+a book
 a dog
 a dog
 a dog
@@ -1332,12 +1332,12 @@ a dog
 a ball
 a ball
 a ball
-a ball
-a ball
+a yellow ball
+a yellow ball
 a man
-a red shirt
-a red shirt
-a red shirt
+a man
+a man
+a man
 a building
 a building
 sunglasses
@@ -1347,19 +1347,19 @@ a woman
 a woman
 a woman
 a woman
-a drink
-a woman
-a woman
+a beer
+a man
+a man
 a table
-a tripod
-a tripod
-a building
-a building
-a building
-a building
-a building
-a large crowd
-a large crowd
+a fire
+a fire
+a bridge
+a bridge
+a large building
+a large building
+a large building
+a crowd
+a crowd
 a woman
 a woman
 a woman
@@ -1368,73 +1368,73 @@ a woman
 a woman
 a woman
 a woman
-a red and white striped shirt
-a red bandanna
-a red and white striped shirt
-a red apron
+a red hat
+a red hat
+a red hat
+a man
 a woman
-a striped shirt
-a microphone
+a plaid shirt
+a stick
+a man
+a man
+a man
+a man
+a rock
+a rock
+a rock
+a rock
+a man
+a man
+jeans
+a hammer
+a hammer
+a hammer
+a fire
+a UNK
+a UNK
+a fire
+a grill
+a grill
+a man
+a fire
+a man
+a man
+a black and white fence
+a green shirt
+a green shirt
+a woman
+a woman
+a man
+a man
+a gold necklace
+a gold necklace
 a man
 a man
 a man
 a man
 a man
-a man
-a man
-a man
-a black shirt
-a black shirt
-a black shirt
-a bottle of water
-a bottle
-a bottle
-a bowl
-a bowl
-a bowl
-a bowl
-a wooden plank
-a wooden plank
-a man
-a piece of wood
-a man
-a man
-a black and white van
-a yellow shirt
-a yellow shirt
-a man
-a man
-a man
-a man
-a red shirt
-a red shirt
-a man
-a man
-a man
-a man
-a man
-a man
+a street
+a train
+a train
+a train
+shorts
 a truck
 a truck
-a truck
+a red truck
+a red truck
 a man
-a truck
-a truck
-a truck
-a truck
-a red apron
 a truck
 a dog
 a dog
 a dog
-a black and white cat
-a large puddle
-a large puddle
-a large puddle
-a large puddle
+a dog
+the water
+the water
+the water
+the water
 a man
 a man
-a drummer
+a stage
 a stage
 a stage
 a woman
@@ -1443,5851 +1443,5851 @@ a black shirt
 a violin
 a man
 a man
-a black shirt
+a saxophone
 a man
 a man
 a man
 a guitar
 a guitar
 a microphone
-jeans
-a woman
-a woman
-a microphone
-a microphone
-a microphone
-a microphone
-a black shirt
-a black shirt
-a black shirt
-a stage
-a young boy
-a young boy
-a young boy
-a young boy
-a young boy
-a yellow shirt
-a yellow shirt
-a blue helmet
-a blue helmet
-a woman
-a woman
-a woman
-a table
-a table
-a microphone
-a microphone
-a woman
-a woman
-a woman
-a woman
-a paper
-a black shirt
-a woman
-a man
-a man
-a man
 a UNK
-a beach
-a beach
-a beach
-a small black and black
-a small black
-a small black
-a small black
-his face
+a woman
+a woman
+a keyboard
+a keyboard
+a keyboard
+a microphone
+a white shirt
+a white shirt
+a white shirt
+a stage
+a man
+a man
+a man
+a man
+a man
+a red shirt
+a red shirt
+a blue hat
+a blue hat
+a woman
+a woman
+a woman
+a chair
+a chair
+her hand
+her hand
+a woman
+a woman
+a woman
+a woman
+a tattoo
+a black shirt
+a woman
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a brown dog
+a brown dog
+a red collar
+a brown dog
 his head
-a large body of water
+his face
+a lake
 a young girl
 a young girl
 a pink shirt
-a pink and white striped shirt
-a pink and white striped shirt
-a pink and white striped shirt
-a pink and white striped shirt
-a pink and white striped shirt
-a pink and white striped shirt
+a blue shirt
+a blue shirt
+a blue shirt
+a blue shirt
+a blue shirt
+a blue shirt
+a woman
+a woman
+a woman
+a woman
+a podium
+black pants
+a man
+a man
+a book
+a microphone
+black hair
+a microphone
+a woman
+a black suit
+a black suit
+a woman
+a man
+a man
+a band
+a man
+a man
+a wall
+a building
+a woman
+a dog
+a dog
+a dog
+a dog
+a dog
+a dog
+a dog
+a dog
+a woman
+a woman
+a white shirt
+a hat
+a hat
+a man
+a large crowd
+the snow
+the snow
+a white shirt
+a man
+a man
+a man
+a green and white striped pole
+a man
+a man
+a field
+a brown and white dog
+a ball
+a ball
+a field
+a black and white dog
+a black and white dog
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+food
+food
+food
+food
+food
+a table
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a red cup
+a red cup
+a building
+a building
+a skateboard
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a black jacket
+a black jacket
+a black jacket
+a black jacket
+a black jacket
+a skateboard
+a skateboard
+a skateboard
+a street
+a street
+a sidewalk
+a black dress
+a black dress
+a man
+a man
+a man
+a man
+a black hair
+a black hair
+a black shirt
+a black shirt
+jeans
+a ramp
+a ramp
+a ramp
+jeans
+a ramp
+a ramp
+black
+a black dress
+a black dress
+a black dress
+a black dress
+a sidewalk
+a sidewalk
+a woman
+a man
+a yellow shirt
+a rock
+a man
+a man
+a man
+a man
+a white shirt
+a white shirt
+a rope
+a rope
+a rope
+a building
+a gun
+a sidewalk
+a man
+a black jacket
+a brown jacket
+jeans
+a white box
+a white bucket
+a car
+a car
+a white fence
+a car
+a man
+a man
+a sign
+goggles
+goggles
+goggles
+a red and black wetsuit
+a red and black wetsuit
+a red and black wetsuit
+the water
+the water
+the water
+a red and black wetsuit
+a window
+a window
+a window
+a window
+a bus
+a bus
+a sign
+a dirt road
+a dirt road
+a dirt road
+a dirt road
+a dirt road
+a dirt road
+a dirt road
+a dirt road
+a dirt road
+a football player
+a football player
+a football player
+a football player
+a football player
+a football
+a man
+a man
+a man
+red
+a field
+a man
+a man
+a man
+a man
+a crowd
+a man
+a man
+a red shirt
+a red shirt
+a wall
+a man
+a man
+a man
+a man
+a man
+sunglasses
+his head
+a white shirt
+a white shirt
+a field
+a field
+red
+red
+red
+red
+red
+red
+red
+a helmet
+number UNK
+red
+a boy
+a boy
+a boy
+a boy
+a boy
+a boy
+a boy
+a boy
+black shorts
+black shorts
+black shorts
+a street
+a man
+a blue shirt
+a man
+a man
+a man
+a man
+a mustache
+a haircut
+a haircut
+a man
+a keyboard
+a room
+a blanket
+a blanket
+a blanket
+a blanket
+a baby
+a baby
+a baby
+a pool
+a lake
+a house
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a green shirt
+a green shirt
+a meal
+a meal
+a UNK
+a UNK
+a man
+a man
+a cellphone
+a boy
+a red slide
+a boy
+his mouth
+his mouth
+a blue slide
+a blue slide
+a blue slide
+a man
+a dog
+a dog
+a dog
+a dog
+a dog
+his mouth
+his mouth
+his mouth
+his mouth
+a field
+a field
+a dog
+a field
+a field
+white
+white
+white
+a white shirt
+a ball
+a man
+a white shirt
+a white shirt
+a man
+a man
+a man
+a man
+a man
+a white shirt
+a white shirt
+a man
+a blue shirt
+a man
+a red shirt
+a red shirt
+a red shirt
+a red shirt
+blue
+a red shirt
+a red shirt
+a red shirt
+a man
+a man
+a man
+a table
+a microphone
+a hammer
+a table
+a dog
+a dog
+a dog
+a dog
+a dog
+a stick
+the beach
+a man
+a man
+a boat
+a boat
+a boat
+a boat
+a boat
+a boat
+a boat
+a boat
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a cart
+a store
+a sidewalk
+a counter
+a man
+a man
+a stool
+a man
+a man
+a black shirt
+a man
+a beard
+a man
+a man
+a woman
+a hat
+a man
+a man
+a man
+a dog
+a dog
+a lake
+the water
+a man
+a man
+the field
+the field
+a balloon
+a balloon
+a balloon
+a balloon
+a man
+a man
+a man
+a man
+a man
+a man
+a blue shirt
+a gray shirt
+a white hat
+a white hat
+a white hat
+a face
+a face
+a face
+a face
+a face
+a face
+her face
+a boy
+a boy
+a child
+a child
+a child
+a child
+a hat
+a large tree
+a sidewalk
+a sidewalk
+a hat
+a bench
+a woman
+a sidewalk
+a sidewalk
+a boat
+a street
+a group of people
+a group of people
+a woman
+a woman
+a woman
+a mustache
+a green shirt
+a green shirt
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a cigarette
+a cellphone
+a crowd
+a girl
+a sign
+a man
+a man
+a man
+a horse
+a horse
+a horse
+a woman
+a woman
+a woman
+a crowd
+a crowd
+a crowd
+a crowd
+a yellow jumpsuit
+a yellow jumpsuit
+a yellow jumpsuit
+a UNK
+a yellow vest
+a yellow snowboard
+a ladder
+a ladder
+a construction worker
+a construction worker
+a construction worker
+a ladder
+a railroad
+a yellow jacket
+a railroad
+a railroad
+a pole
+a construction site
+a large screen
+a large screen
+a large screen
+a red vest
+a baseball cap
+a man
+a hat
+a building
+a UNK
+a train
+a train
+the train tracks
+a construction site
+a man
+shorts
+a man
+a field
+a dog
+a dog
+a dog
+a dog
+water
+water
+water
+water
+a man
+a man
+a woman
+a woman
+a street
+a street
+a green helmet
+a green helmet
+a green and yellow helmet
+a hat
+a hat
+a helmet
+a green shirt
+a green shirt
+a green shirt
+a pole
+a pole
+a camera
+a camera
+a tree
+a person
+a boat
+water
+the water
+the water
+the water
+the water
+a person
+a person
+a boat
+a bike
+a bike
+a bike
+a bike
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a building
+a store
+a table
+a woman
+a brick wall
+a brick wall
+a brick wall
+the floor
+a wall
+a man
+a man
+a man
+a man
+a man
+a red cap
+a red cap
+a red cap
+a red cap
+goggles
+goggles
+a blue surfboard
+a child
+a woman
+a woman
+a woman
+a blue shirt
+a hat
+a hat
+a hat
+a white hat
+a man
+a blue shirt
+a child
+a fountain
+a fountain
+a fountain
+a fountain
+a beach
+a young girl
+a young girl
+a young girl
+a young girl
+a white shirt
+a small object
+a small object
+a stick
+a man
+a chair
+a bike
+a bike
+a bike
+a bike
+a bike
+a beach
+a beach
+a beach
+a beach
+a beach
+the water
+the water
+a dog
+a dog
+a dog
+a toy
+a toy
+a pacifier
+a man
+a man
+a man
+a man
+a red shirt
+a red shirt
+a red shirt
+a girl
+a girl
+a girl
+a red shirt
+a tree
+a man
+jeans
+a man
+the street
+a man
+a man
+a man
+a man
+a man
+a man
+a boy
+a boy
+a boy
+a child
+a child
+a green shirt
+a green shirt
+a shaved head
+a crowd
+a crowd
+a woman
+a blue shirt
+a street
+a street
+a man
+red
+red
+a boat
+a boat
+a boat
+a rock
+a rock
+a large rock
+a large rock
+a large rock
+a black surfboard
+khaki pants
+a building
+a building
+a building
+a man
+a man
+a man
+a cane
+a cellphone
+blond hair
+blond hair
+blond hair
+a table
+a table
+a table
+a man
+a man
+a man
+a man
+a man
+a man
+a bed
+a bed
+a bed
+a child
+a child
+a child
+a child
+a number
+a green shirt
+a green shirt
+a swing
+a swing
+a child
+a swing
+a swing
+a red jacket
+a red jacket
+a red jacket
+a microphone
+a microphone
+a microphone
+a store
+a store
+a store
+a man
+a man
+a man
+a man
+a blue shirt
+a man
+a room
+a woman
+a blue shirt
+a woman
+a woman
+a woman
+a woman
+glasses
+a UNK
+a UNK
+a UNK
+a UNK
+a microphone
+a group of people
+a group of people
+a group of people
+a group of people
+a group of people
+a building
+UNK
+a man
+a man
+a man
+a man
+a white shirt
+a toy
+the water
+glasses
+the beach
+a man
+a man
+jeans
+jeans
+jeans
+a blue shirt
+a horse
+a horse
+a rock
+a rock
+a rock
+a fence
+a white purse
+a black and white bag
+a train
+a train
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a skateboard
+a skateboard
+a skateboard
+no shirt
+a woman
+a woman
+a sidewalk
+a sidewalk
+a sidewalk
+a blue shirt
+a fountain
+a black and white dog
+a black and white dog
+a black and white dog
+a dog
+a dog
+a dog
+a field
+a field
+a man
+a man
+a man
+a man
+a dog
+a dog
+a baseball player
+a blue and yellow fence
+a frisbee
+a baseball player
+a black dog
+a black dog
+a stick
+a stick
+a stick
+a stick
+a stick
+a red raft
+a red and yellow jumpsuit
+the water
+a boat
+a parade
+a parade
+a parade
+a parade
+a parade
+the street
+the street
+a man
+a blue and red uniform
+a man
+a man
+a man
+a display of fruit
+a man
+a man
+a man
+a man
+a man
+his hand
+a cigarette
+a woman
+a woman
+a woman
+a black hat
+a pink shirt
+a man
+a man
+a white shirt
+a wooden bench
+a rock
+a dirt road
+a tree
+a tree
+a tree
+a stick
+a stick
+a tree
+a tree
+a woman
+a woman
+a picture
+a mask
+a mask
+a red shirt
+a red shirt
+a red shirt
+a UNK
+a UNK
+a sidewalk
+glasses
+a blue helmet
+a blue helmet
+a red shirt
+blue shirt
+a white shirt
+a man
+a swing
+a swing
+a swing
+a hat
+a hat
+a swing
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a rock
+a woman
+a woman
+a woman
+a woman
+a woman
+a backpack
+a backpack
+a mountain
+a man
+red pants
+a mountain
+a mountain
+a mountain
+fruit
+fruit
+a fruit stand
+a fruit stand
+a fruit stand
+a white jacket
+a white shirt
+a white jacket
+a white jacket
+fruit
+fruit
+a crowd
+a crowd
+a crowd
+a crowd
+a crowd
+a sidewalk
+a sidewalk
+a sidewalk
+a sidewalk
+a white and red wall
+a white and red wall
+a white and red wall
+a man
+a man
+a white shirt
+a white shirt
+a white shirt
+a white shirt
+a piece of paper
+a piece of paper
+a microphone
+a grill
+a grill
+a grill
+a red shirt
+a red shirt
+a red shirt
+a face
+a face
+a face
+a blond hair
+a child
+a child
+the ocean
+a beach
+a beach
+a beach
+a man
+a man
+a man
+a woman
+a woman
+a woman
+a cigarette
+a sidewalk
+a black shirt
+a man
+a man
+a man
+a man
+glasses
+glasses
+a mustache
+a toy
+a toy
+a toy
+a stick
+a stick
+a stick
+a pile of dirt
+a pile of dirt
+a hat
+a black shirt
+pants
+his face
+a man
+a man
+glasses
+glasses
+her neck
+her neck
+her neck
+a woman
+a woman
+a woman
+glasses
+a path
+a path
+a woman
+a girl
+a girl
+a girl
+a girl
+a white shirt
+a white shirt
+a woman
+a woman
+a woman
+a woman
+her fingers
+her fingers
+her fingers
+her fingers
+a ponytail
+a smile
+a child
+a child
+a child
+a tree
+a green and green outfit
+a tree
+a green and green outfit
+a green and green outfit
+a green and green outfit
+a green and green outfit
+a tree
+a tree
+a tree
+a tree
+a tree
+a red hair
+a red hair
+a red hair
+a red hair
+red hair
+red hair
+red hair
+red hair
+a red beard
+glasses
+a young boy
+a young boy
+a young boy
+a green shirt
+a green shirt
+a green shirt
+a green shirt
+a man
+a man
+a man
+a black dog
+a black dog
+a black dog
+a black dog
+a red collar
+a red collar
+a black and white dog
+a black and white dog
+a game
+a game
+a game
+a room
+a man
+a man
+a man
+white pants
+white shorts
+a hat
+a white shirt
+a machine
+white shorts
+a boat
+a man
+a cart
+a cart
+a black dog
+a black dog
+a black dog
+a black dog
+a red collar
+a red collar
+a red collar
+a red collar
+a red collar
+a woman
+a black hat
+a blue shirt
+a blue shirt
+blue shorts
+sandals
+a white hat
+a dog
+a dog
+a dog
+a stick
+his mouth
+a path
+a path
+a path
+a building
+a field
+a field
+a field
+a woman
+a woman
+a dirt road
+mountains
+mountains
+the water
+a dog
+a dog
+a dog
+the grass
+the grass
+the grass
+the grass
+a black dog
+a black dog
+trees
+a man
+a man
+a man
+a man
+a man
+a man
+a blue button
+a red shirt
+a blue shirt
+a blue shirt
+a blue shirt
+a restaurant
+a restaurant
+a boy
+a boy
+a boy
+a boy
+goggles
+goggles
+a woman
+a woman
+a woman
+a white shirt
+white
+a woman
+a woman
+a woman
+a woman
+a white dress
+a white dress
+a book
+a book
+a woman
+a man
+a man
+a bench
+a bench
+a large room
+a ball
+his hands
+a black shirt
+a man
+a man
+a man
+a man
+a white shirt
+a white shirt
+a cigarette
+a city
+the sun
+a man
+a boy
+a man
+a man
+a man
+a man
+a blue shirt
+a blue shirt
+a blue shirt
+a blue shirt
+a tree
+a tree
+a tree
+a tree
+a tree
+a man
+a man
+a boy
+a black shirt
+a pole
+a skateboard
+a skateboard
+a pole
+a man
+a man
+a man
+a table
+a table
+a UNK
+a white shirt
+a cigarette
+a table
+shorts
+a child
+a child
+a child
+a child
+a child
+a book
+a book
+a child
+a blue sweater
+a blue sweater
+a baby
+a baby
+a baby
+a white dress
+a chair
+a path
+a path
+a path
+a woman
+a woman
+a woman
+a woman
+a woman
+a haircut
+a woman
+a haircut
+a woman
+a striped shirt
+a cigarette
+a cigarette
+a microphone
+a microphone
+a grill
+a grill
+a grill
+a blue shirt
+a grill
+a grill
+a grill
+a man
+a blue shirt
+a grill
+a grill
+a grill
+a dog
+a dog
+a dog
+the grass
+the grass
+a man
+a man
+a man
+a man
+a table
+a table
+a black tank top
+a table
+a table
+a table
+a wall
+a dog
+a dog
+a dog
+a stone wall
+a stone wall
+a stone wall
+a stone wall
+a building
+a building
+a building
+a building
+a pink jacket
+a pink jacket
+a pink jacket
+sunglasses
+sunglasses
+a pink jacket
+her cellphone
+a white shirt
+a woman
+a woman
+a purple shirt
+a purple shirt
+glasses
+long hair
+long hair
+a peace sign
+a peace sign
+a cellphone
+a peace sign
+a woman
+a woman
+a woman
+a scarf
+a scarf
+a bottle
+a pink shirt
+a pink shirt
+a pink shirt
+a pink shirt
+a blue shirt
+a hand
+her hand
+her hand
+a hat
+a hat
+a cellphone
+a white dog
+a white dog
+a white dog
+a field
+a room
+a room
+a room
+a room
+a book
+a table
+a table
+a table
+a table
+a tattoo
+a woman
+a girl
+a girl
+a woman
+a woman
+a woman
+a bouquet of flowers
+a bouquet of flowers
+a bouquet of flowers
+a bouquet of flowers
+a bouquet of flowers
+a man
+a man
+a man
+a man
+a woman
+a woman
+a woman
+a white dress
+a white dress
+a bouquet of flowers
+a bouquet of flowers
+a bouquet of flowers
+a bouquet of flowers
+a spoon
+a spoon
+a spoon
+a spoon
+a suit
+a suit
+a suit
+a suit
+a suit
+a microphone
+a man
+a green field
+a green field
+a woman
+red hair
+a man
+a man
+a man
+a man
+a man
+jeans
+a red door
+a man
+a leash
+a leash
+a ball
+a ball
+a ball
+the sand
+the sand
+a man
+a pool
+a pool
+a pool
+a pink shirt
+a red shirt
+goggles
+a woman
+a boy
+the sand
+the sand
+the sand
+a green shirt
+jeans
+jeans
+a woman
+a man
+a man
+a skateboard
+a skateboard
+a toy
+a skateboard
+a woman
+a man
+a woman
+a man
+a street
+a street
+a bag
+a gray shirt
+a man
+a man
+a man
+a bike
+a colorful mask
+a colorful mask
+a colorful hat
+a man
+a table
+a wall
+a man
+a man
+a man
+a man
+a black shirt
+a black shirt
+a black shirt
+a black shirt
+a man
+a man
+a man
+a man
+a table
+a table
+a table
+a man
+a man
+water
+a surfboard
+a surfboard
+a boat
+a boat
+black
+the water
+a house
+a house
+a house
+a house
+a house
+a tent
+a tent
+a man
+a pole
+his head
+his head
+a man
+a man
+a striped shirt
+a stool
+a stool
+a man
+a boy
+a boy
+a boy
+a boy
+a boy
+a bikini
+a bikini
+the ocean
+the ocean
+the ocean
+a street
+a street
+the street
+the street
+the street
+the street
+the street
+the street
+a crowd
+a camera
+a man
+a man
+a blue jacket
+a man
+a man
+a man
+a man
+a snowy mountain
+a snowy mountain
+a bike
+a bike
+a bike
+a rock
+a green jacket
+a green jacket
+a green jacket
+a green jacket
+a green jacket
+a green jacket
+a green jacket
+a building
+a blue skirt
+a white shirt
+a white shirt
+a white shirt
+a white shirt
+a white shirt
+a street
+a street
+a street
+sunglasses
+a woman
+a bridge
+the grass
+the grass
+the grass
+the grass
+the grass
+a pink skirt
+a pink skirt
+a house
+a sign
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a man
+a red shirt
+a window
+a window
+a window
+her hands
+a ball
+a white and white balloon
+a yellow shirt
+a woman
+a woman
+a woman
+a woman
+a black jacket
+a black jacket
+the sidewalk
+the sidewalk
+a red shirt
+the water
+a tree
+a white dog
+a white dog
+a white dog
+a white dog
+a white dog
+a man
+a man
+a black shirt
+a black shirt
+a black shirt
+a man
+a man
+a man
+a microphone
+a black shirt
+a store
+a store
+a red building
+a store
+a red bag
+a red bag
+a red bag
+a hat
+a blue shirt
+a man
+a man
+a man
+a blue shirt
+blue jeans
+a red jacket
+a woman
+a woman
+a woman
+a woman
+white
+black shorts
+the ball
+the ball
+a ball
+a ball
+a blue jacket
+a blue jacket
+a blue jacket
+a sidewalk
+a sidewalk
+a bag
+a red hat
+a red hat
+a black jacket
+a woman
+a rock
+a woman
+a blue shirt
+a blue shirt
+a blue shirt
+a mountain
+a mountain
+a mountain
+a yellow hat
+his hand
+a blue shirt
+a man
+a man
+the water
+a surfboard
+a surfboard
+a surfboard
+a rope
+a black bag
+a man
+a crowd
+a white dog
+a white dog
+a white dog
+the snow
+a building
+a building
+a dog
+a dog
+a dog
+a dog
+a dog
+a dog
+a dog
+a dog
+a dog
+a dog
+a dog
+a dog
+a dog
+a man
+a man
+a dog
+a sign
+a sign
+a sign
+a hill
+the snow
+the snow
+snow
+snow
+snow
+a shovel
+snow
+snow
+the snow
+the snow
+a man
+a table
+food
+a book
+a book
+a book
+a book
+a man
+a man
+a woman
+a man
+a man
+a black shirt
+a black shirt
+guitar
+guitar
+a blue and red snowsuit
+a blue roof
+a blue sky
+a construction site
+a construction site
+a snowboard
+a man
+a man
+a kitchen
+a kitchen
+a man
+a man
+a man
+a man
+a suit
+a man
+a man
+a man
+a skateboard
+a black hat
+a sign
+a sign
+a cane
+a man
+a man
+a man
+a man
+a pole
+a skateboard
+a blue bicycle
+a skateboard
+a skateboard
+a large metal structure
+a large metal structure
+a crowd
+a crowd
+a crowd
+a white shirt
+a white shirt
+a white shirt
+a skateboard
+black pants
+a skateboard
+a man
+a man
+a man
+a man
+a man
+a man
+a microphone
+a microphone
+a blue hat
+a man
+a red shirt
+a man
+a man
+a man
+a man
+a blue shirt
+a bike
+a bike
+a bike
+a bike
+a dirt road
+a street
+a young boy
+a hat
+a hat
+a yellow bag
+a yellow bag
+a cart
+a building
+a building
+a building
+a building
+a child
+a red shirt
+red
+red
+a red shirt
+a crowd
+a crowd
+a crowd
+a group of people
+a picture
+a man
+a man
+a man
+a man
+a white shirt
+a man
+a red sweater
+a child
+a pink shirt
+a woman
+a baby
+a table
+a table
+a table
+a child
+a white shirt
+a man
+a man
+a man
+a man
+a dog
+a dog
+a dog
+a dog
+a man
+a dog
+a dog
+a table
+a sign
+a machine
+a machine
+a microscope
+a microscope
+a microscope
+a man
+a man
+a man
+a hat
+a woman
+a striped shirt
+a paper
+a paper
+a book
+a woman
+a woman
+a woman
+a man
+a man
+a man
+a man
+a hat
+a man
+a man
+a man
+a man
+a man
+glasses
+a man
+a blue shirt
+a blue shirt
+a blue shirt
+a hammer
+a book
+a brick wall
+a brick wall
+a brick wall
+a brick wall
+a brick wall
+a man
+a green shirt
+a man
+a man
+a man
+a man
+a man
+red shirt
+red shirt
+a rock
+a rock
+a rock wall
+a rock wall
+a red shirt
+a rock
+a man
+a man
+a man
+a bike
+a bike
+a bike
+a bike
+a bike
+a bike
+a building
+a man
+a street
+a field
+a yellow shirt
+a yellow shirt
+a yellow shirt
+a yellow shirt
+a building
+a brick wall
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a large statue
+a man
+a man
+a beard
+a loom
+a loom
+a man
+a man
+a man
+a man
+a ball
+a fence
+a hand
+a man
+a man
+a man
+a man
+glasses
+a trumpet
+a trumpet
+a trumpet
+a beard
+a man
+a man
+a slide
+a slide
+a slide
+a slide
+a slide
+a blue slide
+a blue slide
+a red ball
+a red ball
+a young boy
+a young boy
+blue jeans
+a red shirt
+a kitchen sink
+a kitchen sink
+a kitchen sink
+her neck
+a table
+a table
+a table
+a table
+a bowl
+a table
+a table
+a table
+a bowl
+a table
+a man
+a microphone
+the street
+the street
+a child
+a child
+a child
+a child
+a pink bow
+a colorful hat
+a red umbrella
+a red and white umbrella
+a red and white bag
+a colorful outfit
+a red and white striped shirt
+a white bird
+a white bird
+a white bird
+a white bird
+water
+water
+a yellow flag
+a flag
+a crowd
+a white and yellow boat
+a microphone
+a room
+a UNK
+a table
+a table
+a table
+a table
+a screen
+a screen
+a screen
+a screen
+a woman
+a black shirt
+a screen
+a screen
+a screen
+a screen
+a screen
+a screen
+the field
+a boy
+his glove
+his glove
+his glove
+a man
+a baseball player
+a baseball player
+a baseball player
+a baseball player
+a bat
+blue
+a blue uniform
+a ball
+a baseball field
+a baseball
+a baseball
+a baseball
+a man
+a man
+sunglasses
+a computer
+a computer
+a computer
+a book
+a book
+a book
+her hand
+a crowd
+a crowd
+a blue jacket
+a blue jacket
+a backpack
+a backpack
+a backpack
+trees
+a man
+a man
+a man
+a man
+a mountain
+a backpack
+black pants
+a bird
+a tree
+a man
+a red scarf
+a woman
+a tan jacket
+a man
+a man
+a man
+a man
+a hat
+a man
+a man
+a mountain
+a mountain
+a blue jacket
+a girl
+a girl
+a pink blanket
+a meal
+a table
+a table
+a table
+a house
+a man
+a man
+a man
+a white bull
+a white bull
+a white bull
+a horse
+a man
+a man
+a man
+a man
+a man
+a man
+a woman
+a woman
+the street
+the street
+the street
+the street
+buildings
+buildings
+a woman
+a woman
+a woman
+a child
+a red truck
+a red truck
+a red truck
+a red truck
+a man
+a dog
+a dog
+a dog
+grass
+grass
+grass
+grass
+a dirt road
+a woman
+a red dress
+a store
+a sign
+a sign
+a sign
+a sign
+a red shirt
+a man
+a backpack
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a table
+a table
+a man
+a man
+a bike
+a man
+a man
+a man
+a white shirt
+a bike
+a bike
+a bike
+a building
+a woman
+a woman
+a white shirt
+a white shirt
+a tennis ball
+a tennis ball
+a man
+a man
+a man
+a white shirt
+a man
+a man
+a man
+a man
+a street
+a man
+a woman
+a black jacket
+a man
+a man
+a black shirt
+a street
+a street
+a train
+a train
+a train
+a train
+a black dog
+a black dog
+a black dog
+a black dog
+a red car
+a young boy
+a young boy
+a young boy
+a young boy
+a baby
+a baby
+a guitar
+a guitar
+a guitar
+a woman
+a woman
+a red shirt
+a table
+a table
+a computer
+a podium
+a christmas tree
+a christmas tree
+a table
+a window
+the grass
+a field
+a field
+a field
+a field
+a ball
+a ball
+a ball
+a ball
+a ball
+the grass
+a tree
+a yellow ball
+a man
+a man
+a man
+his mouth
+a black hat
+a black hat
+a man
+blue jeans
+a man
+a man
+a man
+a bucket
+water
+water
+water
+a dog
+a dog
+a dog
+a ball
+a ball
+a ball
+a ball
+a tree
+a road
+a crowd
+a crowd
+a crowd
+a sword
+the accordion
+a flag
+a flag
+a flag
+a blue shirt
+a man
+a man
+a man
+a man
+a blue hat
+a blue hat
+a man
+a man
+a man
+a tennis racket
+a tennis racket
+a woman
+a woman
+a woman
+a woman
+a woman
+a pink blanket
+a hill
+a man
+a man
+a man
+a man
+a field
+a field
+a crowd
+a crowd
+a man
+a man
+a man
+a man
+a bike
+a bike
+a bike
+a tree
+a bike
+a dirt path
+a sidewalk
+a sidewalk
+a wall
+a building
+a man
+a bag
+a man
+a woman
+a red scarf
+a man
+a man
+a man
+a man
+a rock
+a rock
+his hand
+his hand
+a girl
+a girl
+a girl
+a girl
+a girl
+a white shirt
+a white shirt
+a beach
+a green collar
+a green collar
+white shorts
+a baby
+a baby
+a baby
+a dirt bike rider
+a dirt bike rider
+a dirt bike rider
+a dirt bike rider
+a dirt bike rider
+a bike
+a bike
+a bike
+his mouth
+black pants
+a UNK
+a dirt bike rider
+a red and white helmet
+a girl
+a girl
+a girl
+a green shirt
+a green shirt
+a black tank top
+a table
+a table
+her eyes
+a table
+a table
+a table
+a table
+a smile
+her face
+her neck
+her neck
+her neck
+a dog
+a dog
+a white dog
+a small dog
+a small dog
+a chair
+a red shirt
+a red shirt
+a red shirt
+a red shirt
+a red shirt
+a UNK
+a tree
+a tree
+a woman
+a child
+a toy
+a toy
+a tree
+a man
+a man
+a man
+a man
+a bike
+a bike
+a bike
+a ramp
+a ramp
+a ramp
+a ramp
+a man
+a man
+a man
+a man
+a man
+a plate
+a plate
+a window
+a man
+a black shirt
+a black shirt
+a black shirt
+a woman
+a woman
+a woman
+a woman
+black pants
+a red shirt
+a red shirt
+a red shirt
+a man
+jeans
+a black jacket
+a black jacket
+a black jacket
+a red cup
+a girl
+a girl
+a girl
+a girl
+a green field
+a green field
+a green field
+a green field
+a tree
+a tree
+a tree
+a blue shirt
+a woman
+a woman
+a woman
+a man
+a hat
+a hat
+a hat
+a tree
+a tree
+a tree
+a tree
+a tree
+a tree
+a tree
+a tree
+a blue shirt
+a dog
+a dog
+a dog
+a toy
+a toy
+a green field
+a field
+a stick
+a boy
+a boy
+a boy
+a ball
+a man
+blue shorts
+a goal
+a ball
+a man
+a motorcycle
+a motorcycle
+a crowd
+a man
+a man
+a man
+a man
+a black and white dog
+a black and white dog
+a black and white dog
+a black and white dog
+a white shirt
+a white shirt
+a white shirt
+a field
+a man
+a man
+a field
+a field
+a white dog
+a white dog
+a white dog
+a white dog
+a white dog
+a picture of a woman
+a picture of a woman
+a large bubble
+a large bubble
+a christmas tree
+a large painting
+a fishing pole
+a fishing pole
+a dog
+a dog
+a dog
+its mouth
+its mouth
+a ball
+the sand
+the grass
+the sand
+a hurdle
+a green road
+a green road
+a yellow bucket
+a yellow bucket
+a cigarette
+a meal
+a dog
+a dog
+a red ball
+a dog
+a dog
+a dog
+a water
+the water
+the water
+the water
+a white dog
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a hat
+a rock
+a building
+a building
+a stool
+a wall
+graffiti
+a wall
+a girl
+a girl
+a girl
+a pink shirt
+a pink shirt
+a ball
+a ball
+a ball
+a ball
+a ball
+a young girl
+a field
+blond hair
+a man
+a man
+a man
+a man
+a man
+the beach
+the beach
+the beach
+the beach
+a woman
+a woman
+a woman
+a woman
+a violin
+a violin
+a microphone
+the snow
+the snow
+the snow
+a child
+a child
+a child
+a skateboard
+a skateboard
+a skateboard
+a skateboard
+a skateboard
+a building
+his skateboard
+a blue jacket
+a man
+a tent
+a tent
+a tent
+a tent
+a boat
+a boat
+a boat
+a boat
+a child
+a child
+a child
+a child
+a child
+a lake
+a field
+a field
+a field
+a field
+a field
+a peace sign
+a peace sign
+a man
+a man
+a man
+a man
+a man
+a yellow shirt
+a yellow shirt
+a yellow shirt
+a yellow shirt
+black pants
+a woman
+a woman
+a woman
+a stick
+black pants
+a man
+a man
+a black hat
+a black top
+a tree
+a lake
+a lake
+a girl
+a girl
+a girl
+a girl
+a white dress
+a white dress
+a white shirt
+a man
+a man
+a man
+a man
+a green wig
+a green wig
+a ponytail
+a green wig
+the street
+a man
+a man
+a man
+a man
+her head
+a bottle
+a white dress
+a woman
+a woman
+a woman
+his hands
+his hand
+a blue shirt
+a street
+a man
+a man
+her hand
+a cellphone
+a woman
+a street
+a sidewalk
+a street
+a green shirt
+a cup
+a woman
+a brown shirt
+a green shirt
+a man
+a brown shirt
+a white shirt
+a white shirt
+a desk
+a desk
+a desk
+a desk
+a desk
+a yellow shirt
+a yellow shirt
+a man
+a man
+a man
+a man
+a stage
+a stage
+a stage
+a woman
+a woman
+a tattoo
+a car
+a car
+a car
+a car
+a car
+the snow
+the snow
+the snow
+the dirt
+the dirt
+the dirt
+the dirt
+a man
+a man
+a man
+a blue shirt
+a gray shirt
+a gray shirt
+a gray shirt
+a gray shirt
+a man
+his face
+a man
+a man
+his head
+his head
+a blue shirt
+his head
+a black shirt
+his mouth
+a boy
+a boy
+a boy
+a soccer ball
+a soccer ball
+a soccer ball
+the grass
+a building
+a man
+a man
+a man
+a man
+a man
+a red jacket
+a red jacket
+a red jacket
+a helmet
+a bike
+a bike
+a bike
+a white shirt
+a white shirt
+a white shirt
+a white shirt
+water
+water
+a large bubble
+a large bubble
+the water
+long hair
+sunset
+sunset
+a large snowball
+long hair
+a man
+a man
+a man
+a yellow backpack
+a man
+a man
+a man
+a river
+a young girl
+a woman
+a woman
+a woman
+a girl
+a woman
+a log
+a log
+a dog
+her hand
+a red and black and white outfit
+a red and black and white outfit
+a red and black and white outfit
+a red and black and white outfit
+a dirt road
+a dirt road
+a dirt road
+a man
+a field
+a yellow shirt
+a yellow shirt
+a red shirt
+a yellow shirt
+a large cloudy sky
+a cloudy sky
+the sky
+the sky
+a man
+a child
+a woman
+a woman
+a woman
+a woman
+a woman
+a black shirt
+a table
+a table
+a restaurant
+a black shirt
+a man
+a man
+a man
+a man
+a man
+a bike
+a bike
+a bike
+a car
+the street
+a man
+a man
+a ball
+a ball
+a ball
+a ball
+a ball
+a pool
+a pool
+a man
+a pool
+a group of people
+a group of people
+a building
+a building
+a building
+a bag
+a white shirt
+a building
+a basket
+a UNK
+a man
+a man
+a man
+a man
+a man
+a man
+a red shirt
+a red shirt
+a man
+a man
+a blue shirt
+a plaid shirt
+a plaid shirt
+a plaid shirt
+a camera
+a camera
+a camera
+a camera
+a camera
+long hair
+the street
+a woman
+a woman
+a woman
+a woman
+a child
+a child
+a child
+a child
+a child
+a child
+jeans
+a woman
+a woman
+a woman
+a ponytail
+a ponytail
+a blue shirt
+a blue shirt
+a blue shirt
+a woman
+a woman
+a cigarette
+a woman
+a man
+a woman
+a woman
+a black shirt
+a black shirt
+a man
+a cellphone
+a woman
+a cellphone
+a rock wall
+a man
+a microphone
+a microphone
+a microphone
+a large metal structure
+a large metal structure
+a fire
+a woman
+a woman
+a woman
+a woman
+shorts
+shorts
+a blue shirt
+a blue shirt
+long hair
+a toy
+a toy
+a toy
+a toy
+a field
+a car
+a child
+the grass
+a fence
+a fence
+a man
+a man
+the stairs
+a fence
+a man
+a girl
+a young boy
+a man
+a man
+a man
+a man
+a man
+a man
+a child
+a child
+a child
+a child
+his hand
+a man
+a black bag
+a pole
+a pole
+a man
+a man
+a woman
+a woman
+a woman
+a flag
+a flag
+a flag
+a man
+his hand
+a beard
+a football player
+a football player
+a football player
+a football player
+a man
+a man
+a field
+a woman
+a woman
+a woman
+a pink and white headband
+a pacifier
+her face
+a child
+a child
+a child
+a child
+a child
+a meal
+a blue hat
+a blue hat
+a blue hat
+a woman
+a black shirt
+a crowd
+a crowd
+a crowd
+a crowd
+a crowd
+a crowd
+a crowd
+a girl
+a girl
+a girl
+a girl
+a field
+a field
+a field
+a field
+a field
+a blue shirt
+a blue shirt
+a ball
+a young girl
+a young girl
+a young girl
+a young girl
+a young girl
+a pink sweater
+a pink sweater
+a blanket
+her eyes
+a wooden floor
+a wooden floor
+a face
+a smile
+a woman
+a man
+a man
+a black shirt
+a black shirt
+a black shirt
+a black hat
+a hat
+a hat
+guitar
+guitar
+guitar
+a microphone
+a man
+a man
+a man
+a blue shirt
+a blue shirt
+a colorful hat
+a white shirt
+a white shirt
+a white shirt
+a white shirt
+a stage
+a stage
+a tattoo
+a tattoo
+a bench
+a bench
+a blue shirt
+a woman
+a woman
+a woman
+a black tank top
+a black tank top
+a bikini
+a woman
+a woman
+a white shirt
+a blue shirt
+a field
+a field
+a field
+a dog
+a man
+a man
+a black vest
+a fire
+a fire
+a white shirt
+a man
+a man
+a man
+a black dog
+a black dog
+a black dog
+a black dog
+a black dog
+a tree
+a tree
+a tree
+a tree
+a man
+a man
+a man
+a man
+a man
+a dirt bike
+a dirt bike
+a dirt bike
+a dirt bike
+a dirt bike
+the dirt
+a dirt bike
+a man
+a man
+a man
+a man
+a bike
+a bike
+a bike
+a bike
+a bike
+a building
+a path
+a skateboard
+blue jeans
+a black dog
+a black dog
+a black dog
+a ball
+water
+water
+a frisbee
+a frisbee
+a boat
+a black jacket
+a black jacket
+a black jacket
+sunglasses
+a black hat
+a black hat
+a black jacket
+a black jacket
+a UNK
+a UNK
+a UNK
+a UNK
+a man
+a man
+a man
+a man
+a green jacket
+a man
+a snowboard
+a ramp
+a ramp
+a ramp
+a ramp
+a woman
+a woman
+a black shirt
+a black shirt
+a table
+a table
+a microphone
+a large white room
+a large white room
+a bed
+a bed
+a bed
+a bed
+a red and black dog
+pink
+a red and black dog
+a red and black dog
+a bed
+a red blanket
+a man
+a man
+a man
+a man
+a man
+shorts
+shorts
+black pants
+a bike
+a bike
+a bike
+a bike
+a bike
+a blue hat
+a sidewalk
+a lawn
+a lawn
+a woman
+a woman
+a black shirt
+a yellow kayak
+a yellow kayak
+a child
+a child
+a child
+a child
+a lake
+a lake
+a blue hat
+a man
+a camera
+a man
+a building
+a building
+a building
+a building
+a building
+UNK
+a sign
+a red mat
+a dog
+a dog
+a dog
+a dog
+a dog
+a man
+a man
+a black shirt
+a black shirt
+a black shirt
+a man
+a man
+a man
+a man
+a man
+a red UNK
+a man
+a red and white striped shirt
+a red UNK
+a red UNK
+a red UNK
+a man
+a man
+a black shirt
+a black shirt
+a black shirt
+a stick
+a green shirt
+a skateboard
+blue jeans
+blue jeans
+a ladder
+a ladder
+a ladder
+a ladder
+a ladder
+a ladder
+a ladder
+a ladder
+a red tie
+a red tie
+blue jeans
+blue jeans
+a microphone
+jeans
+a man
+a man
+a man
+a man
+shorts
+shorts
+shorts
+a table
+a man
+a man
+a man
+a white shirt
+a white shirt
+the street
+a white shirt
+a white shirt
+a building
+a boy
+a boy
+a ball
+a fence
+a field
+a field
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a flower
+a pot
+a store
+a man
+a man
+a man
+a woman
+a woman
+his face
+a street
+a red umbrella
+a red umbrella
+a street
+his head
+a street
+a UNK
+a street
+a girl
+blue
+a red belt
+a black uniform
+a man
+a man
+a man
+a man
+black pants
+a white hat
+a white hat
+a tree
+a tree
+a tree
+a tree
+a ball
+a ball
+a dog
+a dog
+a ball
+a ball
+a ball
+a ball
+a ball
+a ball
+a car
+a car
+a car
+a car
+a blue skirt
+a blue skirt
+a blue skirt
+a skateboard
+a road
+a car
+a car
+a car
+a car
+a UNK
+a car
+a basket
+a basket
+a flag
+the street
+the street
+the street
+a car
+a man
+a man
+a man
+a trumpet
+a trumpet
+a trumpet
+a microphone
+a red shirt
+a red shirt
+a microphone
+a man
+a man
+a man
+a hat
+a hat
+a hat
+a yellow shirt
+a green shirt
+a blue button
+a blue button
+a bench
+a microphone
+a chair
+a chair
+a hammer
+his hands
+a bench
+a bench
+a door
+a building
+a hammer
+a man
+a house
+a woman
+a woman
+a woman
+a woman
+a woman
+a parade
+a parade
+a colorful dress
+a colorful dress
+a colorful dress
+a large UNK
+a woman
+a woman
+a man
+a man
+a man
+a man
+a table
+a red curtain
+a table
+a table
+a red dress
+a red dress
+a red dress
+a counter
+a counter
+a child
+a cart
+a wheelbarrow
+a sidewalk
+a dirt road
+a wheelbarrow
+a wheelbarrow
+a street
+a man
+a man
+a man
+a man
+a table
+a microphone
+a table
+a table
+a wall
+a window
+a man
+a man
+a man
+a man
+a red bag
+a red bag
+a red bag
+a red banner
+a red banner
+a red banner
+a red sign
+a red shirt
+a man
+a man
+a pot
+a tv
+a white table
+a computer screen
+a man
+a man
+a UNK
+a dirt path
+a dirt path
+a dirt path
+a little girl
+a little girl
+a child
+a little girl
+a little girl
+a face
+a white and pink outfit
+a white and pink outfit
+a white and pink outfit
+a white and pink outfit
+blue jeans
+a man
+a man
+a man
+a man
+a lake
+a lake
+a lake
+a lake
+the mountains
+a man
+sunset
+a boat
+a man
+a beard
+a man
+a man
+a man
+a man
+a man
+a man
+a rope
+a man
+a man
+a tree
+a tree
+a tree
+sand
+a river
+a boat
+a boat
+the water
+the water
+a river
+a man
+a man
+a man
+a man
+a man
+a woman
+a woman
+a woman
+a ponytail
+her hand
+a red shirt
+a child s hand
+a child s hand
+a red shirt
+a red collar
+a child
+her hand
+a man
+a man
+the ocean
+the ocean
+the ocean
+the ocean
+the beach
+the beach
+a construction worker
+a construction worker
+a yellow truck
+a yellow truck
+a train
+a train
+a bike
+a red building
+a construction worker
+a construction worker
+a yellow truck
+a boy
+a young boy
+a boy
+a toy
+a toy
+a girl
+a girl
+a blond hair
+his tongue
+his tongue
+a window
+a woman
+a woman
+a man
+a man
+a man
+a man
+a man
+a horse
+a horse
+a horse
+the street
+the street
+the street
+a black jacket
+a dog
+a dog
+a dog
+a dog
+a woman
+a woman
+a woman
+a woman
+a woman
+a green shirt
+a green shirt
+a bridge
+a mountain
+the sky
+a tree
+a mountain
+a mountain
+a young girl
+a young girl
+a young girl
+a blue shirt
+a blue shirt
+a blue shirt
+a stick
+a dog
+a dog
+a dog
+a dog
+a hat
+a woman
+a crowd
+a crowd
+a sign
+a sign
+a sign
+a sign
+UNK
+a man
+a child
+a red hat
+a white uniform
+a white uniform
+red
+white
+white
+the ball
+a man
+a beach
+a beach
+a beach
+a beach
+a beach
+a bikini
+a bikini
+a bikini
+the beach
+the beach
+a guitar
+a guitar
+a black shirt
+a guitar
+a black shirt
+a black shirt
+a black hat
+a black hat
+glasses
+a man
+a man
+a man
+a black shirt
+a black shirt
+a cellphone
+a drink
+a cellphone
+a cellphone
+a drink
+his hand
+brown hair
+a chair
+a chair
+a chair
+a white and blue shirt
+a white suit
+a white suit
+a computer
+a wooden structure
+a chair
+a gray shirt
+a gray shirt
+a gray shirt
+a chair
+a woman
+a black shirt
+a gray shirt
+a wooden floor
+a room
+its mouth
+a dog
+a dog
+a white dog
+its head
+a man
+a man
+a man
+a man
+a man
+a bowl
+a table
+a wooden bench
+a woman
+a woman
+a woman
+a rock
+a rock
+a man
+a snowy hill
+a snowy hill
+a snowy hill
+a snowy hill
+a man
+a black jacket
+a large body of water
+a child
+a child
+a child
+a child
+a child
+a child
+a child
+a brown and white dog
+a brown and white dog
+blue jeans
+a dog
+a dog
+a dog
+a dog
+a backpack
+a dog
+a dog
+a woman
+a woman
+black shirt
+black shirt
+black
+black
+black
+a black skirt
+a black skirt
+a black skirt
+a ball
+a ball
+a ball
+a basket
+a basket
+a hand
+a black jacket
+a black jacket
+a man
+a man
+a man
+a blue bag
+a store
+a store
+a store
+a store
+a dog
+a dog
+a man
+a man
+a man
+a red shirt
+a sidewalk
+a sidewalk
+a man
+a table
+his hand
+a black purse
+a man
+a man
+a hockey player
+a referee
+a hockey stick
+a hockey stick
+a hockey stick
+a referee
+a referee
+a man
+a man
+a camera
+a bike
+a crowd
+a crowd
+a crowd
+a crowd
+the street
+a crowd
+a large rock
+a large rock
+a tree
+a woman
+a tree
+a man
+a man
+a man
+a white shirt
+a man
+a horse
+a stick
+a man
+a man
+a man
+a man
+a man
+a green shirt
+a green shirt
+a blue chair
+jeans
+a guitar
+a guitar
+a guitar
+blond hair
+a green jacket
+a green jacket
+a yellow shirt
+a yellow jacket
+a hat
+a man
+a man
+a cart
+a man
+a man
+a hat
+a rock
+a rock
+a lake
+the water
+the water
+a street
+a street
+a street
+a street
+a large group of people
+a large group of people
+a large group of people
+the sun
+a black dog
+a black dog
+a black dog
+a black dog
+a UNK
+the snow
+the snow
+the snow
+a man
+a man
+dirt
+rocks
+a man
+a man
+a man
+her hand
+a black jacket
+a room
+a man
+a man
+a man
+his face
+his face
+his face
+his face
+his face
+a striped shirt
+a cup
+a striped shirt
+a white shirt
+a white shirt
+a white shirt
+a man
+his hand
+his hand
+his hand
+his hand
+his hand
+a man
+a camera
+a camera
+a building
+a building
+a building
+a black shirt
+a black shirt
+a man
+a bike
+a bike
+a bike
+a bike
+a street
+a street
+a man
+a man
+a man
+a man
+a car
+a car
+a car
+a car
+a wheelbarrow
+a table
+a table
+a table
+a table
+a bridge
+a bridge
+a bridge
+a library
+a room
+a room
+a stage
+a stage
+a man
+a microphone
+a man
+a man
+a man
+a man
+a microphone
+a man
+a man
+a man
+a man
+a man
+a man
+a blue hat
+a blue hat
+a blue hat
+a meal
+a meal
+a meal
+a box
+a box
+a man
+a table
+a man
+a man
+a crane
+a crane
+a crane
+a crane
+a man
+jeans
+a helmet
+a woman
+a woman
+a chair
+a chair
+a man
+a man
+a man
+a man
+a man
+a man
+brown hair
+a black shirt
+a black shirt
+a black shirt
+a table
+a table
+a table
+a woman
+a girl
+a girl
+a girl
+a girl
+a girl
+a girl
+a black and white leotard
+a woman
+a woman
+a ball
+a black swimsuit
+a man
+a man
+a man
+a man
+a man
+a child
+a child
+a cigarette
+a cigarette
+a man
+a bird
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+snow
+a man
+a man
+a man
+a man
+a man
+a man
+a microphone
+a microphone
+her hand
+a woman
+a woman
+a black shirt
+a pool
+a pool
+a pool
+a pool
+a table
+a white shirt
+a white shirt
+a pool
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a microphone
+a drink
+a microphone
+a computer
+a computer
+a screen
+a tv
+a tv
+a blanket
+a blanket
+a blanket
+a yellow shirt
+a blue wall
+a blue wall
+blue jeans
+UNK
+a blue hat
+a man
+a man
+a man
+a man
+a man
+a dirt road
+a dirt road
+a dirt road
+a dirt road
+a dirt road
+a dirt road
+a motorcycle
+a red car
+a red car
+a microscope
+a crowd
+a woman
+a woman
+a woman
+a woman
+a woman
+a black jacket
+a ponytail
+her hand
+a black and red scooter
+a red shirt
+the street
+a black jacket
+the street
+a man
+a man
+a man
+a man
+a man
+a microphone
+a microphone
+a flag
+a man
+a man
+the floor
+the floor
+a large crowd
+a man
+a man
+a man
+a white shirt
+a white shirt
+a cigarette
+a cigarette
+a cigarette
+a cigarette
+a little girl
+a white shirt
+a white shirt
+a white shirt
+a white shirt
+a white shirt
+a rock
+a rock
+a rock
+a rock
+a rock
+his hand
+a puddle
+blond hair
+a path
+a woman
+a woman
+a woman
+a woman
+a microphone
+a man
+a man
+a man
+a sign
+black hair
+long hair
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a tattoo
+a man
+a man
+a woman
+a woman
+a red shirt
+a man
+a man
+a man
+a woman
+the street
+the street
+the street
+a woman
+a woman
+a red bag
+a stage
+a man
+a man
+a screen
+a man
+a woman
+a boat
+a boat
+the water
+the sun
+a boat
+a tree
+a building
+a building
+a woman
+a woman
+a UNK
+a room
+a man
+a man
+a man
+a microphone
+a microphone
+a man
+a man
+a man
+a large gold mask
+a boy
+a boy
+a yellow and yellow toy
+a yellow and yellow toy
+a yellow and yellow toy
+a man
+a man
+a man
+glasses
+jeans
+a bench
+jeans
+jeans
+a building
+a building
+jeans
+jeans
+a sidewalk
+a man
+a man
+a man
+a man
+a cellphone
+a cellphone
+the street
+the street
+a street
+a car
+a hat
+a hat
+a hat
+a hat
+a man
+a man
+a woman
+a woman
+a woman
+a blue jacket
+a blue jacket
+a woman
+a woman
+a woman
+a woman
+a brown jacket
+a woman
+a woman
+a woman
+a woman
+black hair
+a blue hat
+a blue hat
+glasses
+a plaid shirt
+a plaid shirt
+a hat
+a building
+a building
+a woman
+a woman
+a sidewalk
+a man
+a man
+a man
+a dog
+a microscope
+a microscope
+a microscope
+a dog
+a dog
+a woman
+a store
+a store
+a store
+a store
+a store
+a man
+a woman
+a woman
+a dirt path
+a dirt path
+a dirt path
+a white shirt
+a path
+a path
+a path
+a path
+a rock
+a rock
+his cellphone
+a white shirt
+a white shirt
+a desk
+a desk
+a desk
+a desk
+a desk
+a man
+the street
+the street
+a yellow jacket
+a yellow jacket
+a woman
+a yellow jacket
+a woman
+a woman
+a woman
+a woman
+a woman
+a cellphone
+a cellphone
+a cellphone
+a cellphone
+a woman
+a woman
+a woman
+long hair
+long hair
+long hair
+a man
+a man
+a man
+a man
+a man
+a blue shirt
+a bowl
+a window
+a train
+a train
+a bench
+a yellow bus
+a train
+a child
+a child
+a pool
+a pool
+a pool
+a pool
+a man
+a man
+a man
+a man
+jeans
+a store
+a store
+a white shirt
+a man
+a man
+a man
+a man
+a table
+a table
+a table
+a book
+a book
+a table
+a table
+a cigarette
+a man
+a man
+a man
+a man
+a man
+a building
+a building
+a sign
+a sign
+a black vest
+a black vest
+a black vest
+a hat
+a hat
+a hat
+a microphone
+a man
+a man
+a black hat
+a black hat
+a man
+a man
+a brick wall
+a brick wall
+a brick wall
+a wall
+a toy
+the street
+a woman
+a woman
+a woman
+a man
+a man
+a man
+the street
+the street
+a man
+a man
+a book
+a book
+a mustache
+a man
+glasses
+the street
+the street
+a man
+a man
+a smile
+a brown dog
+a brown dog
+a brown dog
+a yellow ball
+a yellow ball
+a yellow ball
+a yellow ball
+a yellow ball
+a green hat
+a dog
+a man
+a blue dress
+a train
+a train
+a large black truck
+a sign
+a young girl
+a black shirt
+a black shirt
+a man
+a man
+a man
+a building
+a building
+a building
+a bottle
+a fountain
+a hat
+a face
+a red dress
+a red dress
+a red dress
+a woman
+a red bag
+a red umbrella
+a boy
+a boy
+a boy
+a boy
+a blue ball
+a boy
+a boy
+a man
+the sand
+a bench
+a building
+a microphone
+a stage
+a sign
+a blue wall
+a blue top
+a wall
+a man
+a man
+a field
+a blue shirt
+a blue shirt
+a blue shirt
+a sign
+a sign
+a sign
+a sign
+a man
+a man
+a green shirt
+a green shirt
+a man
+a man
+a blue jacket
+her hand
+a green shirt
+a desk
+a desk
+a restaurant
+a building
+UNK
+UNK
+UNK
+UNK
+UNK
+a parade
+a parade
+a man
+a man
+a man
+a man
+a man
+a man
+a flag
+a flag
+a flag
+a flag
+the street
+the street
+a man
+a man
+a bucket
+a bucket
+a bucket
+a yellow car
+a man
+a woman
+a man
+a man
+jeans
+a striped shirt
+a striped shirt
+a striped shirt
+a striped shirt
+a tent
+a yellow shirt
+a woman
+a man
+a man
+a man
+a red purse
+a red purse
+a bench
+a bench
+a bench
+a pot
+a man
+a bench
+a bench
+a bench
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a camera
+a man
+a man
+a man
+a man
+a man
+a brown jacket
+a camera
+a man
+a man
+a black shirt
+a bench
+a bench
+a bench
+a bench
+a bench
+a man
+a man
+a man
+a man
+a microphone
+a red UNK
+a red UNK
+a red and white
+a mustache
+a woman
+a woman
+a building
+a building
+a building
+a building
+a building
+a building
+a building
+a wall
+a woman
+blond hair
+blond hair
+her face
+a red shirt
+a woman
+blue pants
+blue pants
+a blue jacket
+blue pants
+blue pants
+blue pants
+a skateboard
+a tree
+a tree
+a tree
+a tree
+a blue shirt
+a building
+a girl
+a girl
+a girl
+a girl
+a wooden floor
+a wooden floor
+a bikini
+red and white
+red and white stripes
+red and white stripes
+black pants
+a small wooden floor
+a UNK
+a man
+a man
+a shop
+a store
+a store
+a store
+a UNK
+a train
+the street
+the street
+a library
+a library
+a library
+a library
+a table
+a table
+a book
+a book
+a sign
+a sign
+her face
+a microphone
+a man
+a man
+a man
+a man
+a young girl
+a young girl
+a young girl
+a young girl
+a young girl
+a red scarf
+a brown jacket
+blond hair
+blond hair
+a man
+a man
+a man
+a man
+a food stand
+a food stand
+a food stand
+food
+food
+food
+food
+a white shirt
+a white shirt
+a sign
+a pink jacket
+a woman
+long hair
+a striped shirt
+a striped shirt
+a striped shirt
+a striped shirt
+a pink shirt
+a pink shirt
+a pink shirt
+a pink shirt
+a woman
+a woman
+a woman
+a woman
+her face
+her face
+a pink shirt
+a group of people
+a man
+a man
+a man
+a man
+a man
+a woman
+a man
+a sidewalk
+the street
+a street
+a street
+a blond hair
+a blond hair
+a blond hair
+a blond woman
+a hat
+a hat
+a hat
+a woman
+a woman
+a hat
+a hat
+a swing
+a cigarette
+her hair
+her hair
+a woman
+a table
+a table
+a table
+a building
+a building
+a woman
+a woman
+a white dress
+a white dress
+a white dress
+a white dress
+a white dress
+a white dress
+a woman
+a woman
+a woman
+a woman
+a blue dress
+a blue jacket
+a child
+her shoes
+a crowd
+a woman
+a woman
+a woman
+a woman
+a young girl
+a young girl
+a young girl
+a woman
+a woman
+a table
+a table
+a woman
+a woman
+a woman
+jeans
+jeans
+a white shirt
+a white shirt
+a white shirt
+a bowl
+a bowl
+a pot
+a pot
+a man
+a man
+a man
+a man
+a man
+a yellow shirt
+a yellow shirt
+black pants
+a beard
+a beard
+his head
+a man
+a yellow and yellow and green and white striped blue and white striped shirt
+a man
+a red button
+a black purse
+a black purse
+a black shirt
+a microphone
+a blue tie
+a man
+a backpack
+a man
+glasses
+a street
+a street
+a street
+a street
+a street
+a tree
+a tree
+her dog
+her dog
+her dog
+her dog
+a tree
+a tree
+a woman
+a woman
+a woman
+a woman
+shorts
+a red shirt
+a building
+a wall
+a building
+a pink shirt
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a bridge
+a bridge
+a bridge
+the water
+the water
+the water
+the water
+the water
+the water
+a woman
+a woman
+a woman
+a car
+a car
+a car
+a car
+a yellow jacket
+a yellow jacket
+a yellow jacket
+a yellow jacket
+a yellow jacket
+a street
+a yellow hat
+a car
+a car
+a man
+a man
+a white shirt
+a white shirt
+a table
+a table
+a table
+a table
+a man
+a man
+a man
+a man
+a black shirt
+red UNK
+a table
+a table
+a table
+UNK
+a street
+a man
+a man
+a man
+a man
+a man
+a blue uniform
+a blue uniform
+a ball
+a ball
+his hand
+his hand
+a man
+a man
+blue
+a ball
+a child
+a child
+a child
+a girl
+a pink shirt
+a pink shirt
+a baby
+a baby
+a baby
+a baby
+a little girl
+a striped shirt
+a striped shirt
+a woman
+a striped shirt
+a striped shirt
+a blue bag
+a man
+a striped shirt
+a striped shirt
+a striped shirt
+black pants
+black pants
+a building
+a building
+a building
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a blue shirt
+a wall
+a man
+a man
+a man
+a black shirt
+a black shirt
+blue jeans
+a street
+a street
+a street
+a white shirt
+a cigarette
+a UNK
+a man
+a hand
+a man
+a man
+a sidewalk
+a sidewalk
+a black jacket
+a brown jacket
+a path
+a tree
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a green jacket
+a green jacket
+jeans
+a dirt path
+a man
+a microphone
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a black jacket
+a black jacket
+a microphone
+her head
+a man
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a fence
+a fence
+a fence
+a fence
+a man
+a man
+shorts
+shorts
+sunglasses
+a man
+a man
+a man
+a man
+a large body of water
+a man
+a woman
+a woman
+a woman
+a UNK
+a UNK
+a UNK
+her mouth
+a green shirt
+a green shirt
+a green shirt
+a red UNK
+a blue helmet
+a bike
+a bike
+a bike
+a ramp
+a ramp
+a dirt road
+trees
+a bike
+a sign
+a woman
+white shorts
+a man
+a man
+a man
+a man
+a building
+a building
+a building
+a building
+a rope
+a tree
+a man
+a sidewalk
+a man
+a man
+a man
+a man
+a man
+his neck
+his neck
+his arm
+a building
+a building
+UNK
+UNK
+UNK
+a man
+a man
+a man
+a woman
+a man
+a red jacket
+red
+a red jacket
+a building
+a building
+a building
+a building
+a house
+a red sign
+a woman
+a woman
+a black and white uniform
+a black and white uniform
+a black and white uniform
+a black and white uniform
+a street
+a red belt
+a man
+a man
+a man
+a pink ribbon
+a pink ribbon
+a green hat
+a green hat
+a blue headband
+the sidewalk
+the sidewalk
+the sidewalk
+a black jacket
+a large white UNK
+a microphone
+a large group of people
+a large group of people
+a tattoo
+a man
+a restaurant
+a man
+a woman
+a woman
+a beer
+a meal
+a meal
+a building
+a building
+a building
+a building
+a sidewalk
+a sign
+a sidewalk
+a machine
+a train
+a sign
+a building
+a black dress
+a black dress
+a black dress
+a blue dress
+a blue dress
+a scarf
+a city
+a city
+a city
+a street
+a man
+a man
+a man
+his mouth
+a skateboard
+a camera
+the street
+a red hat
+a woman
+a white shirt
+a red hat
+a man
+a green jacket
+a green jacket
+a green jacket
+a woman
+a woman
+a green shirt
+a green shirt
+a green shirt
+a green shirt
+a man
+a man
+a man
+a blue jacket
+a blue jacket
+a blue jacket
+his foot
+blue
+a blue jacket
+a blue jacket
+a blue jacket
+a blue shirt
+a building
+a table
+a table
+a girl
+a girl
+a girl
+a girl
+a pink shirt
+a pink shirt
+a building
+a building
+a building
+a building
+a building
+a woman
+a woman
+a woman
+a blue UNK
+a blue UNK
+a blue UNK
+blue jeans
+the beach
+the beach
+the beach
+the beach
+the beach
+a woman
+a man
+a man
+a man
+a microphone
+a microphone
+a microphone
+a microphone
+a pole
+a pole
+a sidewalk
+a sidewalk
+a table
+a white shirt
+a sidewalk
+a woman
+a blue dress
+a hat
+a black dress
+a woman
+a woman
+a path
+a woman
+a dress
+a blue jacket
+a blue jacket
+a blue jacket
+a yellow and red jacket
+a yellow and red jacket
+a yellow and red jacket
+a red and white bikini
+a man
+a man
+a store
+a store
+a man
+a hat
+a hat
+a man
+a man
+a man
+a man
+a red jacket
 a man
 a man
 a man
 a man
 a podium
+a suit
+a podium
+a man
+a man
+a man
+a white shirt
+a white shirt
+a white shirt
+jeans
 jeans
 a man
 a man
-a microphone
-a microphone
-a black mohawk
-a microphone
-a woman
-a woman
-a woman
-a woman
-a large crowd
-a large crowd
-a drum
-a drum
-a drum
-a store
-a store
-a statue of a woman
-a dog
-a dog
-a dog
-a dog
-a dog
-a dog
-a dog
-a dog
-a woman
-a woman
-a white shirt
-a hat
-a mask
-a black and red shirt
-a crowd
-a snowy field
-a snowy field
 a man
-a man
-a man
-a park
-a white umbrella
-a man
-a man
-a green field
-a brown and white dog
-a ball
-a ball
-a large white building
-a dog
-a dog
-a woman
-a woman
-a woman
-a woman
-a yellow shirt
-a yellow shirt
-a yellow shirt
-a meal
-a meal
-a meal
-a meal
-a meal
-a table
-a man
-a man
-a man
-a man
-a man
-a man
-a man
-a man
-a man
-a red hat
-a red hat
-a large metal structure
-a large metal structure
-a blue skateboard
-a young girl
-a young girl
-a young girl
-a young girl
-a young girl
-a young girl
-a young girl
-a young girl
-a blue jacket
-a blue jacket
-a blue jacket
-a blue jacket
-a blue jacket
-a skateboard
-a skateboard
-a skateboard
-a sidewalk
-a sidewalk
-a small child
-a woman
-a woman
-a young man
-a man
-a man
-a young man
-a face
-a face
-a black shirt
-a black shirt
-jeans
-a rock
-a rock
-a rock
-blue jeans
-a rock face
-a rock face
-a black jacket
-a man
-a man
-a man
-a man
-the street
-the street
-a man
-a man
-a white shirt
-a table
-a man
-a man
-a woman
-a woman
-a white shirt
-a white shirt
-a stick
-a stick
-a stick
-a building
-a large red object
-a path
-a young man
-a black shirt
-a black shirt
-blue jeans
-a piece of paper
-a piece of paper
-a truck
-a truck
-a white umbrella
-a car
-a woman
-a woman
-a sign
-a UNK mask
-a UNK mask
-a UNK mask
-a man
-a man
-a man
-a wave
-a wave
-a wave
-a man
-a man
-a man
-a man
-a man
-a bus
-a bus
-a UNK store
-a dirt road
-a dirt road
-a dirt road
-a dirt road
-a dirt road
-a dirt road
-a dirt road
-a dirt road
-a dirt road
-a red and white uniform
-a red and white uniform
-a football player
-a football player
-a football player
-a football player
-a football player
-a football player
-a football player
-red
-the field
-a football player
-a football player
-a football player
-a football player
-a crowd
-a football player
-a black and white uniform
-a red shirt
-a red shirt
-a wooden floor
-a man
-a man
-a man
-a man
-a man
-the puck
-a face
-a white shirt
-a white shirt
-a field
-a field
-a red jersey
-a red jersey
-a red jersey
-a red jersey
-a red jersey
-a red jersey
-a red jersey
-a large ball
-a number
-a red jersey
-a young boy
-a young boy
-a young boy
-a young boy
-a young boy
-a young boy
-a young boy
-a young boy
-black shorts
-black shorts
-black pants
-the street
-a man
-a blue shirt
-a man
-a man
-a man
-a man
-a mustache
-a blue hat
-a blue hat
-a young man
-a microphone
-a group of people
-a green blanket
-a green blanket
-a green blanket
-a green table
-a little girl
-a little girl
-a little girl
-a green lawn
-a park
-a tree
-a woman
-a woman
-a woman
-a woman
-a red haired woman
-a woman
-a piece of paper
-a piece of paper
-a piece of paper
-a piece of paper
-a table
-a table
-a man
-a man
-sunglasses
-a child
-a child
-a child
-her eyes
-her eyes
-a blue slide
-a blue slide
-a blue slide
-a man
-a dog
-a dog
-a dog
-a dog
-a dog
-a dog
-a dog
-a black collar
-a black collar
-a grassy field
-a grassy field
-a small white dog
-a field
-a field
-a white shirt
-a white shirt
-a white shirt
-a white shirt
-a ball
-a man
-a white shirt
-a white shirt
-a man
-a man
-a man
-a man
-a man
-a young girl
-a white shirt
-a man
-a man
-a dance floor
-a young boy
-a young boy
-a young boy
-a young boy
-a blue shirt
-red
-red
-red
-a computer screen
-a computer screen
-a desk
-a table
-a bottle
-a man
-a table
-a brown dog
-a brown dog
-a brown dog
-a black collar
-a black collar
-a stick
-the beach
-a boat
-a boat
-a boat
-a boat
-a boat
-a boat
-a boat
-a boat
-a boat
-a boat
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a cart
-a store
-a street
-a truck
-a young boy
-a young boy
-a camera
-a man
-a black jacket
-a black vest
-a black jacket
-a beard
-a man
-a man
-a man
-a black hat
-a man
-a man
-a man
-a large dog
-a large dog
-a large dog
-the beach
-a man
-a man
-a field
-a field
-a yellow balloon
-a yellow balloon
-a yellow balloon
-a yellow balloon
-a black hat
-a young boy
-a man
-a man
-a man
-a man
-a beard
-a red shirt
-a white hat
-a white hat
-a white hat
-a woman
-a woman
-a woman
-a woman
-a funny face
-a funny face
-a face
-a little boy
-a little boy
-a little girl
-a little girl
-a little girl
-a little girl
-a blue hat
-a tree
-a small metal bowl
-a small wooden platform
-a blue hat
-a small UNK
-a white shirt
-the sidewalk
-the sidewalk
-a UNK
-a street
-a street
-a street
-a woman
-a girl
-a young girl
-glasses
-a green shirt
-a green shirt
-a woman
-a woman
-a woman
-a girl
-a woman
-a woman
-a woman
-a woman
-a woman
-a cellphone
-a cigarette
-a group of people
-a young girl
-a sign
 a man
 a man
 a man
 a horse
-a horse
-a horse
-a woman
-a woman
-a woman
-a white tent
-a white tent
-a white tent
-a white tent
-a man
-a man
-a man
-the base of a large pole
-a yellow safety vest
-a yellow safety vest
-a train
-a train
-a train
-a train
-a train
-a train
-a train
-a yellow shirt
-a sidewalk
-a sidewalk
-his right foot
-a train
-a large room
-a large screen
-a large screen
-a man
-a piece of wood
-a man
-a white hard hat
-a restaurant
-a fire
-a train track
-a train track
-a train track
-a UNK
-a man
-a black shirt
-a man
-a group of people
-a dog
-a dog
-a dog
-a dog
-water
-water
-water
-water
-a man
-a man
-a woman
-a woman
-a street
-a street
-a yellow safety vest
-a yellow safety vest
-a yellow shirt
-a red hat
-a red hat
-a yellow hat
-a yellow shirt
-a yellow shirt
-a yellow shirt
-a ramp
-a ramp
-a skateboard
-a machine
-a tree
-a woman
-a young boy
-a leash
-a pile of rocks
-a pile of rocks
-a pile of rocks
-the water
-a man
-a man
-a yellow and blue race car
-a yellow and blue uniform
-a red and white vehicle
-a go cart
-a go cart
-a white dress
-a white dress
-a white dress
-a woman
-a woman
-a woman
-a building
-a window
-a table
-a woman
-a room
-a room
-a room
-a sidewalk
-a wall
-a young man
-a young man
-a young man
-a young man
-a young man
-a red hat
-a red hat
-a red hat
-a red hat
-sunglasses
-sunglasses
-a blue hat
-a young boy
-a young boy
-a young boy
-a young boy
-a green shirt
-a hat
-a hat
-a hat
-a hat
-a boy
-a child
-a little girl
-a puddle
-a puddle
-a puddle
-a puddle
-a lake
-a little girl
-a little girl
-a little girl
-a little girl
-a white shirt
-a UNK
-a butterfly
-a bubble
-a man
-a lawn
-a bicycle
-a bicycle
-a bicycle
-a bicycle
-a bicycle
-a large body of water
-a large body of water
-a large body of water
-a large body of water
-a large body of water
-a lake
-a lake
-a dog
-a dog
-a dog
-a ball
-a ball
-a ball
-a man
-a man
-a man
-a man
-a red jacket
-a red jacket
-a red jacket
-a young girl
-a young girl
-a young girl
-a red shirt
-a tree
-a man
-jeans
-a man
-the sidewalk
-a man
-a young boy
-a man
-a man
-a man
-a man
-a green shirt
-a green shirt
-a green shirt
-a green shirt
-a green shirt
-a yellow shirt
-a yellow shirt
-a brown hair
-a group of people
-a group of people
-a woman
-a black shirt
-a road
-a street
-a man
-a red jacket
-a red jacket
-a blue and yellow board
-a blue and yellow board
-a blue and yellow kayak
-a large body of water
-a large wave
-a blue and yellow boat
-a blue and yellow boat
-a blue and yellow boat
-his feet
-khaki pants
-a building
-a building
-a building
-a white jacket
-a white shirt
-a white jacket
-a black shirt
-his cellphone
-a woman
-a woman
-a woman
-a table
-a table
-a table
-a man
-a man
-a man
-a man
-a man
-a man
-a couch
-a couch
-a couch
-a young boy
-a young boy
-a young boy
-a young boy
-a tattoo
-a young boy
-a young boy
-a red shirt
-a red shirt
-a red shirt
-a red and white striped shirt
-a red and white striped shirt
-a man
-a man
-a man
-a microphone
-a microphone
-a microphone
-a large sign
-a large sign
-a large sign
-a white shirt
-a white shirt
-a white shirt
-a white shirt
-a white shirt
-a book
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-glasses
-a microphone
-a microphone
-a microphone
-a microphone
-a microphone
-a crowd of people
-a group of people
-a crowd of people
-a crowd
-a crowd
-a large building
-a sign
-a young man
-a young man
-a young man
-a young man
-a white shirt
-a piece of wood
-a river
-glasses
-the beach
-a person
-a person
-a woman
-a woman
-a man
-a backpack
-a black bag
-a woman
-a statue
-a statue
-a statue
-a tree
-a black and white striped shirt
-a large white piece of wood
-a window
-a window
-a box
-a young boy
-a young boy
-a young boy
-a young boy
-a young boy
-a young boy
-a skateboard
-a skateboard
-a skateboard
-a yellow shirt
-a man
-a man
-the sand
-the sand
-the sand
-a blue shirt
-a rocky ledge
-a black dog
-a black dog
-a black dog
-a dog
-a dog
-a dog
-a grassy field
-a grassy field
-a man
-a man
-a man
-a man
-a dog
-a dog
-a man
-a blue and white ball
-a frisbee
-a man
-a field
-a field
-its mouth
-its mouth
-its mouth
-its mouth
-its mouth
-a man
-a man
-a river
-a boat
-a large group of people
-a large group of people
-a group of people
-a large group of people
-a large group of people
-a street
-a street
-a man
-a blue and white uniform
-a man
-a man
-a man
-a large display of food
-a man
-a man
-a man
-a man
-a man
-his hand
-his mouth
-a woman
-a woman
-a woman
-a black hat
-a blue shirt
-a man
 a man
 a white shirt
-a wooden bench
-a bench
-a sand dune
-a dog
-a brown dog
-a brown dog
-his mouth
-his mouth
-a tree
-a tree
-blond hair
-blond hair
-a young man
-his face
-his face
-a face
-a face
-a face
-a pile of leaves
-a table
-a bench
-glasses
-a black hat
-a black hat
-a red shirt
-a blue hat
-a man
-a man
-a little girl
-a little girl
-a little girl
-a blue hat
-a blue hat
-a little girl
-a man
-a man
-a man
-a man
-a man
-a large body of water
-a large body of water
-a man
-a rock
-a man
-a man
-a man
-a man
-a man
-a red jacket
-a backpack
-a mountain
-a man
-red pants
-a mountain
-a mountain
-a mountain
-a cart
-a fruit stand
-a cart
-a cart
-a cart
-a man
-a man
-a man
-a man
-a fruit stand
-a cart
-a crowd
-a crowd
-a crowd
-a crowd
-a crowd
-the sidewalk
-the sidewalk
-the sidewalk
-the sidewalk
-a large stone
-a large stone
-a large stone
-a man
-a man
-a white shirt
-a white shirt
-a white shirt
-a white shirt
-a piece of paper
-a piece of paper
-a bottle
-a large fish
-a large fish
-a large fish
-a young girl
-a young girl
-a young girl
-a blond hair
-a blond woman
-a blond hair
-a blond hair
-a red shirt
-a young boy
-the beach
-the beach
-the beach
-the beach
-a man
-a man
-a man
-a woman
-a woman
-a woman
-a glass
-the street
-a woman
-a man
-a man
-a man
-a man
-glasses
-a beard
-a beard
-a stick
-a stick
-a stick
-a fire
-a fire
-a fire
-a bench
-a bench
-a large piece of food
-a blue shirt
-jeans
-a ponytail
-a man
-a man
-his eyes
-his eyes
-a cigarette
-a cigarette
-a small bowl
-a man
-a man
-a man
-glasses
-a path
-a path
-a woman
-a woman
-a woman
-a woman
-a woman
-a white shirt
-a white shirt
-a woman
-a woman
-a woman
-a woman
-a pink and blue bike
-a pink pen
-a pink pen
-a pink pen
-a black mohawk
-a red and white nose
-a little girl
-a little girl
-a little girl
-a little girl
-a little girl
-a little girl
-a little girl
-a little girl
-a little girl
-a little girl
-a little girl
-a little girl
-a little girl
-a little girl
-a little girl
-a red hair
-a red hair
-a red hair
-a red hair
-red hair
-red hair
-red hair
-red hair
-his face
-a tattoo
-a man
-a man
-a man
-a green shirt
-a green shirt
-a green shirt
-a green shirt
-a young boy
-a young boy
-a young boy
-a dog
-a dog
-a dog
-a dog
-a red collar
-a red collar
-a dog
-a dog
-a game of a game
-a game of a game
-a game of a game
-a group of people
-a man
-a man
-a man
-a white shirt
-a white shirt
-a hat
-a white shirt
-a large metal structure
-a white shirt
-a construction worker
-a construction worker
-a large machine
-a large machine
-a dog
-a dog
-a dog
-a dog
-a red purse
-a red purse
-a red purse
-a red purse
-a red purse
-a woman
-a black hat
-a blue shirt
-a blue shirt
-shorts
-sandals
 a white hat
-a black dog
-a black dog
-a black dog
-a stick
-a toy
-a path
-a path
-a path
-a building
-a field
-a field
-a field
-a woman
-a woman
-a dirt track
-a large rock
-a large rock
-a large body of water
-a dog
-a dog
-a dog
-a grassy area
-a grassy area
-a grassy field
-a grassy field
-a black dog
-a black dog
-a tree
-a wall
-a wall
-a man
-a man
-a man
-a man
-a blue tablecloth
-a red hammer
-a hammer
-a hammer
-a man
-a large advertisement
-a large advertisement
-a young boy
-a young boy
-a young boy
-a young boy
-goggles
-goggles
-a bench
-a bench
-a bench
-a white shirt
-a blue skirt
-a woman
-a woman
-a woman
-a woman
-a white dress
-a white dress
-a book
-a book
-a young man
-a young girl
-a young woman
-a black and white striped shirt
-a bench
-a room
-a ball
-hands
-a black shirt
-a man
-a man
-a man
-a man
-a blue shirt
-a blue shirt
-a drink
-a group of people
-a large rock
-a group of people
-a young boy
-a boy
-a boy
-a boy
-a boy
-a blue shirt
-a blue shirt
-a blue shirt
-a blue shirt
-a large tree
-a large tree
-a large tree
-a large tree
-a large tree
-a young man
-a young man
-a young boy
-a blue shirt
-a skateboard
-a bench
-a bench
-a skateboard
-a man
-a man
-a man
-a man
-a man
-a book
-a white shirt
-a table
-a table
-shorts
-a young girl
-a little girl
-a little girl
-a young girl
-a little girl
-a laptop
-a laptop
-a young boy
-a pink shirt
-a pink shirt
-a table
-a table
-a table
-a white shirt
-a table
-a city street
-a city street
-a city street
-a man
-a man
-a ponytail
-a ponytail
-a ponytail
-a woman
-a black hair
-a ponytail
-a black mohawk
-a blue shirt
-a cellphone
-a cellphone
-his face
-his face
-a man
-a man
-a man
-a white shirt
-a grill
-a grill
-a grill
-a man
-a blue shirt
-a grill
-a grill
-a grill
-a dog
-a dog
-a dog
-a field
-a field
-a man
-a man
-a man
-a man
-a table
-a table
-a guitar
-a guitar
-a guitar
-a guitar
-a wall
-a brown dog
-a brown dog
-a brown dog
-a green lawn
-a green lawn
-a green lawn
-a green lawn
-a building
-a building
-a window
-a window
-a red shirt
-a pink shirt
-a pink shirt
-her cellphone
-her cellphone
-a pink shirt
-a cellphone
-a game
-a woman
-a woman
-a black and white shirt
-a black and white shirt
-glasses
-a woman
-a woman
-her hand
-her hand
-her hand
-her hand
-a woman
-a woman
-a woman
-a red scarf
-a red scarf
-a blue tie
-a woman
-a woman
-a woman
-a woman
-a blue shirt
-a microphone
-a UNK
-her hand
-a cowboy hat
-a cowboy hat
-a cigarette
-a white dog
-a white dog
-a white dog
-a white dog
-a woman
-a group of people
-a group of people
-a woman
-a book
-a table
-a room
-a table
-a table
-a pink and white wristband
-a woman
-a young girl
-a grassy field
-a bride
-a bride
-a bride
-a bouquet of flowers
-a bouquet of flowers
-a bouquet of flowers
-a bouquet of flowers
-a bouquet of flowers
-a man
-a man
-a man
-a man
-a woman
-a woman
-a woman
-a bride
-a bride
-a bouquet of flowers
-a bouquet of flowers
-a bouquet of flowers
-a bouquet of flowers
-a pink bag
-a gift
-a pink bag
-a gift
-a man
-a man
-a man
-a man
-a man
-a white bag
-a man
-a field
-a field
-a woman
-red hair
-a woman
-a woman
-a woman
-a woman
-a woman
-jeans
-a wall
-a colorful flag
-a wooden bench
-a stone bench
-a ball
-a ball
-a ball
-the sand
-the beach
-a man
-a pool
-a pool
-a pool
-a green shirt
-a green shirt
-a black headband
-a man
-a man
-a sidewalk
-a path
-a path
-a black shirt
-jeans
-jeans
-a man
-a young boy
-a young boy
-a skateboard
-a skateboard
-a skateboard
-a skateboard
-a woman
-a woman
-a woman
-a woman
-a street
-a street
-a statue
-blue shorts
-blue jeans
-blue jeans
-blue jeans
-a blue jacket
-a woman
-a woman
-a colorful costume
-blue jeans
-a blue ribbon
-a young boy
-a man
-a man
-a man
-a man
-a black shirt
-a black shirt
-a black shirt
-a black shirt
-a man
-a man
-a man
-a man
-a table
-a table
-a table
-a young boy
-a young boy
-a wave
-a wave
-a wave
-a red kayak
-a red kayak
-a black wetsuit
-the waves
-a wooden door
-a wooden door
-a wooden door
-a wooden door
-a wooden door
-a window
-a window
-a black suit
-a man
-a ponytail
-a ponytail
-a man
-a man
-a white scarf
-a bucket
-a newspaper
-a man
-a man
-a man
-a man
-a man
-a man
-a bathing suit
-a bathing suit
-the beach
-the beach
-the ocean
-a street
-a street
-a street
-a street
-a street
-a street
-a street
-a street
-a blue bus
-a backpack
-a man
-a man
-a man s head
-a person
-a person
-a person
-a person
-a ramp
-a ramp
-a bike
-a bike
-a bike
-a ramp
-a blue jacket
-a blue jacket
-a man
-a man
-a man
-a man
-a man
-a building
-a man
-a woman
-a woman
-a pink shirt
-a pink shirt
-a pink shirt
-a street
-a street
-a street
-sunglasses
-a woman
-a wall
-a field
-a field
-a field
-a field
-a field
-a yellow and red dress
-a yellow and red dress
-a building
-a picture of a red wall
-a woman
-a woman
-a woman
-a man
-a man
-a man
-a man
-a woman
-a red shirt
-a bus
-a bus
-a bus stop
-her hand
-a red ball
-a bowling alley
-a red and white striped shirt
-a man
-a man
-a man
-a man
-a black shirt
-a black shirt
-the street
-the street
-a red bag
-the water
-a black and white dog
-a white and white dog
-a white and white dog
-a white and white dog
-a white and white dog
-a white and white dog
-a man
-a man
-a black shirt
-a black shirt
-a black shirt
-a guitar
-a guitar
-a guitar
-a microphone
-a microphone
-a red and yellow bus
-a red and yellow bus
-a red and yellow bus
-a red and yellow bus
-a yellow umbrella
-a yellow umbrella
-a yellow umbrella
-a red hat
-a blue shirt
-a blue shirt
-a blue shirt
-a blue shirt
-a blue shirt
-a blue shirt
-a red jacket
-a woman
-a woman
-a woman
-a woman
+a fence
 white
-a white and red hat
-the basketball
-the basketball
-a basketball
-a basketball
-a man
-a man
-a man
-a sidewalk
-a sidewalk
-a briefcase
-a red hat
-a red hat
-a black jacket
-a young man
-a rock
-a rock
-a blue shirt
-a blue shirt
-a blue shirt
-a snowy mountain
-a snowy mountain
-a snowy mountain
-a bottle of water
-a bottle
-shorts
-a surfboard
-a surfboard
-a wave
-a yellow parachute
-a yellow parachute
-a yellow parachute
-a man
-a black belt
-a man
-a camera
-a white dog
-a yellow and white dog
-a yellow and white dog
-the snow
-a building
-a building
-a dog
-a dog
-a brown and white dog
-a small dog
-a brown and white dog
-a brown and white dog
-a brown and white dog
-a yellow toy
-a yellow toy
-a yellow toy
-a yellow toy
-a man
-a man
-a man
-a man
-a large brown dog
-a yellow and blue object
-a yellow and blue object
-a game
-a park bench
-a sled
-a snow covered hill
-a snowy hill
-a snowy hill
-a snowy hill
-a sled
-a snow covered hill
-a snow covered hill
-a snowy hill
-a snow covered hill
-a man
-a table
-a meal
-a UNK
-a blue and white sheet
-a blue and white sheet
-a blue and yellow tablecloth
-a black shirt
-a black shirt
-a woman
-a woman
-a woman
-a black shirt
-a black shirt
-a guitar
-a guitar
-a snowboarder
-a large pole
-a large pole
-a red and white pole
-a ramp
-a snowboard
-a person
-a man
-a restaurant
-a restaurant
-a man
-a man
-a man
-a man
-a man
-a man
-a man
-a man
-a guitar
-black hair
-a sign
-a sign
-a newspaper
-a man
-a man
-a man
-a man
-a skateboard
-a skateboard
-a bike
-a skateboard
-a skateboard
-a large metal structure
-a large metal structure
-a crowd
-a crowd
-a crowd
-a white shirt
-a white shirt
-a white shirt
-a red and white pole
-a black and white striped shirt
-a skateboard
-a man
-a man
-a man
-a man
-a man
-a man
-a microphone
-a microphone
-a blue hat
-a man
-a microphone
-a man
-a man
-a man
-a man
-a man
-a bike
-a bike
-a bike
-a bike
-a dirt road
-a man
-a man
-a blue umbrella
-a blue umbrella
-a blue shirt
-a blue shirt
-a cart
-a building
-a building
-a building
-a building
-a young boy
-a red shirt
-a red shirt
-a red shirt
-a red shirt
-a group of people
-a group of people
-a group of people
-a group of people
-a man
-a man
-a man
-a man
-a man
-a man
-a man
-a small child
-a young girl
-a red and white striped shirt
-a red shirt
-a toy
-a small wooden toy
-a small wooden toy
-a small wooden toy
-a young girl
-a white dog
-a man
-a man
-a man
-a man
-a dog
-a dog
-a dog
-a dog
-a man
-a collar
-a dog
-a table
-a large screen
-a computer
-a laptop
-a man
-a man
-a man
-a man
-a man
-a man
-a hat
-a man
-a red shirt
-a book
-a book
-a book
-a man
-a man
-a man
-a man
-a man
-a man
-a man
-a hard hat
-a man
-a man
-a man
-a man
-a man
-glasses
-a man
-a green shirt
-a green shirt
-a blue shirt
-a piece of paper
-a piece of paper
-a street
-a street
-a street
-a street
-a street
-a blue shirt
-a blue shirt
-a man
-a man
-a man
-a man
-a man
-a red shirt
-a red shirt
-a rock
-a rock wall
-a rock wall
-a rock wall
-a red purse
-a rock
-a man
-a man
-a man
-a bicycle
-a bicycle
-a bicycle
-a bicycle
-a bicycle
-a street
-a building
-a blue shirt
-a bicycle
-a grassy field
-a man
-a man
-a man
-a man
-a building
-a staircase
-a green and yellow dress
-a green and yellow dress
-a group of people
-a green and yellow dress
-a green fence
-a woman
-a large basket of flowers
-a woman
-a woman
-a UNK
-a blue and yellow flag
-a blue and yellow flag
-a man
-a young boy
-a young boy
-a young boy
-a ball
-a boy
-his hand
-a black suit
-a black suit
-a man
-a man
-glasses
-a stage
-a stage
-a stage
-a microphone
-a man
-a man
-a little boy
-a little boy
-a little boy
-a little boy
-a little boy
-a yellow toy
-a yellow toy
-a red ball
-a red ball
-a young boy
-a young boy
-a blue and blue striped shirt
-a red shirt
-a white lab coat
-a white lab coat
-a white lab coat
-a beard
-a white shirt
-a white shirt
-a white shirt
-a white shirt
-a large bowl
-a grill
-a grill
-a grill
-a table
-a bowl
-a guitar
-a microphone
-a soccer ball
-a soccer ball
-a young girl
-a young boy
-a young girl
-a young boy
-a pink and white helmet
-a pink and pink scarf
-a red bucket
-a red and yellow toy
-a red and yellow toy
-a pink shirt
-a red and blue striped shirt
-a white bird
-a white bird
-a white bird
-a white bird
-a large white bird
-a large white bird
-a colorful dress
-a colorful dress
-a crowd of people
-a white and black race car
-a microphone
-a large crowd
-a large crowd
-a table
-a table
-a computer
-a computer
-a computer screen
-a computer
-a computer
-a computer
-a woman
-a blue shirt
-a computer screen
-a computer screen
-a computer screen
-a computer screen
-a computer screen
-a computer screen
-a field
-a football player
-a ball
-a ball
-a ball
-a man
-a baseball player
-a baseball player
-a baseball player
-a baseball player
-a bat
-a baseball uniform
-a baseball uniform
-a red baseball bat
-a baseball player
-a baseball
-a baseball
-a baseball
-a man
-a man
-glasses
-a computer
-a computer
-a computer
-a book
-a book
-a book
-her hand
-a crowd
-a crowd
-a young man
-a backpack
-a backpack
-a backpack
-a backpack
-a mountain
-a man
-a man
-a man
-a man
-a person
-a backpack
-a man
-a large black and white dog
-a tree
-a man
-a red scarf
-a woman
-a man
-a snow shovel
-a person
-a snow shovel
-a snow shovel
-a hat
-a person
-a person
-a snow shovel
-a snow shovel
-a blue jacket
-a baby
-a little girl
-a little girl
-a drink
-a table
-a table
-a table
-a christmas tree
-a woman
-a woman
-a woman
-a large brown horse
-a brown horse
-a large brown horse
-a horse
-a rodeo
-a pile of hay
-a pile of hay
-a pile of hay
-a man
-a man
-a woman
-a man
-the street
-the street
-the street
-the street
-a building
-a building
-a young girl
-a young girl
-a young girl
-a red shirt
-a green cart
-a green cart
-a green cart
-a cart
-a man
-a brown dog
-a brown dog
-a brown dog
-a grassy field
-a grassy field
-a grassy field
-a grassy field
-a grassy field
-a woman
-a red jacket
-a store
-a window
-a building
-a window
-a window
-a red tie
-a snowboard
-a blue and white parachute
-a man
-a man
-a man
-a man
-a man
-a blue jacket
-a blue jacket
-a box
-a box
-a man
-a man
-red pants
-a white shirt
-a white shirt
-a white shirt
-a white shirt
-a bicycle
-a bicycle
-a bicycle
-a large metal structure
-a woman
-a woman
-a white shirt
-a white shirt
-a tennis ball
-a tennis ball
-a woman
-a woman
-a woman
-a white shirt
-a woman
-a woman
-a woman
-a brick wall
-a street
-a woman
-a woman
-a blue jacket
-a table
-a bag
-a black shirt
-the street
-the street
-a young boy
-a young boy
-a young boy
-a young boy
-a black and white dog
-a black and white dog
-a black and white dog
-a black and white dog
-a red car
-a young man
-a young man
-a young man
-a young man
-a blue shirt
-a blue shirt
-a guitar
-a guitar
-a guitar
-a woman
-a woman
-a pink shirt
-a table
-a table
-a book
-a tv
-a large display of food
-a large display of food
-a table
-a television
-a field
-a field
-a field
-a field
-a field
-a dog
-a dog
-a dog
-a dog
-a dog
-a grassy field
-a tree
-a ball
-a man
-a man
-a man
-a UNK
-a black dog
-a black dog
-a bull
-a woman
-a horse
-a horse
-a man
-a bucket
-a fountain
-a fountain
-a fountain
-a dog
-a dog
-a dog
-a tennis ball
-a tennis ball
-a tennis ball
-a toy
-a red fence
-a grassy area
-a crowd
-a crowd
-a crowd
-a skateboard
-a blue shirt
-a microphone
-a blue shirt
-a white shirt
-a blue shirt
-a man
-a man
-a man
-a man
-a green hat
-a green hat
-a man
-a man
-a man
-a tennis racket
-a tennis racket
-a woman
-a woman
-a woman
-a woman
-a girl
-a pink and pink balloon
-a field
-a woman
-a woman
-a woman
-a woman
-a field
-a field
-a parade
-a parade
-a man
-a man
-a man
-a man
-a bike
-a bike
-a bike
-a tree
-a person
-a dirt path
-the sidewalk
-the street
-a building
-a building
-a man
-a black shirt
-a woman
-a man
-a red scarf
-a man
-a man
-a man
-a man
-a wall
-a wall
-his hand
-his hand
-a man
-a man
-a man
-a young man
-a man
-a white and red outfit
-a white and red outfit
-the sand
-a stick
-a stick
-white shorts
-a yellow and black tennis racket
-a yellow shirt
-a yellow shirt
-a man
-a man
-a man
-a man
-a man
-a dirt bike
-a dirt bike
-a dirt bike
-a black helmet
-black pants
-a blue helmet
-a man
-a helmet
-a woman
-a woman
-a woman
-a green tank top
-a green tank top
-a black bikini
-a piece of paper
-a piece of paper
-a white headband
-a green lawn
-a green lawn
-a green lawn
-a green lawn
-a smile
-a face
-a white headband
-her hand
-her hand
-a small child
-a small child
-a small child
-a couch
-a couch
-a chair
-a red shirt
-a red shirt
-a red shirt
-a red shirt
-a red shirt
-blue shorts
-a large pile of rocks
-a large pile of rocks
-a young girl
-a young boy
-a red and white toy
-a red and blue toy
-a rope
-a man
-a man
-a man
-a man
-a bmx rider
-a bmx rider
-a bmx rider
-a ramp
-a ramp
-a ramp
-a ramp
-a man
-a man
-a man
-a man
-a man
-a table
-a table
-a window
-a man
-a black jacket
-a black jacket
-a black jacket
-a woman
-a woman
-a woman
-a woman
-black pants
-a pink shirt
-a pink shirt
-a pink shirt
-a man
-jeans
-a black jacket
-a black jacket
-a black jacket
-a snack
-a young girl
-a young girl
-a young girl
-a young girl
-a young boy
-a rope
-a rope
-a rope
-a tree
-a tree
-a tree
-blue shorts
-a young girl
-a young girl
-a young boy
-a young girl
-a hat
-a hat
-a hat
-a tree
-a tree
-a tree
-a tree
-a tree
-a tree
-a tree
-a tree
-a blue shirt
-a black dog
-a black dog
-a black dog
-a frisbee
-a frisbee
-a field
-a field
-a frisbee
-a young boy
-a young boy
-a young boy
-a soccer ball
-a soccer player
-blue
-a soccer player
-a ball
-a man
-a white and black helmet
-a white and black helmet
-a crowd
-a man
-a man
-a man
-a man
-a bull
-a bull
-a bull
-a bull
-a white and black cat
-a white and black cat
-a white and black cat
-a man
-a brown and white dog
-a brown and white dog
-a cow
-a cow
-a dog
-a dog
-a dog
-a dog
-a dog
-a black and white dog
-a black and white dog
-a red and white striped umbrella
-a red and white painted wall
-a red and white striped shirt
-a large mural
-a large metal structure
-a large metal structure
-a black dog
-a black dog
-a stick
-a black hat
-a black hat
-a black ball
-the grass
-the grass
-the sand
-a black and white dog
-a street
-a street
-a green box
-a box
-a cellphone
-a cigarette
-a dog
-a dog
-a red collar
-a white dog
-a white dog
-a dog
-a lake
-a lake
-a lake
-a lake
-a white dog
-a man
-a man
-a man
-a man
-a man
-a man
-a man
-a hat
-a pile of leaves
-a sign
-a sign
-a bag
-a wall
-a sign
-a wall
-a young girl
-a young girl
-a young girl
-a pink shirt
-a pink shirt
-a blue and yellow ball
-a blue and yellow ball
-a blue and yellow ball
-a blue and yellow ball
-a blue and yellow ball
-a young girl
-a field
-a little girl
-a man
-a man
-a man
-a man
-a man
-the beach
-the beach
-the beach
-the beach
-a woman
-a woman
-a woman
-a woman
-a violin
-a violin
-a violin
-a snowy hill
-a snowy hill
-a snowy hill
-a man
-a man
-a man
-a skateboard
-a skateboard
-a skateboard
-a skateboard
-a skateboard
-a large tree
-a skateboard
-a blue shirt
-a man
-a green tent
-a tent
-a green tent
-a green tent
-a boat
-a boat
-a boat
-a boat
-a young girl
-a young girl
-a young girl
-a little girl
-a little girl
-a green field
-a field
-a field
-a field
-a field
-a field
-a small object
-a small object
-a man
-a man
-a man
-a man
-a man
-a yellow shirt
-a yellow shirt
-a yellow shirt
-a yellow shirt
-a black and white glove
-a woman
-a woman
-a woman
-a stick
-a woman
-a man
-a man
-a woman
-a black tank top
-a green and green pool
-a green and green grassy area
-a green and green pool
-a young girl
-a young girl
-a young girl
-a young girl
-a white dress
-a white dress
-a white dress
-a man
-a man
-a man
-a man
-her head
-a pink headband
-a pink mohawk
-a pink headband
-the street
-a man
-a man
-a man
-a man
-her head
-a white shirt
-a white and blue striped shirt
-a woman
-a woman
-a woman
-a guitar
-a guitar
-a pink shirt
-the street
-a man
-a man
-her hand
-a hand
-a woman
-the street
-the street
-the street
-a pink shirt
-a drink
-a woman
-a blue shirt
-a blue shirt
-a blue shirt
-a blue shirt
-a white shirt
-a blue skirt
-a desk
-a desk
-a desk
-a desk
-a desk
-a blue shirt
-a blue shirt
-a man
-a man
-a young man
-a man
-a large room
-a large room
-a large room
-a large white sheet
-a large white and black striped shirt
-a microphone
-a car
-a car
-a car
-a car
-a car
-a dirt road
-a dirt track
-a dirt track
-a dirt road
-a dirt road
-a dirt road
-a dirt road
-a woman
-a woman
-a woman
-a black shirt
-a man
-a man
-a man
-a man
-a man
-a haircut
-a man
-a man
-a haircut
-a haircut
-a white shirt
-a woman
-a black shirt
-glasses
-a young boy
-a young boy
-a young boy
-a soccer ball
-a soccer ball
-a soccer ball
-a field
-a large crowd
-a person
-a person
-a person
-a person
-a person
-a yellow jacket
-a yellow jacket
-a yellow jacket
-a helmet
-a bike
-a bike
-a red and white outfit
-a blue shirt
-a blue shirt
-a blue shirt
-a blue shirt
-a lake
-a lake
-a small waterfall
-a waterfall
-a lake
-a waterfall
-a waterfall
-a waterfall
-a tree
-a large bubble
-a man
-a man
-a man
-a red shirt
-a man
-a man
-a man
-a dirt road
-a young girl
-a little girl
-a little girl
-a young girl
-a young girl
-a young girl
-a green object
-a green leash
-a small child
-her hand
-a bike
-a bike
-a bike
-a bike
-a dirt bike
-a dirt bike
-a dirt bike
-a man
-a dirt road
-a person
-a person
-a person
-a person
-a large body of water
-a large body of water
-a large body of water
-a large body of water
-a man
-a parachute
-a woman
-a woman
-a woman
-a woman
-a woman
-a black shirt
-a table
-a table
-a restaurant
-a man
-a man
-a woman
-a man
-a woman
-a man
-a bike
-a bike
-a bike
-a white car
-a street
-a man
-a young boy
-a ball
-a ball
-a ball
-a ball
-a ball
-a pool
-a pool
-a young boy
-a pool
-a group of people
-a group of people
-a building
-a building
-a building
-a blue bag
-a white and black umbrella
-a building
-a fruit
-a stone wall
-a baby
-a baby
-a baby
-a baby
-a baby
-a baby
-a man
-a red shirt
-a man
-a man
-a red shirt
-a black and white striped skirt
-a black and white striped skirt
-a black and white striped shirt
-a camera
-a camera
-a camera
-a camera
-a camera
-long hair
-a street
-a woman
-a young girl
-a young girl
-a young girl
-a child
-a child
-a child
-a child
-a child
-a child
-a man
-a young girl
-a young girl
-a young girl
-a funny face
-a funny face
-a pink toothbrush
-a pink belt
-a pink belt
-a woman
-a woman
-her face
-her face
-a man
-a man
-a man
-a black shirt
-a black shirt
-a man
-a cellphone
-a woman
-a cellphone
-a man
-a man
-a camera
-a camera
-a telescope
-a man
-a man
-a large machine
-a woman
-a woman
-a woman
-a woman
-jeans
-jeans
-a blue shirt
-a blue shirt
-black hair
-a ball
-a red belt
-a red ball
-a ball
-a small tree
-a car
-a child
-a field
-a fence
-a fence
-a small child
-a small child
-a concrete wall
-a fence
-a rope
-a girl
-a young boy
-a man
-a man
-a man
-a man
-a striped shirt
-a man
-a small child
-a young boy
-a small child
-a young boy
-a blue bag
-a man
-a black shirt
-a wall
-a wall
-a man
-a man
-a woman
-a woman
-a woman
-a book
-a book
-a book
-a man
-a UNK
-a beard
-a football player
-a football player
-a football player
-a football player
-a football player
-a football player
-a football player
-a woman
-a woman
-a young girl
-a UNK
-a plate of food
-her hair
-a little girl
-a little girl
-a little girl
-a little girl
-a little girl
-a pink flower
-a blue hat
-a blue hat
-a blue hat
-a woman
-a black shirt
-a crowd
-a crowd
-a crowd
-a crowd
-a crowd of people
-a crowd of people
-a crowd of people
-a young boy
-a young boy
-a young boy
-a young boy
-a field
-a field
-a field
-a field
-a field
-a blue shirt
-a blue shirt
-a ball
-a young girl
-a young girl
-a young girl
-a young girl
-a young girl
-a pink shirt
-a pink shirt
-a blue skirt
-her eyes
-a wooden floor
-a wooden floor
-a blue and white dog
-her tongue
-a young girl
-a man
-a man
-a black shirt
-a black shirt
-a black shirt
-a man
-a man
-a man
-a guitar
-a guitar
-a guitar
-a microphone
-a man
-a man
-a man
-a white shirt
-a white shirt
-a UNK
-a pink and white striped shirt
-a pink and white striped shirt
-a pink and white striped shirt
-a pink and white striped shirt
-a stage
-a stage
-a microphone
-a microphone
-a table
-a table
-a blue shirt
-a woman
-a woman
-a woman
-a black leotard
-a black leotard
-a balance beam
-a man
-a man
-a white shirt
-a man
-a field
-a field
-a field
-a dog
-a man
-a man
-a white shirt
-a large red building
-a large red building
-a white shirt
-a man
-a man
-a man
-a black dog
-a black dog
-a black dog
-a black dog
-a black dog
-a grassy area
-a grassy area
-a black and white dog
-a black and white dog
-a person
-a person
-a person
-a person
-a person
-a dirt track
-a dirt track
-a dirt bike
-a dirt bike
-a dirt bike
-a dirt track
-a dirt bike
-a young boy
-a young boy
-a young boy
-a young boy
-a bicycle
-a bicycle
-a bicycle
-a bicycle
-a bicycle
-a wall
-a sidewalk
-a red and white pole
-a blue shirt
-a black dog
-a black dog
-a black dog
-a large object
+a white kayak
+a white kayak
+a red and white dog
+a red and white dog
 the water
 the water
-a black hat
-a black hat
-a boat
-a man
-a man
-a man
-sunglasses
-a black hat
-a black hat
-a black jacket
-a black jacket
-a microphone
-a microphone
-a microphone
-a red tie
-a man
-a man
-a man
-a man
-a green and yellow jacket
-blue jeans
-blue jeans
-a ramp
-a ramp
-a ramp
-a ramp
-a man
-a man
-a black shirt
-a black shirt
-a grill
-a grill
-his hand
-a large building
-a large building
-a red and white blanket
-a red and white cat
-a red and white blanket
-a red and white blanket
-a red and white striped shirt
-a red and white dress
-a red and white striped shirt
-a red and white outfit
-a red and white blanket
-a red and yellow tunnel
-a man
-a man
-a man
-a man
-a man
-a skateboard
-a skateboard
-a man
-a bike
-a bike
-a bike
-a bicycle
-a bicycle
-a blue hat
-a stone bench
-a tree
-a tree
-a young boy
-a young boy
-a black shirt
-a bubble
-a bubble
-a small child
-a small child
-a small child
-a small child
-water
-water
-a yellow hat
-a man
-a camera
-a black shirt
-a store
-a store
-a store
-a store
-a store
-a sign
-a sign
-a red and white striped umbrella
-a dog
-a dog
-a dog
-a brown dog
-a brown dog
-a boy
-a boy
-a black shirt
-a black shirt
-a black shirt
-a man
-a man
-a man
-a rock
-a rock
-a large rock
-a man
-a UNK
-a UNK
-a large pile of food
-a large pile of food
-a man
-a man
-a black and white shirt
-a black and white shirt
-a black and white shirt
-a skateboard
-a yellow and black striped shirt
-a dock
-a man
-a man
-a skateboard
-a skateboard
-a man
-a man
-a man
-a man
-a man
-a man
-a microphone
-a microphone
-black pants
-black pants
-a microphone
-jeans
-a man
-a man
-a man
-a white shirt
-a bench
-a bench
-a bench
-a table
-a man
-a man
-a man
-a white shirt
-a white shirt
-the street
-a white shirt
-a white shirt
-a building
-a young boy
-a young boy
-a football
-a fence
-a field
-a field
-a woman
-a woman
-a woman
-a woman
-a wall
-a wall
-a blue umbrella
-a large painting
-a large display of a red cube
-a white shirt
-a white shirt
-a white shirt
-a white dress
-a white dress
-her face
-the sidewalk
-a tree
-a tree
-a street
-his head
-a sidewalk
-a building
-a crowd of people
-a girl
-a blue shirt
-a white ball
-a man
-a man
-a man
-a man
-a man
-a man
-a white hat
-a white beard
-a large stick
-a large stick
-a large stick
-a wooden pole
-a black dog
-a black dog
-a dog
-a dog
-a green object
-a green object
-a green object
-a green object
-a ball
-a ball
-a car
-a car
+the water
+a mountain
+the sky
+a cloudy sky
+a red and white umbrella
 a red car
-a car
-blue jeans
-blue jeans
-blue jeans
-a scooter
-a street
-a car
-a car
-a white car
-a car
-a yellow and white flag
-a blue car
-a red object
-a red bucket
-a red and white striped flag
-a skateboard
-a UNK
-a ramp
-a white car
-a man
-a man
-a man
-a red shirt
-a red shirt
-a red shirt
-a keyboard
-a red shirt
-a red shirt
-a red tie
-a man
-a man
-a man
-a black hat
-a black hat
-a black hat
-a man
-a man
-a black shirt
-a black shirt
-a bench
-a book
-a piece of paper
-a piece of paper
-a cigarette
-a beard
-a wooden beam
-a wooden beam
-a wall
-a building
-a camera
-a tool
-a building
-a woman
-a woman
-a woman
-a woman
-a woman
-a group of people
-a group of people
-a blue tent
-a blue tent
-a blue tent
-a fountain
-a woman
-a woman
-a woman
-a woman
-a woman
-a black jacket
-a table
-a restaurant
-a table
-a colorful display
-a woman
-a woman
-a woman
-a food stand
-a table
-a woman
-a cart
-a cart
-a group of people
-a pile of hay
-a fruit stand
-a pile of trash
-a street
-a woman
-a woman
-a woman
-a woman
-a table
-a cellphone
-a table
-a table
-a man
-a large window
-a large advertisement
-a UNK
-a UNK
-a UNK
-a white bag
-a white bag
-a white bag
-a red and yellow UNK
-a red and yellow UNK
-a red and yellow UNK
-a red sign
-a red shirt
-a man
-a man
-a glass
-a computer
-a computer
-a computer
-a man
-a man
-a large white and blue ramp
-a dirt track
-a dirt track
-a dirt track
-a little girl
-a little girl
-a little girl
-a little girl
-a little girl
-a face
-a white dress
-a white dress
-a white dress
-a white dress
-a blue jean skirt
-a man
-a man
-a man
-a man
-a beach
-a beach
-a beach
-a beach
-a large body of water
-a fishing pole
-a large blue sky
-a piece of paper
-a black shirt
-glasses
-a man
-a young boy
-a man
-a man
-a black shirt
-a black shirt
-a stick
-a white shirt
-a white shirt
-a tree
-a tree
-a tree
-a beach
-water
-a boat
-a boat
-a water fountain
-a water fountain
-water
-a young girl
-a young girl
-a young girl
-a young girl
-a red jacket
-a red jacket
-a red jacket
-a red and black outfit
-a funny face
-a hand
-a red shirt
-a red shirt
-a red shirt
-a red shirt
-a microphone
-a young girl
-a camera
-a man
-a man
-the ocean
-the waves
-the ocean
-the ocean
-the beach
-the beach
-a car
-a car
-a building
-a building
-a street
-a street
-a bike
-a train
-a man
-a yellow jacket
-a window
-a young boy
-a young boy
-a young man
-a basketball
-a basketball
-a young man
-a young man
-a little girl
-a mustache
-a mustache
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a large stone
-a large stone
-a large stone
-the street
-the street
-the street
-a black shirt
-a black and white dog
-a black and white dog
-a black and white dog
-a black and white dog
-a man
-a man
-a man
-a man
-a man
-a green shirt
-a green shirt
-a large body of water
-a large blue sky
-a large blue sky
-a large tree
-a mountain
-a mountain
-a young girl
-a young girl
-a young girl
-a green and white outfit
-a blue and white outfit
-a green shirt
-a UNK
-a brown and white dog
-a black and white dog
-a black and white dog
-a brown and white dog
-a hat
-a small child
-a crowd
-a crowd
-a sign
-a sign
-a sign
-a sign
-a sign
-a man
-a black and red outfit
-a red hat
-a basketball player
-a basketball player
-a red and white uniform
-a white uniform
-a white uniform
-the ball
-a basketball player
-a young woman
-a young woman
-a young woman
-a young woman
-a young woman
-a bikini
-a bikini
-a bikini
-the beach
-the beach
-a guitar
-a guitar
-a black dress
-a guitar
-a black shirt
-a black shirt
-a black hat
-a black hat
-glasses
-a man
-a man
-a man
-a black shirt
-a man
-a glass
-a glass
-a glass
-a glass
-a cigarette
-a microphone
-blond hair
-a chair
-a chair
-a bench
-a man
-a man
-a man
-a tv
-a man
-a man
-a white shirt
-a white shirt
-a white shirt
-a man
-a black shirt
-a black shirt
-a white shirt
-a street
-a room
-its mouth
-a black and white dog
-a black and white dog
-a white and brown dog
-a dog
-a man
-a man
-a man
-a man
-a man
-a piece of paper
-a table
-a wooden floor
-a man
-a man
-a man
-a small child
-a small child
-a man
-a tree
-a tree
-a tree
-a tree
-a child
-a child
-a tree
-a young boy
-a young boy
-a young boy
-a young boy
-a young boy
-a child
-a child
-a small animal
-a small animal
-a blue shirt
-a brown dog
-a brown dog
-a brown dog
-a brown dog
-a blue shirt
-a brown dog
-a puddle
-a woman
-a woman
-black pants
-black pants
-black
-black
-a black shirt
-a woman
-a woman
-a red skirt
-a yellow ball
-a yellow ball
-a yellow ball
-a yellow bucket
-a yellow bucket
-a ponytail
-a black jacket
-a black jacket
-a man
-a man
-a man
-a blue shirt
-a cart
-a street
-a large group of people
-a street
-a black dog
-a black dog
-a woman
-a woman
-a woman
-a red shirt
-a sidewalk
-a sidewalk
-a child
-a red couch
-a hand
-a UNK
-a black shirt
-a black shirt
-a hockey player
-a white uniform
-a hockey player
-a hockey player
-a hockey player
-a white uniform
-a man
-a man
-a man
-a black bag
-a black backpack
-a crowd
-a crowd
-a crowd
-a group of people
-a street
-a woman
-a large brown horse
-a large brown horse
-a pile of hay
-a child
-a bridge
-a young boy
-a young man
-a young man
-a white shirt
-a young girl
-a statue
-a skateboard
-a red shirt
-a red shirt
-a red shirt
-a red shirt
-a red shirt
-a red shirt
-a red shirt
-jeans
-jeans
-a guitar
-a guitar
-a guitar
-blond hair
-a green shirt
-a green shirt
-a green shirt
-a green shirt
-a blue hat
-a man
-a woman
-a table
-a man
-a man
-a blue hat
-a rock
-a concrete ledge
-a beach
-a lake
-a lake
-a large group of people
-a large group of people
-a large group of people
-a large group of people
-a group of people
-a group of people
-a group of people
-a large crowd
-a black and white dog
-a black and white dog
-a black and white dog
-a black and white dog
-a red leash
-a large rock
-a large rock
-a large rock
-a person
-a person
-a hill
-a mountain
-a woman
-a woman
-a woman
-a hand
-a blue jacket
-a store
-a man
-a man
-a man
-a face
-a face
-a face
-a face
-a face
-a yellow shirt
-a book
-a striped shirt
-a white shirt
-a beard
-a beard
-a white shirt
-his hand
-his hand
-a microphone
-a newborn
-a newborn
-a white shirt
-a camera
-a camera
-a large building
-a large building
-a large building
-a black shirt
-a black shirt
-a man
-a bike
-a motorcycle
-a motorcycle
-a bike
-a road
-a road
-a man
-a man
-a man
-a man
-a car
-a car
-a car
-a white car
-a dirt road
-a table
-a table
-a table
-a table
-a building
-a building
-a building
-a large UNK
-a man
-a man
-a stage
-a stage
-a woman
-a microphone
-a man
-a man
-a man
-a man
-a microphone
-a man
-a man
-a man
-a man
-a man
-a man
-a blue hat
-a blue hat
-a blue hat
-a plate of food
-a plate of food
-a plate of food
-a piece of wood
-a piece of wood
-a suit
-a piece of wood
-a man
-a man
-a large machine
-a large machine
-a large machine
-a large machine
-a blue shirt
-a man
-a red hat
-a woman
-a woman
-a blue bag
-a blue bag
-a white shirt
-a man
-a man
-a man
-a man
-a man
-brown hair
-a black shirt
-a black shirt
-a black shirt
-a piece of wood
-a piece of wood
-a piece of wood
-a large UNK
-a female gymnast
-a girl
-a girl
-a girl
-a girl
-a girl
-a crowd
-a white dress
-a white dress
-a red and white ball
-a woman
-a man
-a man
-a man
-a man
-a man
-a woman
-a woman
-a cigarette
-a cigarette
-a man
-a white dog
-a red jacket
-a red jacket
-a red jacket
-a red jacket
-a red jacket
-a red jacket
-a man
-a man
-a man
-a man
-a snowy hill
-a man
-a man
-a man
-a man
-a man
-a man
-a trumpet
-a microphone
-a pink shirt
-a girl
-a girl
-a white shirt
-a large stone
-a large stone
-a large stone
-a large stone
-a UNK
-a white shirt
-a white shirt
-a wooden floor
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a microphone
-a microphone
-a microphone
-a man
-a computer
-a computer screen
-a computer
-a computer
-a man
-a small child
-a small child
-a green shirt
-a blue wall
-a blue wall
-a sign
-the UNK
-a blue bucket
-a man
-a man
-a man
-a man
-a man
-a road
-a road
-a road
-the street
-a road
-the road
-a bicycle
-a street
-a street
-a drum
-a man
-a woman
-a woman
-a woman
-a woman
-a woman
-a red and black outfit
-a ponytail
-a ponytail
-a black and white outfit
-a red shirt
-a red and white carpet
-a red shirt
-a street
-a man
-a man
-a man
-a man
-a man
-a microphone
-a microphone
-a sign
-a red and black striped shirt
-a red and white striped shirt
-a mat
-a mat
-a group of people
-a man
-a man
-a man
-a man
-a man
-a cigarette
-a cigarette
-a cigarette
-a cigarette
-a young girl
-a yellow dress
-a young girl
-a yellow dress
-a yellow dress
-a yellow dress
-a stream
-a dirt path
-a dirt path
-a dirt path
-a dirt path
-a stick
-a puddle
-blond hair
-a river
-a woman
-a woman
-a woman
-a woman
-a microphone
-a black shirt
-a black shirt
-a black shirt
-a sign
-long hair
-long hair
-a woman
-a young boy
-a young boy
-a young boy
-a young boy
-a young man
-a young boy
-a white shirt
-a woman
-a woman
-a man
-a man
-a man
-a boy
-a boy
-a boy
-a woman
-the street
-the street
-the street
-a man
-a person
-a red chair
-a stage
-a man
-a man
-a large screen
-a boat
-a man
-a boat
-a boat
-a boat
-a large sky
-a boat
-a building
-a building
-a building
-a man
-a musical instrument
-a pink cup
-a room
-a man
-a man
-a man
-a drum
-a drum
-a man
-a man
-a man
-a large basket
-a little girl
-a young girl
-a swing
-a swing
-a swing
-a man
-a man
-a man
-glasses
-jeans
-jeans
-a sidewalk
-jeans
-a building
-a building
-jeans
-jeans
-a sidewalk
-a woman
-a man
-a woman
-a woman
-a cellphone
-a cellphone
-a city street
-a city street
-a street
-a car
-a white hat
-a white hat
-a white hat
-a white hat
-a man
-a man
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a beard
-a hat
-a hat
-a beard
-a plaid shirt
-a plaid shirt
-a hat
-a building
-a building
-a woman
-a woman
-a sidewalk
-a black and white jacket
-a black and white jacket
-a man
-a dog
-a toy
-a box
-a box
-a brown dog
-a brown dog
-a woman
-a building
-a building
-a building
-a building
-a building
-a woman
-a woman
-a black jacket
-a dirt path
-a trail
-a trail
-a red shirt
-a dirt road
-a dirt road
-a dirt road
-a dirt road
-a rock
-a rock
-his mouth
-a white shirt
-a white shirt
-a cart
-a cart
-a cart
-a cart
-a cart
-a man
-a street
-a street
-a yellow jacket
-a brown jacket
-a young boy
-a yellow jacket
-a woman
-a woman
-a woman
-a woman
-a woman
-her cellphone
-her cellphone
-her cellphone
-her cellphone
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a man
-a man
-a man
-a man
-a man
-a blue jacket
-a cigarette
-a window
-a truck
-a truck
-a cane
-a red truck
-a yellow building
-a small child
-a small child
-a concrete wall
-a concrete wall
-a concrete wall
-a blue floor
-a man
-a man
-a man
-a blue shirt
-jeans
-a store
-a store
-a man
-a man
-a man
-a man
-a man
-a piece of wood
-a table
-a table
-a book
-a book
-a table
-a table
-a drink
-a building
-a building
-a building
-a building
-a building
-a building
-a building
-a sign
-a sign
-a suit
-a suit
-a suit
-a hat
-a hat
-a hat
-a cellphone
-a man
-a man
-a black hat
-a black hat
-a man
-a man
-a wall
-a wall
-a wall
-a concrete wall
-a cellphone
-the street
-a cart
-a man
-a man
-a man
-a man
-a man
-a sidewalk
-a sidewalk
-a man
-a man
-a bag
-a bag
-a cellphone
-a man
-a blue hat
-a street
-a street
-a woman
-a woman
-a UNK
-a grassy field
-a grassy field
-a grassy field
-a yellow object
-a yellow object
-a yellow object
-a yellow object
-a red object
-a bucket
-a brown dog
-jeans
-a young boy
-a large blue building
-a large blue building
-a crowd
-a red hammer
-a baby
-a man
-a man
-a woman
-a man
-a woman
-a brick wall
-a brick wall
-a brick wall
-a white beard
-a black and white cat
-a black hat
-a beard
-a red coat
-a red coat
-a red coat
-a woman
-a red bag
-a red umbrella
-a child
-a child
-a child
-a child
-a blue jersey
-a small child
-a small child
-a boy
-the base
-a sidewalk
-a building
-a blue cup
-a table
-a table
-a fence
-a blue bag
-a window
-a man
-a man
-a path
-a man
-a blue shirt
-a green shirt
-a sign
-a sign
-a sign
-a sign
-a woman
-a woman
-a red shirt
-a purple shirt
-a blue shirt
-a blue shirt
-a blue jacket
-her shoulder
-a red and white striped shirt
-a subway
-a subway
-a large white room
-a building
-a sign
-a sign
-a sign
-a sign
-a sign
-a crowd
-a crowd
-a man
-a man
-a man
-a man
-a man
-a man
-a flag
-a flag
-a flag
-a flag
-the sidewalk
-the sidewalk
-a man
-a man
-a guitar
-a guitar
-a guitar
-a sign
-a man
-a man
-a man
-a man
-jeans
-a striped shirt
-a striped shirt
-a man
-a man
-a wall
-a yellow shirt
-a woman
-a man
-a man
-a man
-a small UNK
-a small toy
-a bench
-a bench
-a bench
-a large piece of wood
-a man
-a bench
-a bench
-a stone bench
-a man
-a man
-a man
-a man
-a man
-a man
-a man
-a man
-a man
-a man
-a man
-a camera
-a man
-a man
-a man
-a man
-a man
-a brown jacket
-a large gun
-a man
-a man
-a black shirt
-a street
-a street
-a street
-a street
-a street
-a man
-a man
-a man
-a man
-a camera
-a toy
-a toy
-a toy
-a cigarette
-a woman
-a woman
-a building
-a wall
-a wall
-a wall
-a brick wall
-a building
-a building
-a stone wall
-a woman
-a young woman
-a young woman
-a face
-a red shirt
-a man
-a blue shirt
-a blue shirt
-a blue shirt
-a blue shirt
-a blue shirt
-a blue shirt
-a black shirt
-a tree
-a tree
-a building
-a building
-a woman
-a building
-a gymnast
-a gymnast
-a gymnast
-a gymnast
-a red and white leotard
-a red and white leotard
-a red tank top
-a red and black striped shirt
-a red and black striped shirt
-a red and black striped shirt
-black shorts
-a young woman
-a large red and white mat
-a man
-a man
-a man
-a store
-a store
-a store
-a cowboy hat
-a carnival ride
-the sidewalk
-the sidewalk
-a table
-a table
-a table
-a table
-a chair
-a bench
-a table
-a table
-a picture of a man
-a poster
-a picture of a woman
-a man
-a football player
-a football player
-a football player
-a football player
-a young girl
-a young girl
-a young girl
-a young girl
-a woman
-a red collar
-a woman
-a woman
-a woman
-a man
-a man
-a man
-a man
-a grill
-a grill
-a grill
-a large pan
-a large pan
-a large pan
-a large pan
-a white shirt
-a white shirt
-a UNK sign
-a woman
-a woman
-a woman
-a brown jacket
-a brown jacket
-a red jacket
-a red jacket
-a pink skirt
-a pink skirt
-a pink skirt
-a pink skirt
-a woman
-a woman
-a woman
-a chair
-her face
-her face
-a pink scarf
-a group of people
-a woman
-a woman
-a woman
-a woman
-a man
-a woman
-a man
-the street
-the street
-a street
-a street
-a woman
-a woman
-a woman
-a woman
-a red hat
-a red hat
-a red hat
-a woman
-a woman
-a black hat
-a black hat
-a man
-a UNK
-a woman
-a woman
-a woman
-a table
-a table
-a table
-a large building
-a large building
-a young girl
-a young girl
-a woman
-a woman
-a woman
-a woman
-a white dress
-a white dress
-a woman
-a woman
-a woman
-a woman
-a blue skirt
-a woman
-a man
-a cane
-a parade
-a man
-a man
-a man
-a man
-a girl
-a girl
-a girl
-a table
-a table
-a plate of food
-a plate of food
-a woman
-a woman
-a woman
-jeans
-jeans
-a blue shirt
-a blue shirt
-a blue shirt
-a meal
-a meal
-a grill
-a grill
-a man
-a man
-a man
-a man
-a man
-a man
-a man
-black pants
-a face
-a face
-his head
-a man
-a man
-a man
-a microphone
-a black shirt
-a black shirt
-a black shirt
-a microphone
-a tattoo
-a man
-a red backpack
-a man
-glasses
-a young man
-a young man
-a young man
-a young man
-a street
-a tree
-a tree
-a dog
-a brown dog
-a dog
-a brown dog
-a tree
-a tree
-a girl
-a girl
-a girl
-a girl
-a skirt
-a microphone
-a building
-a building
-a building
-a pink purse
-a woman
-a woman
-a man
-a man
-a man
-a man
-a large ship
-a large ship
-a large ship
-a pier
-a pier
-a pier
-a pier
-a pier
-a dock
-a woman
-a woman
-a woman
-a car
-a car
-a car
-a car
-a young boy
-a young boy
-a young boy
-a young boy
-a young boy
-a street
-a ball
-a car
-a car
-a man
-a man
-a white shirt
-a white shirt
-a table
-a table
-a keyboard
-a keyboard
-a woman
-a man
-a woman
-a woman
-a blue shirt
-a red belt
-a laptop
-a computer
-a laptop
-a sign
-a street
-a plaid shirt
-a man
-a man
-a man
-a man
-a blue shirt
-a blue shirt
-a ball
-a ball
-his hand
-his hand
-a man
-a man
-blue shorts
-a basketball
-a young girl
-a young girl
-a young girl
-blond hair
-a red shirt
-a red shirt
-a little boy
-a little girl
-a little girl
-a little boy
-a little girl
-a striped shirt
-a striped shirt
-a striped shirt
-a striped shirt
-a striped shirt
-a blue shirt
-a person
-a red shirt
-a red shirt
-a red shirt
-a man
-a red suit
-a building
-a building
-a building
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a blue shirt
-a pool
-a man
-a man
-a man
-a black shirt
-a black shirt
-jeans
-a woman
+a red car
+UNK
 a woman
 a woman
 a white shirt
-a smile
-a blue object
-a man
-a gun
-a young boy
-a young boy
-a bench
-a bench
-a black jacket
-a black jacket
-a path
-a large tree
-a young boy
-a young boy
-a young boy
-a young boy
-a little boy
-a little boy
-a little boy
-a little boy
-a blue jacket
-a blue jacket
-a shovel
-a small child
-a man
-a microphone
-a man
-a man
-a man
-a man
-a man
-a man
-a man
-a black shirt
-a black shirt
-a camera
-a funny face
-a microphone
-a white dress
-a white dress
-a fence
-a fence
-a fence
-a fence
-a fence
-a bench
-a bench
-a bench
-a bench
-a shirtless man
-a shirtless man
 shorts
-shorts
-sunglasses
-a shirtless man
-a shirtless man
-a shirtless man
-a shirtless man
-a shirtless man
-a pool
 a woman
 a woman
 a woman
-a sign
-a sign
-a sign
-her face
-a blue tank top
-a blue tank top
-a blue tank top
-a cellphone
-a helmet
-a bike
-a bike
-a bike
-a rail
-a rail
-a rock
-a tree
-a bike
-a red ladder
-a woman
-white shorts
-a woman
-a woman
-a woman
-a woman
-a large building
-a large white building
-a large building
-a building
-a tree
-a small tree
-a woman
-a sidewalk
-a man
-a man
-a man
-a man
-a man
 a black shirt
-a black shirt
-a blue shirt
-a store
-a store
-a sign
-a sign
-a sign
-a man
-a man
-a man
-a woman
-a man
-a red jacket
-red
-a red jacket
+tan pants
+people
+people
+people
+people
+people
 a building
-a building
-a building
-a building
-a fence
-a red belt
+a large stone structure
 a woman
 a woman
-a red and white uniform
-a red and white uniform
-a red and white uniform
-a red and white uniform
-a tennis court
-a red and white shirt
-a man
-a man
-a man
-a book
-a book
-a black helmet
-a black helmet
-a black helmet
-a sidewalk
-a sidewalk
-a sidewalk
-a man
-a man
-a man
-a fire
-a fire
-a man
-a man
-a large display of food
-a man
-a woman
-a woman
-a UNK
-a plate of food
-a plate of food
-a building
-a building
-a building
-a building
-a sidewalk
-a street
-a brick wall
-a building
-a street
-a sign
-a building
-a woman
-a woman
-a woman
-a large amount of people
-a large amount of people
-a backpack
-a group of people
-a group of people
-a group of people
-a street
-a man
-a black and white uniform
-a black and white uniform
-his hand
-black pants
-a bag
-a street
-a red hat
-a man
-a black jersey
-a red hat
-a white uniform
-a blue outfit
-a blue outfit
-a blue outfit
-a woman
-a woman
-a yellow and blue flag
-a yellow and blue flag
-a yellow and blue flag
-a yellow and blue pole
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a blue shirt
-a man
-a woman
-a woman
-a blue jacket
-a blue shirt
-a building
-a table
-a table
-a young girl
-a young girl
-a young girl
-a young girl
-a pink shirt
-a pink shirt
-a group of people
-a group of people
-a group of people
-a group of people
-a group of people
-a blue and white jacket
-a blue dress
-a woman
-a blue umbrella
-a blue umbrella
-a blue umbrella
-a blue jacket
-the beach
-the beach
-the beach
-the beach
-the beach
-a beach
-a woman
-a man
-a woman
-a violin
-a violin
-a violin
-a violin
-a pole
-a pole
-a sidewalk
-a sidewalk
-a chair
-a black shirt
-a sidewalk
-a man
-a plaid shirt
-a red purse
-a black dress
-a woman
-a woman
-a field
-a blue dress
-a blue dress
-a woman
-a woman
-a woman
-a man
-a man
-a man
-a woman
-a man
-a man
-a bus
-a bus
-a man
-a hat
-a hat
-a man
-a man
-a man
-a man
-a red jacket
-a man
-a man
-a man
-a man
-a keyboard
-a black suit
-a table
-a man
-a man
-a man
-a gray shirt
-a gray shirt
-a gray shirt
-jeans
-jeans
-a man
-a man
-a man
-a man
-a man
-a man
-a horse
-a white shirt
-a white shirt
-a cowboy hat
-a horse
-a white shirt
-a man
-a man
-a red and white boat
-a red and white boat
-a lake
-a river
-a river
-a large cloud of smoke
-a large waterfall
-a large sky
-a red and white parachute
-a car
-a car
-a sign
-a woman
-a woman
-a white shirt
-white shorts
-a man
-a black shirt
-a man
-a black shirt
-khaki pants
-a group of people
-a group of people
-a group of people
-a group of people
-a group of people
-a large building
-a large basket of flowers
-a woman
-a woman
-a black tank top
-a black tank top
-a large pile of snow
-a black shirt
-a white dress
-a bride
-a bride
-her hand
-her hand
-her hand
-her hand
-a white dress
-a wedding dress
-a white dress
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a white dress
-a woman
-a woman
-a woman
-a woman
-a woman
-a black and white dress
-black pants
-a man
-a man
-a man
-a man
-a man
-a black shirt
-a black shirt
-a black shirt
-a black shirt
-a body of water
-a body of water
-a lake
-a wall
-a sidewalk
-a train
-a train
-a train
-a young girl
-a young girl
-a window
-a building
-a white shirt
-a store
-a black and white shirt
-a black and white shirt
-a crowd of people
-a crowd of people
-a crowd of people
-a large white building
-a large white building
-a crowd of people
-a crowd of people
-a crowd of people
-a man
-a man
-a man
-a beard
-a beard
-a beard
-a large smile
-a blue shirt
-a blue shirt
-a blue shirt
-a man
-a fence
-a fence
-a mustache
-a bench
-a young boy
-a young boy
-a young boy
-a young boy
-a young boy
-a bikini
-a skateboard
-a skateboard
-shorts
-a man
-a man
-a ball
-a backpack
-a black jacket
-a black shirt
-a black jacket
-a man
-a sidewalk
-a large red building
-a wall
-a wall
-a wall
-a black ball
-a wall
-his hand
-his hand
-a street
-a crowd
-a woman
-a blue shirt
-a woman
-a crowd of people
-a crowd of people
-a crowd of people
-a crowd of people
-a man
-a man
-a man
-a man
-a man
-a white shirt
-a dirt bike
-a dirt bike
-a dirt bike
-a woman
-a blue shirt
-a blue shirt
-a blue shirt
 a black purse
-a black backpack
+a black purse
+long hair
+a necklace
+a woman
+a bride
+a bride
+her arm
+her arm
+her arm
+her arm
+a bride
+a bride
 a woman
 a woman
-a woman
-a woman
-a woman
-a street
-a street
-a street
-a man
-a man
-a man
-a man
-a white shirt
-a white shirt
-a table
-a table
-a box
-a newspaper
-a laptop
-a woman
-a woman
-a white dress
-a white dress
-a white dress
-a white dress
-a table
-a table
-a woman
-a woman
-a woman
-a woman
-a pink skirt
-a pink skirt
-sunglasses
-a drink
-a drink
-a woman
-a woman
-a street
-a woman
-a woman
-a book
-a black shirt
-a street
-a street
-a blue shirt
-a blue shirt
-a blue shirt
-a blue shirt
-a cart
-a blue hat
-a fruit
-a street
-a street vendor
-a fruit
-a fruit
-a woman
-a red shirt
-a man
-a man
-a woman
-a man
-a man
-a sidewalk
-a sidewalk
-a woman
-a group of people
-a group of people
-a group of people
-a white shirt
-a hat
-a crowd
-a crowd
-a man
-a hat
-a group of people
-a group of people
-a group of people
-the street
-a bike
-a sign
-a woman
-a woman
-a woman
-a chair
-a chair
-a woman
-a woman
-a woman
-a ponytail
-a white UNK
-a green shirt
-a woman
-a plaid shirt
-a sidewalk
-a sidewalk
-a woman
-a woman
-a woman
-a city street
-a city street
-a large advertisement
-a large advertisement
-a young man
-a stone path
-a stone path
-a stone path
-a stone path
-a tree
-a tree
-a green and yellow slide
-a green tent
-a green and yellow slide
-a green shirt
-a green shirt
-sunglasses
-a building
-a woman
-a woman
-a woman
-a woman
-a hat
-a hat
-a hat
-a woman
-a woman
-a woman
-a woman
-a striped shirt
-a blue shirt
 a beach
-a white shirt
+a woman
+a woman
+a woman
+a beach
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a woman
+a black stick
+a black swimsuit
+a man
+a man
+a man
+a man
+a man
+a backpack
+a backpack
+a backpack
+a backpack
+a stick
+a stick
+a stick
 a tree
-a tree
-a building
-a wall
-a wall
-a woman
-a woman
-a street
-a man
-a man
-a tattoo
-a black hat
-a knife
-a man
-a man
-a woman
-a large building
-a large building
-a woman
-a woman
-a woman
-a woman
-a woman
-a store
-a man
-a man
-a street
-a street
-a man
-a sign
-a blue shirt
-a blue shirt
-a man
-a man
-a chair
-a bench
-a wooden door
-a large tree
-a large tree
-a large tree
-a large tree
-a large tree
-a woman
-a white helmet
-a white helmet
-a white helmet
-a white helmet
-a man
-a man
-a man
-a young man
-a young man
-a man
-a woman
-a man
-a woman
-a woman
-a baseball cap
-a baseball cap
-a black hat
-a man
-a white shirt
-a bench
-a bench
-a man
-a man
-a cellphone
-a blue jacket
-a blue jacket
-a blue jacket
-a blue jacket
-a blue jacket
-a blue backpack
-a woman
-a woman
-a blue bag
-a blue bag
-a blue bag
-a blue bag
-a window
-a black jacket
 the street
-a woman
-a woman
-a red headband
-a red headband
-a red headband
-a woman
-a umbrella
-a umbrella
-a umbrella
-a umbrella
-a woman
-a woman
-a red headband
-a boy
-a boy
-a boy
-a blue jacket
-a blue jacket
-a young boy
-a young boy
-a young boy
-a young boy
-a blue shovel
-a blue shovel
-a blue shirt
-a wall
-a wall
-a wall
-a toy
-a table
-a table
-a table
-a table
-a man
-a cigarette
-a man
-a man
-a man
-a game
-a game
-a woman
-black shirt
-a woman
-a black belt
-a black shirt
-a black dress
-a red collar
-a red collar
-a red collar
-a red collar
-a cellphone
-a street
-a street
-a book
-a black shirt
-a black shirt
-jeans
-a red sign
-a bench
-a bench
-a bench
-a path
-a path
-a path
-a stroller
-a young girl
-a young girl
-a young girl
-a pink shirt
-a woman s hair
-a young girl
-a woman
-a brown skirt
-a sidewalk
-a large building
-a large building
-a skirt
-a man
-a man
-a man
-a man
-a street
-a street
-a man
-a man
-a man
-a man
-a striped shirt
-a red and white striped shirt
-a woman
-a woman
-a blue wig
-a red and white flag
-a red and white flag
-a girl
-a man
-a man
-a man
-a stone wall
-a yellow safety vest
-a yellow safety vest
-a woman
-a woman
-a woman
-a woman
-a woman
-a hat
-a hat
-a hat
-a newspaper
-a white truck
-a white dress
-a chair
-a bag
-a man
-a man
-a man
-a large wall
-a wall
-a red truck
-a red truck
-a truck
-a truck
-a truck
-a street
-a street
-a street
-a store
-a firetruck
-a firetruck
-a large machine
-a young girl
-a young girl
-a blond hair
-a blond hair
-a blue tank top
-a blue dress
-a blue dress
-a blue dress
-a blue dress
-her hand
-her hand
-her hand
-her hand
-her hand
-her hand
-a young boy
-a young boy
-a young boy
-a young boy
-a young girl
-a sidewalk
-a sidewalk
-a sidewalk
-a sidewalk
-a pool
-a man
-a man
-a man
-a man
-a man
-the sand
-a black hat
-a black hat
-a hat
-a blue shirt
-a blue shirt
-jeans
-the sand
-a body of water
-a body of water
-a body of water
-a group of people
-a yellow sign
-a group of people
-a building
-a man
-a man
-a man
-a man
-a man
-a man
-a man
-a brown dog
-a brown dog
-a brown dog
-a man
-a grassy field
-a man
-a man
-a man
-a man
-a man
-a red shirt
-a red shirt
-a red shirt
-a skateboard
-a skateboard
-a skateboard
-blue jeans
-jeans
-a room
-a room
-a blue shirt
-a blue shirt
-a black jacket
-a black jacket
-a black hat
-a black hat
-a black hat
-a red collar
-a red bag
-sunglasses
-sunglasses
-a street
-a street
-a street
-a bench
-a large tree
-a large tree
-a large tree
-a large tree
-a large tree
-a building
-a rail
-a rail
-a man
-a man
-a man
-a beard
-a grill
-a laptop
-a white piece of wood
-a white piece of wood
-a white piece of wood
-a black shirt
-a black shirt
-a white shirt
-a man
-a man
-a man
-a man
-a railroad track
-a railroad
-a bench
-a chair
-a railroad track
-a railroad track
-a white shirt
-a bench
-a woman
-a black jacket
-his cellphone
-his cellphone
-his cellphone
-a stone wall
-a bench
-a man
-a man
-a man
-a horse
-a horse
-a horse
-a horse
-a horse
-a man
-a blue and white striped shirt
-a boat
-a wooden stick
-a woman
-a woman
-a man
-a man
-a hand
-a small child
-a small child
-a small child
-a small child
-a small child
-a large knife
-a large knife
-a large knife
-a water fountain
-a yellow object
-a yellow object
-a yellow object
-a yellow object
-a pool
-a yellow bucket
-a bowl
-a man
-a red wagon
-a red wagon
-a red wagon
-a man
-a man
-a man
-a man
-a sign
-a sign
-a sign
-a sign
-a man
-a man
-a wooden structure
-a red shirt
-a camera
-a camera
-a building
-a building
-a building
-a hat
-a building
-a building
-a camera
-a man
-a man
-a man
-a man
-sunglasses
-a black hat
-a black hat
-a black shirt
-a bench
-a bench
-a red bench
-a red bench
-a building
-a black car
-a black shirt
-a camera
-a camera
-a camera
-a bike
-a red bicycle
-a camera
-a man
-a camera
-a woman
-a woman
-a blue jacket
-a blue jacket
-a blue jacket
-a sidewalk
 a window
-blue jeans
-a cigarette
-a man
-a man
-jeans
-a blue shirt
+a window
+a window
+a white shirt
+a white shirt
+a window
 a wall
-a young man
-a cellphone
-a cellphone
-a black hat
-a store
-a store
-a store
-a store
+a white shirt
+a window
 a blue shirt
-a cellphone
-a black hat
-a ponytail
-a sign
+a blue shirt
+a crowd
+a crowd
+a crowd
+a building
+a building
+a crowd
+a crowd
+a crowd
+a man
+a man
+a man
+a shaved head
+a shaved head
+a face
+glasses
+white pants
+white pants
+white pants
+a man
+a fence
+a fence
+a white helmet
 a bench
-a store
-a store
-a store
-a man
-a man
-a man
-a black shirt
-a white shirt
-a white shirt
-a car
-a cart
-a car
-a car
-a street
-a white shirt
 a man
 a man
 a man
 a man
-a red and black skirt
-a sign
-a guitar
-a black shirt
-a black shirt
-a black shirt
-a black shirt
+a man
+blue jeans
+a skateboard
+a skateboard
+shorts
 a man
 a man
-a sign
-a man
-a man
-a man
-a fishing pole
-a fishing pole
-a large blue sky
-the water
-the water
-the water
+his head
 a backpack
 a man
 a man
 a man
+a street
+a street
+a man
+a building
+a building
+a building
+a shaved head
+a wall
+his cellphone
+his cellphone
+a street
+a group of people
+a man
+a blue shirt
+a woman
+a crowd
+a crowd
+a crowd
+a crowd
+a man
+a man
+a man
+a man
+a man
+a blue jersey
+a dirt bike
+a dirt bike
+a dirt bike
+a man
+a blue shirt
+a blue shirt
+a blue shirt
+a backpack
+a backpack
+a woman
+a woman
+a red shirt
+a woman
+a woman
+a street
+a street
+a street
+a man
+a man
+a man
+a man
+a white shirt
+a white shirt
+a table
+a table
+a table
+a table
+a table
+a blanket
+a blanket
+a table
+a table
+a table
+a table
+a table
+a table
+a table
+a table
+a table
+a table
+her toes of flowers
+her toes of toys
+sunglasses
+a glass
+a table
+a woman
+a woman
+a sidewalk
+a man
+a man
+a blue bag
+a black shirt
+the street
+the street
+a blue shirt
+a blue shirt
+a blue shirt
+a blue shirt
+a blue jacket
+a blue hat
+fruit
+a street
+a street
+a fruit stand
+a street
+a man
+a red shirt
+a man
+a man
+a man
+a man
+a man
+the street
+the street
+a woman
+a crowd
+a crowd
+a crowd
+a white shirt
+a cowboy hat
+a street
+a street
+a man
+a hat
+a group of people
+a group of people
+a group of people
+a sidewalk
+a man
+a sign
+a woman
+a woman
+a woman
+a chair
+a chair
+a woman
+a woman
+a woman
+her head
+a camera
+a blue shirt
+a woman
+a blue shirt
+the street
+the street
+a woman
+a woman
+a woman
+the water
+the water
+a window
+a window
+a mirror
+a stone wall
+a stone wall
+a stone wall
+a stone wall
+a pile of leaves
+a cart
+a man
+a man
+a man
+a green shirt
+a green shirt
+sunglasses
+a building
+a woman
+a blue dress
+a blue dress
+a blue dress
+a hat
+a hat
+a hat
+a woman
+a woman
+a woman
+a woman
+a man
+a blue shirt
+a blue and white field
+a woman
+a large sign
+a large sign
+a large sign
+the ocean
+the ocean
+a white dress
+a white dress
+a cart
+a man
+a man
+a hammer
+a cigarette
+his mouth
+a man
+a man
+a woman
+a building
+a building
+a man
+a man
+a man
+a woman
+a woman
+a store
+a man
+a woman
+a sidewalk
+a sidewalk
+a man
+a name tag
+a blue shirt
+a blue shirt
+a woman
+a woman
+his lap
+a bed
+a room
+a building
+a building
+a building
+a building
+a building
+a woman
+a ball
+a ball
+a ball
+a ball
+a blue shirt
+a blue shirt
+a blue shirt
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a black helmet
+a black helmet
+sunglasses
+a chair
+a white shirt
+a skirt
+a skirt
+a man
+a chair
+his hand
+a woman
+a woman
+a woman
+a woman
+a man
+a man
+a man
+a man
+a bucket
+a bucket
+a bucket
+a bucket
+a man
+a man
+the street
+a woman
+a woman
+a red collar
+a red collar
+a red collar
+a woman
+a red umbrella
+a red umbrella
+a red umbrella
+a red umbrella
+a woman
+a woman
+a red collar
+a boy
+a boy
+a boy
+a green jacket
+a green jacket
+a boy
+a boy
+a child
+a boy
+a backpack
+a backpack
+a green jacket
+a doorway
+a doorway
+a doorway
+a boy
+a table
+a table
+a table
+a table
+a man
+his hands
+a man
+a man
+a man
+a game
+a game
+a woman
+a black shirt
+a woman
+her leg
+a black and white striped shirt
+a black shirt
+a red hat
+a red hat
+a red hat
+a red hat
+her hand
+the street
+the street
+a peace sign
+a black shirt
+a black tank top
+jeans
+a red hat
+a man
+a man
+a man
+a field
+a field
+a field
+a blanket
+a girl
+a girl
+a girl
+a pink jacket
+her hair
+a woman
+a woman
+a black jacket
+a stage
+a building
+a building
+a bag
+a man
+a man
+a man
+a man
+a restaurant
+a restaurant
+a man
+a woman
+a woman
+a woman
+a colorful outfit
+a red and white striped shirt
+a woman
+a woman
+her face
+a red belt
+a red belt
+a woman
+a man
+a man
+a man
+a sidewalk
+a yellow vest
+a yellow vest
+a man
+a man
+a man
+a man
+a man
+a hat
+a hat
+a hat
+a UNK
+a white house
+a plaid shirt
+a woman
+a hat
+a woman
+a woman
+a woman
+a large sign
+a bed
+a truck
+a train
+a truck
+a truck
+a truck
+the street
+the street
+the street
+a building
+a machine
+a machine
+a machine
+a woman
+a woman
+blond hair
+blond hair
+a purple shirt
+a purple shirt
+a purple shirt
+a black top
+a black top
+her neck
+her neck
+her neck
+her neck
+her neck
+her hand
+a woman
+a woman
+a woman
+a woman
+a woman
+a fence
+a fence
+a fence
+a fence
+a fountain
+a man
+a man
+a man
+a man
+a man
+the beach
+a blue hat
+a blue hat
+a blue hat
+a blue shirt
+a blue shirt
+jeans
+the beach
+the water
+the water
+the water
+a fence
+a fruit stand
+a park
+a building
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a brown dog
+a brown dog
+a brown dog
+a man
+the grass
+a man
+a man
+a man
+a man
+a man
+a red hat
+a red hat
+a red hat
+a skateboard
+a skateboard
+a skateboard
+jeans
+blue shorts
+a boat
+a boat
+a black dress
+a black dress
+a black jacket
+a black jacket
+a scarf
+a scarf
+a scarf
+a black tie
+a skirt
+sunglasses
+sunglasses
+a street
+a street
+a street
+black pants
+a building
+a building
+a building
+a building
+a building
+a building
+a railing
+a railing
+a man
+a man
+a table
+his head
+a white skirt
+a table
+a table
+a table
+a table
+a man
+a man
+a white shirt
+a man
+a man
+a man
+a man
+a railroad
+a railroad
+a woman
+a woman
+a bridge
+a bridge
+a white shirt
+black pants
+a woman
+a man
+her cellphone
+her cellphone
+her cellphone
+a stone wall
+a black jacket
+a man
+a man
+a man
+a horse
+a horse
+a calf
+a calf
+a calf
+a woman
+a red shirt
+a bridge
+a pole
+a red shirt
+a man
+a man
+a red shirt
+a hand
+a baby
+a baby
+a baby
+a baby
+a baby
+a yellow shirt
+a yellow shirt
+a yellow shirt
+his eyes
+a pool
+a bowl
+a bowl
+a bowl
+a child
+a yellow shirt
+his hand
+a child
+a slide
+a slide
+a slide
+a man
+a man
+a man
+a man
+a sign
+a sign
+a sign
+a sign
+a man
+a man
+a ladder
+a black shirt
+a hammer
+a hammer
+a wall
+a wall
+a wall
+a black hat
+a building
+a building
+a hammer
+a man
+a man
+a man
+a man
+sunglasses
+black hat
+black hat
+a black shirt
+a bench
+a bench
+a bench
+a bench
+a building
+a black jacket
+a black shirt
+a man
+a man
+a man
+a bike
+a bike
+a ladder
+a man
+a man
+a woman
+a woman
+a blue jacket
+a blue jacket
+a blue jacket
+a street
+a window
+blue shorts
+a hat
+a man
+a man
+jeans
+a blue bag
+a wall
+a wall
+a cellphone
+a cellphone
+a shaved head
+a store
+a store
+a store
+a store
+a bag
+a cigarette
+his head
+a shaved head
+a sign
+a bench
+a store
+a store
+a store
+a man
+a man
+a man
+a black purse
+a blue hat
+a blue hat
+a motorcycle
+a motorcycle
+a motorcycle
+a motorcycle
+a sidewalk
+a blue shirt
+a man
+a man
+a man
+a man
+a UNK
+a UNK
+a drum
+a black jacket
+a black jacket
+a black jacket
+a black jacket
+a black jacket
+a black jacket
+UNK
+a man
+a man
+a man
+the water
+the water
+a cloudy sky
+a river
+a river
+a river
+a surfboard
+a bench
+a bench
+a bench
 a man
 a man
 a sign
@@ -7298,121 +7298,121 @@ a sign
 a black jacket
 black pants
 a sign
-a man
-a mustache
-a black and white jacket
-a black and white jacket
-a black backpack
-a person
-a black and blue umbrella
-a black dog
-a black dog
-a black dog
-a red cart
-a black umbrella
-a man
-a street
-a man
-a man
-a man
-a man
-a man
+a sidewalk
+glasses
+a woman
+a woman
+a scooter
+a motorcycle
+a flower
+a flower
+a flower
+a flower
+a cart
+a fire
+a black jacket
+a sidewalk
+a woman
+a woman
+a woman
+a woman
+a woman
 glasses
 a yellow shirt
 a yellow shirt
 a yellow shirt
 a bag
-a black shirt
+a woman
 a bag
 a man
-a graffiti covered wall
-a graffiti covered wall
-a graffiti covered wall
-a stone wall
-a stone wall
-a stone wall
-a black shirt
-a black and white striped shirt
-a blue hat
-a blue hat
-a blue and white umbrella
-a blue and white umbrella
-a blue motorcycle
-a blue motorcycle
-a woman
-a woman
-a sidewalk
-a black and white dog
-a black and white dog
-a ball
-a ball
-a ball
-a ball
-a ball
-a man
-a man
-a man
-a red and white helmet
-a red and white helmet
-a red and white helmet
-a red and white helmet
-a red and white helmet
-a blue and white striped ramp
-a ramp
-a dog
-a dog
-a window
-the street
-the street
-a woman
-a woman
-a dog
-a sidewalk
-a sidewalk
-a white and blue striped shirt
 a wall
-a fruit stand
-a fruit stand
-a large amount of smoke
-a food stand
+a wall
+a wall
+a fountain
+a rock
+a rock
+a woman
+a woman
+a blue hat
+a blue hat
+a bag
+a bag
+a bike
+a bike
+a woman
+a woman
+a skateboard
+a black and white dog
+a field
+a ball
+a ball
+a ball
+a ball
+a ball
+a helmet
+a helmet
+a helmet
+a helmet
+a helmet
+a helmet
+a helmet
+a helmet
+the UNK
+the UNK
+a dog
+a dog
+a building
+a building
+a building
 a man
 a man
-a fruit stand
+a dog
+a sidewalk
+a building
+a trashcan
+a building
+a table
+a table
+a display of food
+a display of food
+a man
+a man
+vegetables
 a woman
 a woman
 glasses
 a blue shirt
+a blue shirt
+a knife
+a woman
+a woman
+a woman
+a woman
+a woman
+a UNK
+a striped shirt
+a striped shirt
+a picture
+a picture
+a book
+a man
+a man
+a man
+a man
+a white shirt
+a white shirt
+a white shirt
+a white shirt
+a woman
+a woman
+a woman
 a black shirt
-a glass of wine
-a young girl
-a young girl
-a young girl
-a young girl
-a young girl
-a camera
-a pink shirt
-a pink shirt
-a small child
-a small child
-a small object
-a man
-a man
-a man
-a man
-a white shirt
-a white shirt
-a white shirt
-white shorts
-a woman
-a white shirt
-a woman
-a black tank top
-a black tank top
-a black tank top
+a black shirt
+a black shirt
 her eyes
-a red shirt
-a blond hair
-a lake
+a red belt
+short hair
+the street
 a woman
 a woman
 a woman
@@ -7421,25 +7421,25 @@ a woman
 a woman
 a sidewalk
 a sidewalk
+a man
+a man
+a man
+a man
+a man
 a woman
-a white jacket
-a white jacket
-a white shirt
-a white shirt
-a blue scarf
-a white shirt
-a white scarf
-a blue hat
-a red shirt
+a woman
+a woman
+a hat
+a woman
 a street
-a red and black outfit
-a red and black outfit
-a red and black outfit
 a man
 a man
-a man
-a man
-a man
+a red and yellow uniform
+a crowd
+a crowd
+a crowd
+a crowd
+a crowd
 a street
 a white shirt
 a white shirt
@@ -7448,150 +7448,150 @@ a white shirt
 a white shirt
 a white shirt
 a white shirt
-a black hair
+short hair
 a man
 a man
-a white bag
-a white bag
-a white bag
-a crowd of people
-a man
+a chair
+a chair
+a chair
+a crowd
+a chair
 a black hat
+a book
+a man
+a man
+a man
+a woman
+a man
+a man
+a man
+a black dress
+a man
+a microphone
+her head
+black hair
+black hair
+a man
+a man
+a yellow shirt
+his hand
+a shaved head
+a woman
+a woman
+a striped shirt
+a striped shirt
+a cart
+a cart
+a bike
+a bike
+a bike
+a bike
+a car
+a car
+a restaurant
+a restaurant
+a restaurant
+a woman
+a woman
+a woman
+a woman
+a woman
+a ball
+a ball
+a ball
+a woman
+a man
+a man
+a man
+short hair
+a white bird
+a white bird
+a white bird
+a white bird
+a black shirt
+a water fountain
+a water fountain
+a man
+a black shirt
+a bike
+a bike
+a bike
+a young boy
+a young boy
+a young boy
+a young boy
+a woman
+a woman
+a woman
+a table
+a table
+a man
+a table
+a bowl
+a table
+a bike
+a bike
+a street
+a street
+a street
+a man
+a man
+a blue shirt
+a man
+a woman
+a man
+a man
+a man
+a lake
+a lake
 a bench
 a man
 a man
 a man
 a man
-a woman
 a man
-a man
-a woman
-a man
-a microphone
-his head
-a ponytail
-a ponytail
-a man
-a man
-a white hat
-his hands
-a UNK face
-a woman
-a woman
-a black and white striped shirt
-a black and white striped shirt
-a street
-a street
-a construction vehicle
-a construction vehicle
-a construction vehicle
-a construction vehicle
-a car
-a car
-a crowd of people
-a crowd of people
-a crowd of people
-a woman
-a woman
-a woman
-a woman
-a woman
-a ball
-a ball
-a ball
-a woman
-a man
-a man
-a man
-her head
-a white object
-a white object
-a white object
-a white object
-a green shirt
-the water
-the water
-a man
-a blue shirt
-a bike
-a bike
-a bike
-a young boy
-a young boy
-a young boy
-a young boy
-a man
-a man
-a man
-a food cart
-a food cart
-a man
-a food cart
-a meal
-a food cart
-a bike
-a bike
-a street
-a street
-a street
-a man
-a man
-a blue shirt
-a man
-a child
-a man
-a man
-a man
-a body of water
-a body of water
-a construction worker
-a young man
-a young man
-a young man
-a young man
-a young man
 a man
 a man
 a man
 a red nose
+a woman
+a boat
+a snowy hill
 a man
-a hill
-the snow
 a man
 a man
-a man
-a black suit
-a black suit
+a suit
+a suit
 tie
-a black and white striped shirt
+a book
 a woman
 a woman
 a woman
 a woman
 a woman
-a cake
+a table
 a man
 a man
 a man
-a group of people
 a man
-a street
-a street
-a skateboard
+a wall
 a man
 a man
-a skateboard
-a black belt
+a stick
+a man
+a man
+a pole
+a hand
 a woman
-a ponytail
+long hair
 glasses
-a large bowl of food
-a large bowl of food
-a large bowl of food
-a large bowl of food
-a large bowl of food
-his hand
-a basket
+a green shirt
+a green shirt
+a green shirt
+a green shirt
+a green shirt
+a UNK
+a green UNK
 a man
 a man
 a man
@@ -7605,506 +7605,506 @@ a man
 a man
 a man
 a man
+a man
+a cigarette
+a sink
+a man
+a man
+a man
+a woman
 a black shirt
-glasses
 a piece of paper
-a woman
-a woman
-a woman
+a grill
+a grill
 a man
-a black shirt
-a meal
-a table
-a table
-a woman
-a baby
-a baby
-a baby
-a baby
-a baby
-a baby
-a baby
-a baby
-a bike
-a bike
-a bike
-a man
-a blue helmet
-a blue helmet
-a red shirt
-a man
-a man
-a man
-a man
-a blue shirt
-a bike
-a dirt ramp
 a child
 a child
-a child
-a red hat
-a red hat
-a red hat
-a red hat
-a little girl
-a little girl
-a little girl
-a large snowball
-a large snowball
-a large snowball
-a large snowball
-a large snowball
+a baby
+a baby
+a baby
+a baby
+a baby
+a baby
+a bike
+a bike
+a bike
+a man
+a helmet
+a helmet
+a snowboard
+a man
+a blue jacket
+a blue jacket
+a blue jacket
+a blue jacket
+a bike
+a mountain
+a baby
+a baby
+a baby
+a hat
+a hat
+a hat
+a hat
+a baby
+a baby
+a blanket
+a swing
+a swing
+a swing
+a swing
+a swing
 a man
 a man
 a man
-a red truck
-a red truck
-a red truck
-a red truck
-a red truck
+a train
+a train
+a train
+a train
+a train
 a man
-red pants
-a woman
-a woman
-a woman
-a woman
-a book
-a book
-a woman
-a table
-a young boy
-a young boy
 red
-a young boy
-a young boy
-a ball
-a soccer ball
-a soccer ball
-a red shirt
-a young boy
-a blue shirt
-a blue and red snowsuit
-a girl
-a young girl
-a young boy
-a large inflatable slide
-a large inflatable slide
-a large bubble
-a large bubble
-a tree
-a black and white dog
-a black and white dog
-a black and white dog
-a black and white dog
-a large tree
-a large black and white dog
-a large black and white dog
-a man
-a man
-a man
-a man
-a woman
-a woman
-a microphone
-a guitar
-a guitar
-a woman
-a snow covered hill
-a snow covered hill
-a person
-a snowy hill
-a snowy hill
-a large group of people
-a building
 a woman
 a woman
 a woman
-a ladder
-a ladder
-a ladder
-a large painting
-a black jacket
-a little girl
-a little girl
-a little girl
-a yellow and white striped shirt
-a plastic cup
-a plastic cup
-a plastic cup
-a baby
-a ponytail
-a baby
-a baby
-a drink
-a wall
-a wall
-a wall
-a wall
-glasses
-glasses
-glasses
-a red cup
-a snowboarder
-a snowboarder
-a snowboarder
-a snowboarder
-a snowy hill
-a snowboarder
-a white and black dog
-a white and black dog
-a white and black dog
-a white dog
-a man
-a black and white skirt
-a blue shirt
-a rope
-a white and white dog
-a white dog
 a woman
-a man
-a man
-a man
-her hair
-her hair
-a microphone
-a black shirt
-a man
-a man
-a woman
-a large piece of paper
-a large piece of paper
-a large piece of paper
-a large piece of paper
-a white apron
 a white hat
-a piece of paper
-a book
+a white hat
+a woman
+a chair
+a girl
+a girl
+red
+a red and white uniform
+a red and white uniform
+the ball
+a soccer ball
+a soccer ball
+red
+a boy
+a white shirt
+a fence
+a swing
+a large net
 a man
-a hand
-a man
+a fence
+a fence
+a swing
+a slide
+a large net
+a black and white dog
+a black and white dog
+a black and white dog
+a black and white dog
+a field
+the grass
+the grass
+a woman
+a woman
+a woman
+a woman
+a woman
+a large black and white UNK
+red hair
+a guitar
+a guitar
+a large black and white guitar
+a mountain
+a mountain
+a skier
+a snow covered hill
+a snow covered hill
+a group of people
 a building
-a building
-a building
+a white wall
+a white wall
+a white wall
+a wall
+a wall
+a wall
+a UNK
+a black shirt
+a woman
+a woman
+a woman
+a flowered shirt
+a plate
+a plate
+a meal
+a red bowl
+her head
+a baby
+a baby
+a glass
+a mirror
+a mirror
+a mirror
+a mirror
+glasses
+glasses
+glasses
+a cigarette
 a man
-a house
-a building
-a building
 a man
 a man
 a man
-a man
-a red and white mask
-a red and white arrow
+a snowy mountain
 a man
 a man
-a man
-a man
-a man
-a microphone
-a microphone
-a stage
-a stage
-a conference
 a white shirt
 a man
+a white dog
 a man
-a man
-a white beard
-a white beard
-a man
-a large rock
-a large rock
-a blue jacket
-a blue jacket
-a blue jacket
-a blue jacket
-a blue jacket
-a blue hat
+a pink purse
+a brown shirt
+a leash
+a white and yellow dog
+a white and white dog
 a woman
 a woman
 a woman
 a woman
-a woman
-a woman
-a skateboard
-a green shirt
-a green shirt
-a bike
-a blue sky
-a blue sky
-a red and white truck
-a large knife
-a large knife
-a large knife
-a large knife
-a young man
-a woman
-a drink
-a drink
-a drink
-a spoon
-a woman
-a man
-a man
-a man
-a man
-a man
-a woman
-a tripod
-a tripod
-a rope
-a man
-a man
-a man
-her cellphone
-a woman
-a blue shirt
-a blue shirt
-a blue shirt
-a blue board
-a blue board
-a blue board
-a man
-a man
-a man
-a hat
-a hat
-a hat
-glasses
-a man
-a black suit
-a black suit
-a black suit
-a black suit
-a black suit
-a black suit
-a man
-a man
-a red and white outfit
-a red and white outfit
-a red and white striped jacket
-a red jacket
-a red jacket
-a red vest
-a store
-a store
-a street
-a street
-a street
-a red jacket
-a woman
-long hair
-a woman
-a woman
-a woman
-a chair
-a sidewalk
-a blue shirt
-long hair
-a chair
-a cellphone
-a woman
-a woman
-a man
-a man
-a man
-a man
-a truck
-a truck
-a yellow shirt
-a young girl
-a young girl
-a young girl
-a young girl
-a red and white shirt
+blond hair
+blond hair
 a microphone
-a volleyball
-a volleyball
-a volleyball
-a game
-a bowling lane
-a man
-a man
-a man
-a man
-a man
-a window
-a window
-a window
-a wall
-a man
-a baseball player
-a baseball player
-a blue uniform
-a blue uniform
-a baseball player
-a ball
-the base
-a baseball player
-a red helmet
-a baseball player
-a red jacket
-a red jacket
-a red jacket
-a red jacket
-a red jacket
-a red jacket
-a wheelbarrow
-a path
-a woman
-a woman
-a woman
-a woman
-a woman
-a black shirt
-a black shirt
-a black shirt
 a black shirt
 a man
 a man
 a man
-a white and brown dog
-a white and brown dog
+a fire
+a fire
+a fire
+a fire
+a white shirt
+a light
+a large knife
+a box
 a man
+a water bottle
 a man
-a man
-a man
-a man
-a man
-a man
-a young boy
-a young boy
-a man
-a man
-a woman
-a woman
-a man
-a man
-a UNK UNK
-a man
-a blue jacket
-a brown jacket
-a brown jacket
+a building
+a building
 a building
 a man
+a christmas tree
+a building
+a building
 a man
+a guitar
 a man
-a man
-a man
-a table
-a table
-a woman
-a woman
-a woman
-a woman
-her hand
-a woman
-a woman
-a green shirt
-a woman
+a guitar
+a microphone
+a microphone
 a man
 a man
 a man
 a man
 a man
-a man
-a man
-black shorts
+a microphone
+a microphone
+a red guitar
+a red guitar
+a stage
 a black shirt
-a cart
-her head
-her head
-a cart
-a red car
-a red car
-a cart
-a bicycle
-a woman
-a yellow shirt
-a table
-a large piece of paper
-a person
-a person
 a man
-a man
-a snowy hill
-a snowy hill
-a snowy hill
-a snowy hill
-a snowy hill
-a mountain
-a black ski
-a woman
-a red and white outfit
-a red and white outfit
-a red and white outfit
-a red and white outfit
-a red and white outfit
-a red and white outfit
-a red shirt
-a red shirt
-the water
-the water
 a man
 a man
 sunglasses
-a red bathing suit
-a red shirt
-a truck
-a truck
-a man
-a truck
-a truck
-a truck
-a man
-a man
-a man
-a man
-a man
-a gray jacket
-a gray jacket
-a gray jacket
-a man
-a man
-a man
-a hat
-a book
-a plaid shirt
-a man
-a man
-a man
+sunglasses
 a rope
-a body of water
+a rope
+a rope
+a blue dress
+a blue dress
+a blue dress
+a blue dress
+a blue dress
+a blue hat
+a woman
+a child
+a child
+a child
+a child
+a child
+a red and yellow jacket
+a green shirt
+a green shirt
+a tree
+a tree
+a tree
+a yellow umbrella
+a grill
+a grill
+a grill
+a grill
 a man
-a pool
-the water
+a man
+food
+food
+food
+a UNK
+a man
+a man
+a man
+a man
+a man
+a man
 a woman
+a chair
+a chair
+a chair
+a man
+a man
+a man
+a cellphone
 a woman
-a woman
-a straw hat
-a straw hat
-a straw hat
-a straw hat
-a garden
-a garden
-a white shirt
-a large pile of hay
-a young boy
-a young boy
-a young boy
-a young boy
-a young boy
-a bubble
-a blue and white ball
-a blue and white ball
-a blue and white ball
-a blue and white ball
-a little boy
+a blue shirt
+a blue shirt
+a blue shirt
+a blue mat
+a table
+a table
+a man
+a man
+a man
+a hat
+a hat
+a hat
 glasses
-a blue glasses
-a blue and white beard
-a blue and white beard
-a blue glasses
+a woman
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a red jacket
+a red jacket
+a red jacket
+a red jacket
+a red jacket
+a red backpack
+a store
+a store
+a sidewalk
+a sidewalk
+a sidewalk
+a red jacket
+a man
+brown hair
+a woman
+a woman
+a woman
+a chair
+the street
+a green shirt
+brown hair
+a chair
+a cigarette
+a woman
+a woman
+a man
+a man
+a man
+a man
+a truck
+a truck
+a backpack
+a man
+a man
+a man
+a man
+a black jersey
+a ball
+a ball
+a ball
+a ball
+a green mat
+a green mat
+a man
+a man
+a man
+a man
+a man
+a window
+a window
+a window
+a window
+a white shirt
+a baseball player
+a baseball player
+a blue uniform
+a blue uniform
+a baseball player
+the football
+a track
+a baseball player
+a red helmet
+white pants
+a red jacket
+a red jacket
+a red jacket
+a red jacket
+a red jacket
+a red jacket
+a sidewalk
+a path
+a man
+a man
+a man
+a man
+a man
+a white shirt
+a white shirt
+a microscope
+a microscope
+a man
+a man
+a man
+a bull
+a white dog
+a fence
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a sign
+a blue uniform
+a man
+a man
+a man
+a building
+a man
+a man
+a woman
+a woman
+a woman
+a stage
+a stage
+a woman
+a woman
+a woman
+a woman
+his hand
+a blue shirt
+a blue shirt
+a blue shirt
+a blue shirt
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+black pants
+a black shirt
+a car
+his head
+his head
+a red toy car
+a cart
+a red car
+a street
+a cart
+a woman
+a green shirt
+a table
+a meal
+a man
+a man
+a man
+a man
+a snowy hill
+a snowy hill
+a snowy hill
+a snowy hill
+a snowy hill
+a man
+his hand
+a woman
+a woman
+a red dress
+a red dress
+a red dress
+a woman
+a woman
+a red jacket
+a red jacket
+the water
+the water
+a man
+a man
+glasses
+his lap
+his arm
+a truck
+a truck
+a man
+a truck
+a truck
+a truck
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a blue jacket
+a man
+a man
+a man
+a hat
+a cellphone
+a blue jacket
+a man
+a man
+a man
+a blue surfboard
+the sky
+a man
+the water
+the water
+a man
+a man
+a man
+a cowboy hat
+a cowboy hat
+a cowboy hat
+a cowboy hat
+a field
+a field
+a white shirt
+a field
+a child
+a child
+a child
+a child
+a child
+a blue bowl
+a blue nose
+a blue nose
+a blue nose
+a blue nose
+his face
+a blue mustache
+a blue mustache
+a blue mustache
+a blue mustache
+a blue mustache
 a bike
 a bike
 a bike
@@ -8114,128 +8114,128 @@ a man
 a man
 a white shirt
 a white shirt
-a young boy
-a young boy
-a young boy
-a young boy
-a young boy
-a small child
-a small child
-a small child
-a small child
-a small child
+a boy
+a boy
+a boy
+a boy
+a boy
+a pillow
+a pillow
+a pillow
+a white wig
+a white wig
 a man
 a man
 a man
 a man
 a hat
+jeans
+a blue shirt
+a blue shirt
 a bench
-a blue shirt
-a blue shirt
-blue jeans
-blue jeans
-a blue shirt
-a large knife
-a large metal object
-a large metal structure
-a black jacket
-a black jacket
+a bucket
+a white shirt
+fire
+a grill
+a building
+a man
+a man
+a rock
+a rock
+the water
+a man
+a rock
 a mountain
-a mountain
-a mountain
-a black jacket
-a rocky path
-a mountain
-a red and black striped shirt
-a red and black striped shirt
-a red and black striped shirt
-a red and black striped shirt
-a red and black striped shirt
-a red shirt
-a red shirt
-a plate
-a hammer
-a red object
-a blue uniform
-a blue uniform
-a blue uniform
-a football player
-a football player
-a football player
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a microphone
+a yellow object
+a toy
+a man
+a man
+a man
+the ball
+the ball
+the ball
 the field
 a man
 a man
 a man
-a blue jacket
+a man
 a green jacket
-a blue jacket
-a blue jacket
 a green jacket
-a blue car
+a green jacket
+a green shirt
+a green UNK
 a man
 a man
-a person
-a street
-a street
-a blue scooter
+a man
+the street
+the street
+a bike
 a car
-a black bag
-a red shirt
-a red shirt
-a red shirt
-a red shirt
-a red shirt
-a red shirt
-a red shirt
-a red shirt
+a scooter
+a man
+a white uniform
+a soccer player
+a soccer player
+a soccer player
+a white shirt
+a white shirt
+a white shirt
 a soccer ball
-a soccer field
+a field
 a girl
 a girl
 a girl
-a cigarette
-a cigarette
-a red and white outfit
-a red shirt
-a red and white outfit
+sunglasses
+sunglasses
+a girl
+a girl
+a girl
 shorts
 a UNK
-a green field
-a tree
-a sidewalk
-a sidewalk
-a skateboard
-a red helmet
+a forest
+trees
+a street
+a street
+a green mat
+his head
 a man
 a man
+a red uniform
+a red uniform
+a man
+a red uniform
+a blue uniform
+a blue uniform
+a blue uniform
 a football player
-a man
-a football player
-a football player
-a white uniform
-a white uniform
-a white jersey
-a football player
-a couch
-a couch
-a couch
-a man
-a woman
-a man
 a woman
 a woman
+a woman
+a man
+a man
+a man
+a man
+a man
 a microphone
 a microphone
-a woman
-a black shirt
+a man
+a beard
 a guitar
-a girl
-a girl
-a girl
-a red helmet
-a pink and white dress
-white shorts
-a window
+a woman
+a woman
+a woman
+a red hat
+a white shirt
+black shorts
+a train
 a man
 blue shirt
 a window
@@ -8243,159 +8243,159 @@ a window
 a blue shirt
 a motorcycle
 a motorcycle
+a motorcycle
+a track
+shorts
+shorts
+shorts
 a man
-a road
-a woman
-a woman
-a woman
-a woman
+black pants
 a blue shirt
-a blue shirt
-a brick wall
-a sidewalk
-a building
-a window
-a window
-a cellphone
-a white hat
-a hat
-a hat
-a street
-a man
-a man
-a man
-a man
-a blue shirt
-a blue shirt
-a man
-a man
-a street
 the street
-a track
-the field
-a football player
-a soccer player
-a sidewalk
-a sidewalk
-a man
-a man
-a man
-a black shirt
-a black shirt
-a black shirt
-a black shirt
-a woman
-a woman
-a tree
-a tree
-a sidewalk
-a sidewalk
-a black shirt
-a number
-a hand
-her face
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a woman
-a skateboard
-a skateboard
-a skateboard
-black shorts
-black shorts
-a black shirt
-a black shirt
-a large group of people
-a tree
-a tree
-a skateboard
-a skateboard
-a street
-a street
-a man
-a man
-a man
-a man
-a woman
-a woman
-a man
-a dock
-a lake
-a lake
-a lake
-a white pole
-a white pole
-a crowd
-a crowd
-a crowd
-a crowd
-a balcony
-a red wall
-a red wall
-a red wall
+the street
 a building
-a rail
-a large building
-a young girl
-a young girl
-a young girl
-a young girl
-a young girl
-a red and white dress
-a red and white dress
-a hat
-a red and blue ribbon
-a red and blue ribbon
-a red and blue ribbon
-a black jacket
-a black jacket
-a black jacket
-a black jacket
-a boat
-a river
-a boat
-a boat
-a black jacket
-a woman
-a man
+a door
+a door
 a cellphone
-a crowd
-a crowd
-a blue shirt
+a hat
+a hat
+a hat
+a street
+a white truck
 a man
-a young boy
-a field
-a woman
-a woman
-a woman
-a woman
-a woman
-a guitar
-a guitar
-a guitar
-a guitar
-a guitar
-a microphone
-a large group of people
-a large group of people
-a group of people
-a microphone
 a man
-a black and white striped shirt
-a brown shirt
-a brown shirt
-a meal
-a meal
+a man
+a yellow shirt
+a yellow shirt
+a man
+a man
+the street
+the street
+a street
+the field
+a soccer player
+a soccer player
+a street
+a street
+a man
+a man
+a man
+a yellow shirt
+a yellow shirt
+a yellow shirt
+black skirt
+a man
+a man
+a tree
+a tree
+a fence
+a fence
+a woman
+a UNK
+a cigarette
+her face
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a skateboard
+a skateboard
+a skateboard
+black shorts
+black shorts
 a black shirt
-a young man
-a young man
-a young man
-a red couch
-a red couch
-a red couch
+a black shirt
+trees
+a building
+a building
+a skateboard
+a skateboard
+a city
+a skateboard
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a ledge
+a lake
+a lake
+a lake
+a tree
+a pole
+a wall
+a wall
+a wall
+a wall
+a wall
+a wooden platform
+a wooden platform
+a wooden platform
+a wall
+the wall
+a wall
+a woman
+a woman
+a woman
+a woman
+a woman
+a red dress
+a red dress
+a hat
+a red flag
+a red flag
+a red flag
+a man
+a man
+a man
+a man
+a boat
+a boat
+a boat
+a boat
+a blue jacket
+a man
+a man
+his mouth
+a basketball court
+a basketball court
+a white shirt
+a referee
+a man
+the field
+guitar
+guitar
+guitar
+guitar
+guitar
+guitar
+guitar
+guitar
+guitar
+guitar
+a microphone
+a group of people
+a group of people
+a crowd
+a beard
+a black shirt
+his hands
+his hands
+his hands
+a bowl
+a bowl
+a black shirt
+a man
+a man
+a man
+a red curtain
+a red curtain
+a red curtain
 a baby
 a baby
 a baby
@@ -8404,18 +8404,18 @@ a blue shirt
 a blue shirt
 a blue shirt
 a blue shirt
-a toy
-a picture of a woman
-a picture of a woman
+a baby
+a building
+a window
 a man
-a young girl
-a blue shirt
+a child
+a green shirt
+a UNK
+a cart
+a woman
 a man
-a box of food
-a young girl
 a man
-a man
-a black hat
+a cat
 food
 food
 food
@@ -8428,297 +8428,297 @@ a man
 a blue shirt
 jeans
 a skateboard
-a brick wall
-a brick wall
-a brick wall
-a brick wall
-a wooden bench
-a sign
-a white surfboard
+a wall
+a building
+a building
+a building
+a ladder
+UNK
+a plane
 the water
-a lake
 the water
-a large body of water
-a large body of water
-a large sky
-a large body of water
-a white surfboard
-a black wetsuit
-a man
-a large white and blue sky
-a large white and blue sky
-a black hat
-a black hat
-a white shirt
-a white shirt
-white pants
+the water
+sunset
+sunset
+sunset
+sunset
+a body of water
+a black and white dog
+a white and yellow dog
+the sun
+the sun
+a black and white dog
+a black and white dog
 a man
 a man
-a black dress
 a man
-a stage
-a white and red shirt
+a man
+a man
+a black suit
+a man
+the street
+a white and blue jersey
 a field
 a field
-a race car
-a young girl
-a young girl
-a young girl
-a young girl
-a red jacket
-a red jacket
-a snow covered mountain
-a snow covered mountain
-a snow covered mountain
+the grass
+a skier
+a skier
+a skier
+a skier
+a blue jacket
+a blue jacket
 a snow covered hill
 a snow covered hill
-a snow covered mountain
-a snow covered mountain
 a snow covered hill
-a man
-a man
-a man
-a man
-a black shirt
-a black shirt
-a man
-a man
-a man
-a man
-a white shirt
-jeans
-a cigarette
-a piece of paper
-a piece of paper
-a piece of paper
-a piece of paper
-a woman
-a room
-a woman
-a table
-a table
-a blue shirt
-a man
-a man
-a man
-a man
-a blue shirt
-a blue shirt
-a blue shirt
-a man
-a white hat
-a white cap
-a microphone
-a microphone
-a man
-a man
-a microphone
-a young girl
-a young girl
-a young girl
-a young girl
-a rock
-a rock
-a computer screen
-a piece of wood
-a piece of wood
-a pool
-a microscope
-a man
-a man
-a man
-a man
-a man
-a bike
-a bike
-a bike
-a bag
-a blue helmet
-a blue helmet
-a violin
-a computer
-a computer
-a computer
-a computer
-a man
-a man
-a man
-a man
-a blue ball
-a blue ball
-a blue ball
-a blue shirt
-a white hat
-a blue shirt
-a dress
-a dress
-a woman
-a woman
-a woman
-black
-black
-a path
-a man
-a man
-a blue shirt
-a motorcycle
-a motorcycle
-a motorcycle
-a motorcycle
-a motorcycle
-a motorcycle
-a camera
-a snowy hill
-a person
-a person
-a red helmet
-a snowy hill
+snow
+snow
 a snowy mountain
-a football player
-a football player
-a football player
-a soccer ball
+snow
+snow
+a man
+a man
+a man
+a man
+a black shirt
+a black shirt
+a man
+a man
+a man
+a man
+white
+jeans
+his cellphone
+a blanket
+a blanket
+a blanket
+a blanket
+a man
+a man
+a man
 a table
 a table
-a pink shirt
+blue jeans
+a man
+a man
+a man
+a man
+blue jeans
+blue jeans
+blue jeans
+a man
+a beard
+a beard
+a beard
+a beard
+a woman
+a woman
+a microphone
+a child
+a child
+a child
+a child
+a microscope
+a microscope
 a UNK
-her hand
-a young girl
+a microscope
+a microscope
+a table
+a hammer
+a man
+a man
+a man
 a woman
-a young girl
-a blue scarf
+a man
+a bike
+a bike
+a bike
+a basket
+a blue helmet
+a blue helmet
+a computer
+a computer
+a computer
+a desk
+a desk
+a man
+a man
 a blue shirt
-a little girl
-a little girl
-a little girl
-a little girl
+a blue shirt
+a blue ball
+a blue ball
+a blue ball
+a blue shirt
+a hat
+a blue shirt
+a dress
+a dress
+a woman
+a woman
+a woman
+a black shirt
+a black shirt
+a sidewalk
+a man
+a man
+a white shirt
+a bike
+a bike
+a bike
+a bike
+a bike
+a bike
+a microscope
+a snowy mountain
+a skier
+a skier
+a snowball
+a snowy mountain
+a snowy mountain
+a man
+a man
+a man
+a ball
+a woman
+a woman
+a striped shirt
+her mouth
+a pink scarf
+a woman
+a woman
+a woman
+a scarf
+a green shirt
+a child
+a child
+a child
+a child
 a green bottle
-a red and white uniform
-a red and white uniform
-a red and white uniform
-a red and white uniform
-a red and white uniform
 a man
 a man
+a man
+a man
+a man
+a man
+a man
 a pole
 a pole
 a pole
-a red and white striped shirt
+a red shirt
+a red shirt
+a street
+a suit
+a man
+a man
+a white shirt
+a white shirt
+a window
+a man
+a man
+a table
+a window
+a window
+a skateboard
+a man
+a man
+a man
+a man
+a beard
+a beard
+a beard
+a mountain
+a mountain
+a mountain
+a man
+the snow
+the snow
+the snow
+a man
+a man
+a man
+the floor
+a woman
+a woman
+a green scarf
+a man
+a white shirt
+a fence
+a fence
+a girl
+a girl
+a girl
+a child s hand
+a child s hand
+a finger
+his mouth
+a child
+a child
 a red uniform
-a red track
-a man
-a man
-a man
-a white shirt
-a black shirt
-a window
-a man
-a black shirt
-a bed
-a window
-a window
-a red bench
-a man
-a man
-a man
-a man
-a microphone
-a microphone
-a microphone
-a man
-a man
-a man
-a camouflage uniform
-a blue and white snow
-a snowy hill
-a snowy hill
-a woman
-a woman
-a woman
-a bed
-a young girl
-a young girl
-a woman
-a man
-a white shirt
-a group of people
-a group of people
-a young girl
-a young girl
-a young girl
-her hand
-her hand
-her hand
-her hand
-a red scarf
-a red scarf
-a soccer player
-a soccer player
+a red uniform
 red
 red
 a soccer ball
 a soccer ball
+a referee
+a referee
+a referee
 a blue uniform
 a blue uniform
 a blue uniform
-a blue jersey
-a blue uniform
-a blue jersey
-a soccer player
+a red uniform
+a man
+a bike
 a man
 a man
 a man
-a man
-a man
-a red shirt
+a red and black uniform
 a bike
 a bike
-a female gymnast
-a female gymnast
-a female gymnast
-a red and white uniform
-a pink and white uniform
-a red and white uniform
-a red and white uniform
-a red and white uniform
+a woman
+a woman
+a woman
+red shorts
+red shorts
+red shorts
 red
 red
-a red and black belt
-a female athlete
-a female athlete
-a female gymnast
+red
+red
+a red belt
+a man
+a man
+a crowd
 a track
-a basketball
-a basketball
-a basketball
+the ball
+the ball
+the ball
 a basketball
 a red shirt
+a black shirt
 a red shirt
-a red shirt
-a black uniform
-a basketball player
-a basketball player
+a referee
+a referee
+a referee
 a man
 a man
-a white and black horse
-a white and black dog
-a white and black dog
-a jockey
-a jockey
-a jockey
-a blue and white striped shirt
+a white horse
+a man
+a man
+a man
+a man
+a man
+a blue and white jersey
+blue shorts
+a blue shirt
+a blue shirt
 a black and white uniform
-a blue shirt
-a blue shirt
-a black bag
 a man
 a man
 a man
 a blue shirt
 a blue shirt
 a man
-a young man
-a young man
+a man
+a man
 a man
 a blue shirt
 a table
@@ -8726,37 +8726,37 @@ a boat
 a boat
 a boat
 a boat
-a river
-a river
-a river
+the water
+a boat
+the water
 a street
 a street
 a flag
-a UNK
+a banner
 a crowd
 a man
 a man
 a man
-a haircut
-a street
-a black hat
-a black hat
-a black hat
-a black hat
+glasses
+a black shirt
+a UNK
+a UNK
+a UNK
+a UNK
 a man
 a man
 a man
 a man
 a man
-a guitar
+a black shirt
 glasses
 a microphone
 glasses
 a guitar
-a guitar
-a sidewalk
-a rock
-a rock
+guitar
+a child
+a concrete wall
+a concrete wall
 a construction site
 a construction site
 a man
@@ -8765,76 +8765,76 @@ a man
 a man
 a man
 a red hat
-a red hat
-a red hat
-a tractor
-a tractor
-a tractor
-a tractor
-a tractor
-a red car
-a track
+a hat
+a hat
+a green tractor
+a green tractor
+a green tractor
+a green tractor
+a green tractor
+a red dirt bike
+the road
 the water
 the water
 the water
-a drum
-a drum
-a drum
-a drum
-a drum
-a drum
-a drum
-a drum
-a drum
+drums
+drums
+drums
+drums
+drums
+drums
+drums
+drums
+drums
 a man
 a man
 a man
+a band
+a band
+a band
 a drum
-a drum
-a drum
-a drum
-a field
-a black hair
-a black hair
-a black hair
-a black hair
+the grass
+a brown shirt
+a brown shirt
+a brown shirt
+a brown shirt
 a man
 a man
-a bottle of water
-a bottle of water
-a hard hat
+a piece of wood
+a piece of wood
+a blue hat
 glasses
 a cigarette
-a woman
-a woman
-a woman
-a woman
+a bike
+a bike
+a bike
+a bike
 a street
 a street
 a street
+a white uniform
+a white uniform
+a white uniform
 a field
-a field
-a field
-a field
-a field
-a field
-a field
-a field
-a field
+a white uniform
+a white uniform
+a white uniform
+a white uniform
+a white uniform
 a field
 a field
 a man
-a white shirt
-a white shirt
-a white shirt
+a man
+a man
+a man
+glasses
+long hair
 a beard
-black hair
-a saxophone
-a saxophone
-a saxophone
-a saxophone
-a striped shirt
-a striped shirt
+a microphone
+a microphone
+a microphone
+a blue shirt
+a blue shirt
 a man
 a man
 a man
@@ -8848,55 +8848,55 @@ a bike
 a bike
 a ramp
 a ramp
-white
-white
-white
 a white dress
 a white dress
 a white dress
-a black skirt
-a white and brown dress
-a white and brown dress
-a white and brown dress
-a white and brown dress
-a red stuffed animal
-a red stuffed animal
-a red stuffed animal
-a white and brown dress
-a white and brown outfit
-a white and brown outfit
-a white and blue and white outfit
-a small boy
-a small boy
-a small boy
-a small boy
-a child
-a small child
-a small child
-a small child
-a wooden plank
-a wooden structure
-a wooden plank
-a hole
-a man
-a man
+a white dress
+a white dress
+a white dress
+black pants
 a woman
-a cyclist
-a cyclist
-a cyclist
-a cyclist
+a woman
+a woman
+a woman
+a red and white headband
+a red and white headband
+a red and white headband
+a white dress
+a woman
+a woman
+a white dress
 a man
 a man
+a man
+a man
+a man
+a man
+a man
+a man
+a rock
+a rock
+a rock
+a stick
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
+a man
 a bike
 a bike
 a bike
-a tennis ball
-a tennis ball
+a ball
+a ball
 a young boy
 a young boy
 a young boy
 a young boy
-a young boy
+a boy
 a man
 a man
 a man
@@ -8905,111 +8905,111 @@ a man
 a man
 a white hat
 a man
+a baby
+a child
+a child
+a pink and white shirt
+a yellow hat
+a yellow bubble
+a woman
 a man
-a little girl
-a little girl
-a girl
-a bubble
-a small white and red toy
+a UNK
 a young boy
-a blue shirt
-a drink
-a young boy
-a group of people
-a group of people
-a group of people
+a man
+a wall
+a blue wall
 a bike
 a man
-a bicycle
+a bike
 a man
 a man
 a man
 jeans
-a black shirt
-a black shirt
-a black shirt
+a gray shirt
+a gray shirt
+a gray shirt
 a sidewalk
 a man
 glasses
-a hand
+hand
 a man
 a man
-a guitar
-a man
-a black shirt
-a guitar
-a man
-a man
-a man
-white
-white
-a black and white dress
-a black shirt
-a black belt
-a black shirt
 a man
 a man
 a black shirt
-a microphone
 a man
-his eyes
-his eyes
-his eyes
-a black belt
-a black shirt
-a red and black shirt
-a red shirt
+a man
+a man
+a man
+white shorts
+white shorts
+black shorts
+a black ball
+his chest
+his chest
+a man
+a man
+a black and white uniform
+a black and white baseball cap
+a white shirt
+glasses
+glasses
+glasses
+a white and black belt
+black shorts
+a blue jersey
+a red belt
 a track
 a track
 a track
 a football player
-a soccer field
-a soccer field
-a soccer field
-the number
+the field
+the field
+the field
+the number UNK
 a table
 a table
 a table
 a table
 a table
-a young boy
-a young boy
+a girl
+a girl
 a child
 a child
-a little girl
-a little girl
-a little girl
-a red shirt
-a red dress
-a tattoo
-her hand
-a small girl
-a young boy
+a child
+a child
+a child
+a pink shirt
+a white dress
+her neck
+her neck
+a young girl
+a man
 a man
 a man
 a man
 a man
 a rock
-a rocky cliff
-a young girl
-a young girl
-a young girl
+a rock
+a woman
+a man
+a man
 a rock
 a rock
 a rock
 a rock
 jeans
 jeans
-a black jacket
-a rock
+a green and white shirt
+a mountain
 a man
 a man
 a man
 a man
 black shorts
-the sidewalk
-the sidewalk
-a building
+a sidewalk
+a sidewalk
+a green and yellow striped pole
 a woman
 a street
 a man
@@ -9022,63 +9022,63 @@ a woman
 a white shirt
 a sign
 a sign
-a large piece of paper
-a young girl
-a young boy
-a young boy
+a sign
+a child
+a child
+a child
 jeans
-a child
-a child
-a child
-a path
-a path
+a pink shirt
+a pink shirt
+a pink shirt
+a stone wall
+a stone wall
 a skateboard
 a skateboard
 a skateboard
 a skateboard
-a wooden structure
+a stone wall
+a dirt road
 a field
-a field
-a woman
-a woman
-a woman
-a funny face
-a bubble
-a bubble
-a red shirt
 a man
+a man
+a man
+brown hair
+a large bubble
+a large bubble
+a yellow shirt
+a man
+a man
+the street
+the street
+a large group of people
+a large group of people
+a large yellow UNK
 a woman
-a street
-a street
-a bus
-a bus
-a bus
-a young girl
-a young girl
-a young girl
-a young girl
+a woman
+a woman
+a woman
 blond hair
 glasses
 glasses
-a UNK
+a train
 a table
-a table
-a table
-a table
-a table
+a cart
+a woman
+a woman
+a woman
 a table
 a red shirt
-a red and white striped shirt
-a red and white striped shirt
-a red and white striped shirt
-a cigarette
-a young boy
-a red jacket
-a green door
-a green door
-a green door
-a green door
-the street
+a pink shirt
+a woman
+a woman
+a cellphone
+a child
 a man
-a man
-a young girl
+a green slide
+a green slide
+a green slide
+a green slide
+a sidewalk
+a pool
+a pool
+a child

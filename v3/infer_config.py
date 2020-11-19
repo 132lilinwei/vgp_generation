@@ -16,7 +16,7 @@ class myConfig(object):
     train_caption_path = "../caption/entity_dataset_train.json"
     val_caption_path = "../caption/entity_dataset_val.json"
 
-    g_model_path = "../models/good_attn_mask/g_after_supervised.pth"#"../models/entity_attn_only_supervised/g_after_supervised.pth" 
+    g_model_path = "../models/new_attn/g_supervised_epoch49.pth"#"../models/entity_attn_only_supervised/g_after_supervised.pth" 
     d_model_path = "" #../models/third_train_fixed/d_after_supervised.pth" 
     
     # To store the generated sentences
